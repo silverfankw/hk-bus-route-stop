@@ -1,11 +1,11 @@
-name: Release KMB route-stop data
+name: Release KMB and CTB route-stop data
 
 on:
   push:
     branches:
       - main
     paths:
-      - kmb_route_stop.json
+      - route_stop.json
   workflow_dispatch:
 
 permissions:
@@ -31,8 +31,8 @@ jobs:
         run: |
           tag_name="v$(TZ=Asia/Hong_Kong date '+%Y.%m.%d')"
           release_title="Release ${tag_name}"
-          release_notes="Automated release containing updated kmb_route_stop.json."
-          data_commit="$(git log -1 --format=%H -- kmb_route_stop.json)"
+          release_notes="Automated release containing updated KMB and CTB route_stop.json."
+          data_commit="$(git log -1 --format=%H -- route_stop.json)"
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -45,9 +45,14 @@ jobs:
               --title "$release_title" \
               --notes "$release_notes" \
               --latest
-            gh release upload "$tag_name" kmb_route_stop.json --clobber
+            gh release upload "$tag_name" route_stop.json --clobber
+            legacy_asset="$(gh release view "$tag_name" --json assets \
+              --jq '.assets[] | select(.name == "kmb_route_stop.json") | .name')"
+            if test -n "$legacy_asset"; then
+              gh release delete-asset "$tag_name" "$legacy_asset" --yes
+            fi
           else
-            gh release create "$tag_name" kmb_route_stop.json \
+            gh release create "$tag_name" route_stop.json \
               --title "$release_title" \
               --notes "$release_notes" \
               --latest \
