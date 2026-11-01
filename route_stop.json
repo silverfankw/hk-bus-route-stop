@@ -53391,7 +53391,10 @@
         "orig_en": "WAN CHAI (HKCEC NEW WING)",
         "orig_tc": "灣仔(會展新翼)",
         "route": "191R",
-        "routes": [
+        "service_type": "1",
+        "special_remark_en": "",
+        "special_remark_tc": "會展夜書市限定服務",
+        "stops": [
           "EX01T14000",
           "HO06S14000",
           "CH05N11500",
@@ -53412,10 +53415,7 @@
           "WA21N08000",
           "WA21N09000",
           "LO09T10000"
-        ],
-        "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "會展夜書市限定服務"
+        ]
       },
       {
         "bound": "I",
