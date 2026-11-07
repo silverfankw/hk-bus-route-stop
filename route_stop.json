@@ -25450,22 +25450,7 @@
         "orig_en": "Central (Star Ferry)",
         "orig_zh": "中環 (天星碼頭)",
         "route": "X9",
-        "stops": [
-          "001027",
-          "001170",
-          "001195",
-          "001171",
-          "001032",
-          "001030",
-          "002423",
-          "002450",
-          "001264",
-          "002770",
-          "001216",
-          "002940",
-          "002941",
-          "002939"
-        ]
+        "stops": []
       },
       {
         "bound": "I",
@@ -72479,6 +72464,36 @@
       },
       {
         "bound": "I",
+        "dest_en": "UNIVERSITY STATION",
+        "dest_tc": "大學站",
+        "orig_en": "GO PARK",
+        "orig_tc": "西沙 GO PARK",
+        "route": "PBPN",
+        "service_type": "1",
+        "special_remark_en": "Normal",
+        "special_remark_tc": "",
+        "stops": [
+          "SB15N08400",
+          "SB15N08350"
+        ]
+      },
+      {
+        "bound": "O",
+        "dest_en": "GO PARK",
+        "dest_tc": "西沙 GO PARK",
+        "orig_en": "UNIVERSITY STATION",
+        "orig_tc": "大學站",
+        "route": "PBPN",
+        "service_type": "1",
+        "special_remark_en": "Normal",
+        "special_remark_tc": "",
+        "stops": [
+          "SB15N08350",
+          "SB15N08400"
+        ]
+      },
+      {
+        "bound": "I",
         "dest_en": "LEI MUK SHUE",
         "dest_tc": "梨木樹",
         "orig_en": "AIRPORT and HZMB Control Point",
@@ -89443,10 +89458,6 @@
       "002449": {
         "stop_name_en": "Anton Street, Hennessy Road",
         "stop_name_zh": "晏頓街"
-      },
-      "002450": {
-        "stop_name_en": "Wan Chai Ferry Pier, Hung Hing Road",
-        "stop_name_zh": "灣仔碼頭"
       },
       "002451": {
         "stop_name_en": "Southorn Playground, Johnston Road",
@@ -123866,6 +123877,12 @@
         "long": 114.191197,
         "stop_name_en": "SHA TIN TOWN HALL",
         "stop_name_zh": "沙田大會堂"
+      },
+      "SB15N08350": {
+        "lat": 22.412599,
+        "long": 114.211231,
+        "stop_name_en": "UNIVERSITY STATION",
+        "stop_name_zh": "大學站"
       },
       "SB15N08400": {
         "lat": 22.426319,
