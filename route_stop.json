@@ -248,15 +248,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Happy Valley Racecourse",
-        "dest_zh": "跑馬地馬場",
-        "orig_en": "Kwun Tong (Yue Man Square)",
-        "orig_zh": "觀塘 (裕民坊)",
-        "route": "101R",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Kwun Tong (Yue Man Square)",
         "dest_zh": "觀塘 (裕民坊)",
@@ -506,15 +497,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Happy Valley Racecourse",
-        "dest_zh": "跑馬地馬場",
-        "orig_en": "Mei Foo",
-        "orig_zh": "美孚",
-        "route": "102R",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Mei Foo",
         "dest_zh": "美孚",
@@ -725,15 +707,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Central (Ferry Piers)",
-        "dest_zh": "中環碼頭",
-        "orig_en": "Mong Kok",
-        "orig_zh": "旺角",
-        "route": "104R",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Mong Kok",
         "dest_zh": "旺角",
@@ -864,15 +837,6 @@
           "002993",
           "002980"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Wong Tai Sin",
-        "dest_zh": "黃大仙",
-        "orig_en": "Tai Koo (Kornhill Plaza)",
-        "orig_zh": "太古 (康怡廣場)",
-        "route": "106A",
-        "stops": []
       },
       {
         "bound": "O",
@@ -1732,15 +1696,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Laguna Verde",
-        "dest_zh": "海逸豪園",
-        "orig_en": "Central (Macao Ferry)",
-        "orig_zh": "中環 (港澳碼頭)",
-        "route": "115P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Central (Macao Ferry)",
         "dest_zh": "中環 (港澳碼頭)",
@@ -2058,15 +2013,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Siu Sai Wan Sports Ground",
-        "dest_zh": "小西灣運動場",
-        "orig_en": "Mong Kok",
-        "orig_zh": "旺角",
-        "route": "118R",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Mong Kok",
         "dest_zh": "旺角",
@@ -2157,15 +2103,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Admiralty (Tamar Street)",
-        "dest_zh": "金鐘 (添馬街)",
-        "orig_en": "MacDonnell Road",
-        "orig_zh": "麥當勞道",
-        "route": "12A",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "MacDonnell Road",
         "dest_zh": "麥當勞道",
@@ -2190,15 +2127,6 @@
           "001024",
           "001025"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Admiralty (Tamar Street)",
-        "dest_zh": "金鐘 (添馬街)",
-        "orig_en": "Park Road",
-        "orig_zh": "柏道",
-        "route": "12M",
-        "stops": []
       },
       {
         "bound": "O",
@@ -2494,15 +2422,6 @@
         ]
       },
       {
-        "bound": "O",
-        "dest_en": "The Peak",
-        "dest_zh": "山頂",
-        "orig_en": "Wan Chai (HKCEC Extension)",
-        "orig_zh": "灣仔 (會展新翼)",
-        "route": "15B",
-        "stops": []
-      },
-      {
         "bound": "I",
         "dest_en": "Central (Hong Kong Observation Wheel)",
         "dest_zh": "中環 (香港摩天輪)",
@@ -2702,15 +2621,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Lei Tung Estate",
-        "dest_zh": "利東邨",
-        "orig_en": "Lai Chi Kok",
-        "orig_zh": "荔枝角",
-        "route": "171A",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Lai Chi Kok",
         "dest_zh": "荔枝角",
@@ -2743,15 +2653,6 @@
           "002853",
           "002847"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "South Horizons",
-        "dest_zh": "海怡半島",
-        "orig_en": "Lai Chi Kok",
-        "orig_zh": "荔枝角",
-        "route": "171P",
-        "stops": []
       },
       {
         "bound": "O",
@@ -2938,15 +2839,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Central (Macao Ferry)",
-        "dest_zh": "中環 (港澳碼頭)",
-        "orig_en": "Sha Tin (Yu Chui Court)",
-        "orig_zh": "沙田 (愉翠苑)",
-        "route": "182X",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Sha Tin (Yu Chui Court)",
         "dest_zh": "沙田 (愉翠苑)",
@@ -3113,15 +3005,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Shau Kei Wan",
-        "dest_zh": "筲箕灣",
-        "orig_en": "Happy Valley (Upper)",
-        "orig_zh": "跑馬地 (上)",
-        "route": "19P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Happy Valley (Upper)",
         "dest_zh": "跑馬地 (上)",
@@ -3220,15 +3103,6 @@
           "002543",
           "002544"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Wong Nai Chung Road (Broadwood Road)",
-        "dest_zh": "黃泥涌道 (樂活道)",
-        "orig_en": "Central",
-        "orig_zh": "中環",
-        "route": "1P",
-        "stops": []
       },
       {
         "bound": "O",
@@ -4035,15 +3909,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Pokfield Road",
-        "dest_zh": "蒲飛路",
-        "orig_en": "Sai Wan Ho",
-        "orig_zh": "西灣河",
-        "route": "23X",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Sai Wan Ho",
         "dest_zh": "西灣河",
@@ -4559,15 +4424,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Tsz Wan Shan (North)",
-        "dest_zh": "慈雲山 (北)",
-        "orig_en": "Sheung Wan",
-        "orig_zh": "上環",
-        "route": "302",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Sheung Wan",
         "dest_zh": "上環",
@@ -4595,15 +4451,6 @@
           "001055",
           "002735"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tsz Wan Shan (North)",
-        "dest_zh": "慈雲山 (北)",
-        "orig_en": "North Point (Healthy Village)",
-        "orig_zh": "北角 (健康村)",
-        "route": "302A",
-        "stops": []
       },
       {
         "bound": "O",
@@ -4686,15 +4533,6 @@
           "001170",
           "001145"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tai Po Tau",
-        "dest_zh": "大埔頭",
-        "orig_en": "Sheung Wan",
-        "orig_zh": "上環",
-        "route": "307A",
-        "stops": []
       },
       {
         "bound": "O",
@@ -5106,15 +4944,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Chi Fu Fa Yuen",
-        "dest_zh": "置富花園",
-        "orig_en": "Central",
-        "orig_zh": "中環",
-        "route": "37A",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Central",
         "dest_zh": "中環",
@@ -5164,15 +4993,6 @@
           "002183",
           "002184"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Chi Fu Fa Yuen",
-        "dest_zh": "置富花園",
-        "orig_en": "Admiralty",
-        "orig_zh": "金鐘",
-        "route": "37B",
-        "stops": []
       },
       {
         "bound": "O",
@@ -5226,15 +5046,6 @@
           "002183",
           "002184"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Chi Fu Fa Yuen",
-        "dest_zh": "置富花園",
-        "orig_en": "Admiralty",
-        "orig_zh": "金鐘",
-        "route": "37X",
-        "stops": []
       },
       {
         "bound": "O",
@@ -5428,15 +5239,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Chai Wan Station",
-        "dest_zh": "柴灣站",
-        "orig_en": "Chai Wan Cemeteries / Cape Collinson",
-        "orig_zh": "柴灣墳場／歌連臣角",
-        "route": "388",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Chai Wan Cemeteries / Cape Collinson",
         "dest_zh": "柴灣墳場／歌連臣角",
@@ -5457,15 +5259,6 @@
           "001220",
           "001221"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Shau Kei Wan",
-        "dest_zh": "筲箕灣",
-        "orig_en": "Chai Wan Cemeteries / Cape Collinson",
-        "orig_zh": "柴灣墳場／歌連臣角",
-        "route": "389",
-        "stops": []
       },
       {
         "bound": "O",
@@ -5518,15 +5311,6 @@
           "002184",
           "002186"
         ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "Causeway Bay (Central Library)",
-        "dest_zh": "銅鑼灣 (中央圖書館)",
-        "orig_en": "Chi Fu Fa Yuen",
-        "orig_zh": "置富花園",
-        "route": "38S",
-        "stops": []
       },
       {
         "bound": "I",
@@ -5775,15 +5559,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Wah Fu (North)",
-        "dest_zh": "華富 (北)",
-        "orig_en": "Exhibition Centre Station",
-        "orig_zh": "會展站",
-        "route": "40M",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Exhibition Centre Station",
         "dest_zh": "會展站",
@@ -5825,15 +5600,6 @@
           "002423",
           "003415"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Wah Fu (North)",
-        "dest_zh": "華富 (北)",
-        "orig_en": "Robinson Road",
-        "orig_zh": "羅便臣道",
-        "route": "40P",
-        "stops": []
       },
       {
         "bound": "O",
@@ -6140,24 +5906,6 @@
       },
       {
         "bound": "I",
-        "dest_en": "Kennedy Town Station",
-        "dest_zh": "堅尼地城站",
-        "orig_en": "Kennedy Town",
-        "orig_zh": "堅尼地城",
-        "route": "43R",
-        "stops": []
-      },
-      {
-        "bound": "O",
-        "dest_en": "Kennedy Town",
-        "dest_zh": "堅尼地城",
-        "orig_en": "Kennedy Town Station",
-        "orig_zh": "堅尼地城站",
-        "route": "43R",
-        "stops": []
-      },
-      {
-        "bound": "I",
         "dest_en": "Kennedy Town",
         "dest_zh": "堅尼地城",
         "orig_en": "Wong Chuk Hang",
@@ -6295,15 +6043,6 @@
           "002341",
           "002342"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Chai Wan (East)",
-        "dest_zh": "柴灣(東)",
-        "orig_en": "Cyberport",
-        "orig_zh": "數碼港",
-        "route": "49X",
-        "stops": []
       },
       {
         "bound": "O",
@@ -6539,15 +6278,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Hong Kong Coliseum",
-        "dest_zh": "香港體育館",
-        "orig_en": "Tuen Mun (Ching Tin and Wo Tin)",
-        "orig_zh": "屯門 (菁田及和田)",
-        "route": "50R",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Tuen Mun (Ching Tin and Wo Tin)",
         "dest_zh": "屯門 (菁田及和田)",
@@ -6566,15 +6296,6 @@
           "003767",
           "003752"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tai Hang Drive",
-        "dest_zh": "大坑徑",
-        "orig_en": "Central (Ferry Piers)",
-        "orig_zh": "中環碼頭",
-        "route": "511",
-        "stops": []
       },
       {
         "bound": "O",
@@ -8077,15 +7798,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Shun Lee Estate",
-        "dest_zh": "順利邨",
-        "orig_en": "Central (Macao Ferry)",
-        "orig_zh": "中環 (港澳碼頭)",
-        "route": "619P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Central (Macao Ferry)",
         "dest_zh": "中環 (港澳碼頭)",
@@ -8300,15 +8012,6 @@
           "002225",
           "002654"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Ocean Park (Water World)",
-        "dest_zh": "海洋公園 (水上樂園)",
-        "orig_en": "Wong Chuk Hang Station",
-        "orig_zh": "黃竹坑站",
-        "route": "629M",
-        "stops": []
       },
       {
         "bound": "O",
@@ -8687,15 +8390,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Ap Lei Chau (Lee Lok Street)",
-        "dest_zh": "鴨脷洲 (利樂街)",
-        "orig_en": "Diamond Hill Station",
-        "orig_zh": "鑽石山站",
-        "route": "671X",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Diamond Hill Station",
         "dest_zh": "鑽石山站",
@@ -8805,15 +8499,6 @@
           "002457",
           "003273"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Queen's Hill Fanling",
-        "dest_zh": "粉嶺皇后山",
-        "orig_en": "Central (Hong Kong Station)",
-        "orig_zh": "中環 (香港站)",
-        "route": "679",
-        "stops": []
       },
       {
         "bound": "O",
@@ -8930,15 +8615,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Ma On Shan (Chevalier Garden)",
-        "dest_zh": "馬鞍山 (富安花園)",
-        "orig_en": "Admiralty (East)",
-        "orig_zh": "金鐘 (東)",
-        "route": "680B",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Admiralty (East)",
         "dest_zh": "金鐘 (東)",
@@ -8965,15 +8641,6 @@
           "001074",
           "001138"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Ma On Shan (Wu Kai Sha Station)",
-        "dest_zh": "馬鞍山 (烏溪沙站)",
-        "orig_en": "Admiralty (East)",
-        "orig_zh": "金鐘 (東)",
-        "route": "680P",
-        "stops": []
       },
       {
         "bound": "O",
@@ -9487,15 +9154,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Wu Kai Sha Station",
-        "dest_zh": "烏溪沙站",
-        "orig_en": "Chai Wan (East)",
-        "orig_zh": "柴灣 (東)",
-        "route": "682P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Chai Wan (East)",
         "dest_zh": "柴灣 (東)",
@@ -9620,15 +9278,6 @@
           "001675",
           "001676"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tseung Kwan O (Hong Sing Garden)",
-        "dest_zh": "將軍澳 (康盛花園)",
-        "orig_en": "Central (Exchange Square)",
-        "orig_zh": "中環 (交易廣場)",
-        "route": "690P",
-        "stops": []
       },
       {
         "bound": "O",
@@ -9890,15 +9539,6 @@
           "001823",
           "002917"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Central (Exchange Square)",
-        "dest_zh": "中環 (交易廣場)",
-        "orig_en": "Stanley Fort (Gate)",
-        "orig_zh": "赤柱炮台 (閘口)",
-        "route": "6A",
-        "stops": []
       },
       {
         "bound": "O",
@@ -10633,15 +10273,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Sham Wan",
-        "dest_zh": "深灣",
-        "orig_en": "Central (Ferry Piers)",
-        "orig_zh": "中環碼頭",
-        "route": "71P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Central (Ferry Piers)",
         "dest_zh": "中環碼頭",
@@ -10797,15 +10428,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Grand Promenade",
-        "dest_zh": "嘉亨灣",
-        "orig_en": "Admiralty (Admiralty Centre)/ Central (Pedder Street)",
-        "orig_zh": "金鐘 (海富中心)/ 中環(畢打街)",
-        "route": "720A",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Admiralty (Admiralty Centre)/ Central (Pedder Street)",
         "dest_zh": "金鐘 (海富中心)/ 中環(畢打街)",
@@ -10861,15 +10483,6 @@
           "001185",
           "001185"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Grand Promenade",
-        "dest_zh": "嘉亨灣",
-        "orig_en": "Central (Rumsey Street)",
-        "orig_zh": "中環(林士街)",
-        "route": "720X",
-        "stops": []
       },
       {
         "bound": "O",
@@ -11111,15 +10724,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Sham Wan",
-        "dest_zh": "深灣",
-        "orig_en": "Cyberport",
-        "orig_zh": "數碼港",
-        "route": "73P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Cyberport",
         "dest_zh": "數碼港",
@@ -11146,15 +10750,6 @@
           "002391",
           "002392"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Stanley Market",
-        "dest_zh": "赤柱市場",
-        "orig_en": "Ocean Park",
-        "orig_zh": "海洋公園",
-        "route": "73S",
-        "stops": []
       },
       {
         "bound": "O",
@@ -11490,15 +11085,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Wah Kwai Estate",
-        "dest_zh": "華貴邨",
-        "orig_en": "Sai Wan Ho",
-        "orig_zh": "西灣河",
-        "route": "77X",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Sai Wan Ho",
         "dest_zh": "西灣河",
@@ -11633,15 +11219,6 @@
           "001026",
           "001145"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Hing Wah (via Causeway Bay)",
-        "dest_zh": "興華 (經銅鑼灣)",
-        "orig_en": "Central (Ferry Piers)",
-        "orig_zh": "中環碼頭",
-        "route": "780P",
-        "stops": []
       },
       {
         "bound": "O",
@@ -11844,15 +11421,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Queen's Hill Fanling",
-        "dest_zh": "粉嶺皇后山",
-        "orig_en": "Kwun Tong",
-        "orig_zh": "觀塘",
-        "route": "78P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Kwun Tong",
         "dest_zh": "觀塘",
@@ -11880,15 +11448,6 @@
           "001510",
           "001518"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Queen's Hill Fanling",
-        "dest_zh": "粉嶺皇后山",
-        "orig_en": "Kai Tak (via: Kwun Tong)",
-        "orig_zh": "啟德 (經: 觀塘)",
-        "route": "78X",
-        "stops": []
       },
       {
         "bound": "O",
@@ -12424,15 +11983,6 @@
           "001418",
           "001590"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Hong Kong Coliseum",
-        "dest_zh": "香港體育館",
-        "orig_en": "LOHAS Park",
-        "orig_zh": "日出康城",
-        "route": "796R",
-        "stops": []
       },
       {
         "bound": "O",
@@ -14350,15 +13900,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Exhibition Centre Station",
-        "dest_zh": "會展站",
-        "orig_en": "Lai Chi Kok",
-        "orig_zh": "荔枝角",
-        "route": "905A",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Lai Chi Kok",
         "dest_zh": "荔枝角",
@@ -14392,15 +13933,6 @@
           "002853",
           "002847"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Lai Chi Kok",
-        "dest_zh": "荔枝角",
-        "orig_en": "Wan Chai (Harbour Road)",
-        "orig_zh": "灣仔 (港灣道)",
-        "route": "905P",
-        "stops": []
       },
       {
         "bound": "O",
@@ -14574,15 +14106,6 @@
           "001030",
           "003844"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Main Street Ap Lei Chau",
-        "dest_zh": "鴨脷洲大街",
-        "orig_en": "Central (Jardine House)",
-        "orig_zh": "中環 (怡和大廈)",
-        "route": "90C",
-        "stops": []
       },
       {
         "bound": "O",
@@ -14779,15 +14302,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Hoi Lai Estate",
-        "dest_zh": "海麗邨",
-        "orig_en": "Tin Hau Station",
-        "orig_zh": "天后站",
-        "route": "914P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Tin Hau Station",
         "dest_zh": "天后站",
@@ -14813,15 +14327,6 @@
           "001213",
           "001363"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Hoi Lai Estate",
-        "dest_zh": "海麗邨",
-        "orig_en": "Tin Hau Station",
-        "orig_zh": "天后站",
-        "route": "914X",
-        "stops": []
       },
       {
         "bound": "O",
@@ -14894,15 +14399,6 @@
           "002339",
           "002341"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "South Horizons / Ap Lei Chau Estate",
-        "dest_zh": "海怡半島／鴨脷洲邨",
-        "orig_en": "Robinson Road",
-        "orig_zh": "羅便臣道",
-        "route": "93",
-        "stops": []
       },
       {
         "bound": "O",
@@ -15055,15 +14551,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Kwai Shing (East)",
-        "dest_zh": "葵盛 (東)",
-        "orig_en": "Causeway Bay (Moreton Terrace)",
-        "orig_zh": "銅鑼灣 (摩頓台)",
-        "route": "930B",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Causeway Bay (Moreton Terrace)",
         "dest_zh": "銅鑼灣 (摩頓台)",
@@ -15213,15 +14700,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Lei Tung Estate",
-        "dest_zh": "利東邨",
-        "orig_en": "Robinson Road",
-        "orig_zh": "羅便臣道",
-        "route": "93A",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Robinson Road",
         "dest_zh": "羅便臣道",
@@ -15258,15 +14736,6 @@
           "001149",
           "001150"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Main Street Ap Lei Chau / Tin Wan",
-        "dest_zh": "鴨脷洲大街／田灣",
-        "orig_en": "Caine Road",
-        "orig_zh": "堅道",
-        "route": "93C",
-        "stops": []
       },
       {
         "bound": "O",
@@ -15394,15 +14863,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Cheung On Estate",
-        "dest_zh": "長安邨",
-        "orig_en": "Tin Hau Station",
-        "orig_zh": "天后站",
-        "route": "948A",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Tin Hau Station",
         "dest_zh": "天后站",
@@ -15437,15 +14897,6 @@
           "001213",
           "001363"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tsing Yi (Greenfield Garden)",
-        "dest_zh": "青衣 (翠怡花園)",
-        "orig_en": "Tin Hau Station",
-        "orig_zh": "天后站",
-        "route": "948B",
-        "stops": []
       },
       {
         "bound": "O",
@@ -15544,15 +14995,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Cheung On Estate",
-        "dest_zh": "長安邨",
-        "orig_en": "Tin Hau Station",
-        "orig_zh": "天后站",
-        "route": "948P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Tin Hau Station",
         "dest_zh": "天后站",
@@ -15579,15 +15021,6 @@
           "001213",
           "001363"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Cheung Wang Estate",
-        "dest_zh": "長宏邨",
-        "orig_en": "Tin Hau Station",
-        "orig_zh": "天后站",
-        "route": "948X",
-        "stops": []
       },
       {
         "bound": "O",
@@ -15910,15 +15343,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Tuen Mun (Chi Lok Fa Yuen)",
-        "dest_zh": "屯門 (置樂花園)",
-        "orig_en": "Causeway Bay (Moreton Terrace)",
-        "orig_zh": "銅鑼灣 (摩頓台)",
-        "route": "952P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Causeway Bay (Moreton Terrace)",
         "dest_zh": "銅鑼灣 (摩頓台)",
@@ -16089,15 +15513,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Tin Wan",
-        "dest_zh": "田灣",
-        "orig_en": "Ap Lei Chau Estate",
-        "orig_zh": "鴨脷洲邨",
-        "route": "95P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Ap Lei Chau Estate",
         "dest_zh": "鴨脷洲邨",
@@ -16221,15 +15636,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Tuen Mun (Yuet Wu Villa)",
-        "dest_zh": "屯門 (悅湖山莊)",
-        "orig_en": "Admiralty",
-        "orig_zh": "金鐘",
-        "route": "962A",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Admiralty",
         "dest_zh": "金鐘",
@@ -16311,15 +15717,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Causeway Bay (Moreton Terrance)",
-        "dest_zh": "銅鑼灣 (摩頓台)",
-        "orig_en": "Tuen Mun (Yuet Wu Villa)",
-        "orig_zh": "屯門 (悅湖山莊)",
-        "route": "962G",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Tuen Mun (Yuet Wu Villa)",
         "dest_zh": "屯門 (悅湖山莊)",
@@ -16345,15 +15742,6 @@
           "003819",
           "002038"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tuen Mun (Lung Mun Oasis)",
-        "dest_zh": "屯門 (龍門居)",
-        "orig_en": "Causeway Bay (Moreton Terrace)",
-        "orig_zh": "銅鑼灣 (摩頓台)",
-        "route": "962P",
-        "stops": []
       },
       {
         "bound": "O",
@@ -16761,15 +16149,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Tin Shui Wai Town Centre",
-        "dest_zh": "天水圍市中心",
-        "orig_en": "Causeway Bay (Moreton Terrace)",
-        "orig_zh": "銅鑼灣 (摩頓台)",
-        "route": "969N",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Causeway Bay (Moreton Terrace)",
         "dest_zh": "銅鑼灣 (摩頓台)",
@@ -16809,15 +16188,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Tin Shui Wai Town Centre",
-        "dest_zh": "天水圍市中心",
-        "orig_en": "Causeway Bay (Moreton Terrace)",
-        "orig_zh": "銅鑼灣 (摩頓台)",
-        "route": "969P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Causeway Bay (Moreton Terrace)",
         "dest_zh": "銅鑼灣 (摩頓台)",
@@ -16847,15 +16217,6 @@
           "002535",
           "002536"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tin Shui Wai Town Centre",
-        "dest_zh": "天水圍市中心",
-        "orig_en": "Causeway Bay (via Tin Shui Wai South)",
-        "orig_zh": "銅鑼灣 (經天水圍南)",
-        "route": "969X",
-        "stops": []
       },
       {
         "bound": "O",
@@ -17266,15 +16627,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Cyberport  (via Victoria Road)",
-        "dest_zh": "數碼港 (經域多利道)",
-        "orig_en": "Mong Kok",
-        "orig_zh": "旺角",
-        "route": "971R",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Mong Kok",
         "dest_zh": "旺角",
@@ -17452,24 +16804,6 @@
       },
       {
         "bound": "I",
-        "dest_en": "Causeway Bay (Moreton Terrace)",
-        "dest_zh": "銅鑼灣 (摩頓台)",
-        "orig_en": "Lok Ma Chau (San Tin)",
-        "orig_zh": "落馬洲 (新田)",
-        "route": "976S",
-        "stops": []
-      },
-      {
-        "bound": "O",
-        "dest_en": "Lok Ma Chau (San Tin)",
-        "dest_zh": "落馬洲 (新田)",
-        "orig_en": "Causeway Bay (Moreton Terrace)",
-        "orig_zh": "銅鑼灣 (摩頓台)",
-        "route": "976S",
-        "stops": []
-      },
-      {
-        "bound": "I",
         "dest_en": "Queen's Hill Fanling",
         "dest_zh": "粉嶺皇后山",
         "orig_en": "Central (Hong Kong Station)",
@@ -17566,15 +16900,6 @@
           "002161",
           "002182"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Shek Mun Estate",
-        "dest_zh": "碩門邨",
-        "orig_en": "Wan Chai",
-        "orig_zh": "灣仔",
-        "route": "980A",
-        "stops": []
       },
       {
         "bound": "O",
@@ -17726,15 +17051,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Shek Mun Estate",
-        "dest_zh": "碩門邨",
-        "orig_en": "Sai Wan Ho",
-        "orig_zh": "西灣河",
-        "route": "982C",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Sai Wan Ho",
         "dest_zh": "西灣河",
@@ -17872,15 +17188,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Shatin (Mei Tin Estate)",
-        "dest_zh": "沙田 (美田邨)",
-        "orig_en": "Causeway Bay",
-        "orig_zh": "銅鑼灣",
-        "route": "985A",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Causeway Bay",
         "dest_zh": "銅鑼灣",
@@ -17907,15 +17214,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Tin Sam Village",
-        "dest_zh": "田心村",
-        "orig_en": "Causeway Bay",
-        "orig_zh": "銅鑼灣",
-        "route": "985B",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Causeway Bay",
         "dest_zh": "銅鑼灣",
@@ -17940,15 +17238,6 @@
           "002572",
           "002437"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Sha Tin Wai",
-        "dest_zh": "沙田圍",
-        "orig_en": "Sai Wan Ho",
-        "orig_zh": "西灣河",
-        "route": "986",
-        "stops": []
       },
       {
         "bound": "O",
@@ -17984,15 +17273,6 @@
           "001293",
           "001315"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Sai Wan Ho",
-        "dest_zh": "西灣河",
-        "orig_en": "Fo Tan (Chun Yeung Estate)",
-        "orig_zh": "火炭(駿洋邨)",
-        "route": "987",
-        "stops": []
       },
       {
         "bound": "O",
@@ -18031,15 +17311,6 @@
           "003602",
           "003603"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Fo Tan (Chun Yeung Estate)",
-        "dest_zh": "火炭 (駿洋邨)",
-        "orig_en": "Sai Wan Ho",
-        "orig_zh": "西灣河",
-        "route": "989",
-        "stops": []
       },
       {
         "bound": "O",
@@ -18183,15 +17454,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "South Horizons",
-        "dest_zh": "海怡半島",
-        "orig_en": "Sai Wan Ho",
-        "orig_zh": "西灣河",
-        "route": "99X",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Sai Wan Ho",
         "dest_zh": "西灣河",
@@ -18218,24 +17480,6 @@
           "001270",
           "001313"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Shau Kei Wan",
-        "dest_zh": "筲箕灣",
-        "orig_en": "Cape Collinson",
-        "orig_zh": "歌連臣角",
-        "route": "9C",
-        "stops": []
-      },
-      {
-        "bound": "O",
-        "dest_en": "Cape Collinson",
-        "dest_zh": "歌連臣角",
-        "orig_en": "Shau Kei Wan",
-        "orig_zh": "筲箕灣",
-        "route": "9C",
-        "stops": []
       },
       {
         "bound": "I",
@@ -18980,15 +18224,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Kai Tak Sports Park",
-        "dest_zh": "啟德體育園",
-        "orig_en": "Airport (via HZMB Hong Kong Port)",
-        "orig_zh": "機場 (經港珠澳大橋香港口岸)",
-        "route": "A25S",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Airport (via HZMB Hong Kong Port)",
         "dest_zh": "機場 (經港珠澳大橋香港口岸)",
@@ -19177,15 +18412,6 @@
           "003550",
           "001837"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tseung Kwan O Station",
-        "dest_zh": "將軍澳站",
-        "orig_en": "Airport (via HZMB Hong Kong Port)",
-        "orig_zh": "機場 (經港珠澳大橋香港口岸)",
-        "route": "A28X",
-        "stops": []
       },
       {
         "bound": "O",
@@ -19383,15 +18609,6 @@
           "001370",
           "001382"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Central (Statue Square)",
-        "dest_zh": "中環(皇后像廣場)",
-        "orig_en": "Huanggang Port",
-        "orig_zh": "皇崗口岸",
-        "route": "B13S",
-        "stops": []
       },
       {
         "bound": "O",
@@ -19601,15 +18818,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Shenzhen Bay Port",
-        "dest_zh": "深圳灣口岸",
-        "orig_en": "Tuen Mun Station",
-        "orig_zh": "屯門站",
-        "route": "B3M",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Tuen Mun Station",
         "dest_zh": "屯門站",
@@ -19720,24 +18928,6 @@
           "003810",
           "003714"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Sheung Shui Station",
-        "dest_zh": "上水站",
-        "orig_en": "Heung Yuen Wai Port",
-        "orig_zh": "香園圍口岸",
-        "route": "B7X",
-        "stops": []
-      },
-      {
-        "bound": "O",
-        "dest_en": "Heung Yuen Wai Port",
-        "dest_zh": "香園圍口岸",
-        "orig_en": "Sheung Shui Station",
-        "orig_zh": "上水站",
-        "route": "B7X",
-        "stops": []
       },
       {
         "bound": "I",
@@ -20032,15 +19222,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Tung Chung (Mun Tung Estate)",
-        "dest_zh": "東涌 (滿東邨)",
-        "orig_en": "Tin Hau Station",
-        "orig_zh": "天后站",
-        "route": "E11S",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Tin Hau Station",
         "dest_zh": "天后站",
@@ -20072,15 +19253,6 @@
           "001213",
           "001363"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tung Chung (Cheung Tung Estate)",
-        "dest_zh": "東涌 (翔東邨)",
-        "orig_en": "North Point Ferry Pier",
-        "orig_zh": "北角碼頭",
-        "route": "E18",
-        "stops": []
       },
       {
         "bound": "O",
@@ -20542,15 +19714,6 @@
           "001836",
           "003816"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tung Chung (Mun Tung Estate)",
-        "dest_zh": "東涌 (滿東邨)",
-        "orig_en": "Hung Hom Station",
-        "orig_zh": "紅磡站",
-        "route": "E21X",
-        "stops": []
       },
       {
         "bound": "O",
@@ -21319,15 +20482,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Tung Chung (Cheung Tung Estate)",
-        "dest_zh": "東涌 (翔東邨)",
-        "orig_en": "Tseung Kwan O Industrial Estate",
-        "orig_zh": "將軍澳工業邨",
-        "route": "E28",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Tseung Kwan O Industrial Estate",
         "dest_zh": "將軍澳工業邨",
@@ -21373,33 +20527,6 @@
           "003478",
           "002923"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Central (Star Ferry)",
-        "dest_zh": "中環 (天星碼頭)",
-        "orig_en": "Central (Star Ferry)",
-        "orig_zh": "中環 (天星碼頭)",
-        "route": "H0",
-        "stops": []
-      },
-      {
-        "bound": "O",
-        "dest_en": "Central (Star Ferry)",
-        "dest_zh": "中環 (天星碼頭)",
-        "orig_en": "Central (Star Ferry)",
-        "orig_zh": "中環 (天星碼頭)",
-        "route": "H0",
-        "stops": []
-      },
-      {
-        "bound": "I",
-        "dest_en": "Central Ferry - Star Ferry",
-        "dest_zh": "中環碼頭-天星小輪",
-        "orig_en": "Tsim Sha Tsui",
-        "orig_zh": "尖沙咀 ．落日飛車",
-        "route": "H1",
-        "stops": []
       },
       {
         "bound": "O",
@@ -21454,24 +20581,6 @@
           "002964",
           "001171"
         ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "Tsim Sha Tsui",
-        "dest_zh": "尖沙咀",
-        "orig_en": "Central Ferry - Star Ferry",
-        "orig_zh": "中環碼頭-天星小輪 ．落日飛車",
-        "route": "H2",
-        "stops": []
-      },
-      {
-        "bound": "I",
-        "dest_en": "Kai Tak Cruise Terminal",
-        "dest_zh": "啟德郵輪碼頭",
-        "orig_en": "Tsim Sha Tsui",
-        "orig_zh": "尖沙咀",
-        "route": "H20",
-        "stops": []
       },
       {
         "bound": "O",
@@ -21532,15 +20641,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Central Ferry - Hong Kong Observation Wheel",
-        "dest_zh": "中環碼頭 -香港摩天輪",
-        "orig_en": "Stanley Village / Stanley Market",
-        "orig_zh": "赤柱村／赤柱市集  ．落日飛車",
-        "route": "H3",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Stanley Village / Stanley Market",
         "dest_zh": "赤柱村／赤柱市集  ．落日飛車",
@@ -21559,15 +20659,6 @@
           "002305",
           "002275"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Stanley Village / Stanley Market",
-        "dest_zh": "赤柱村／赤柱市集",
-        "orig_en": "Central Ferry - Hong Kong Observation Wheel",
-        "orig_zh": "中環碼頭 -香港摩天輪 ．落日飛車",
-        "route": "H4",
-        "stops": []
       },
       {
         "bound": "O",
@@ -22220,15 +21311,6 @@
           "002082",
           "002083"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tai Kok Tsui (Island Harbourview)",
-        "dest_zh": "大角咀 (維港灣)",
-        "orig_en": "Kai Tak (Muk On Street)",
-        "orig_zh": "啟德 (沐安街)",
-        "route": "N20",
-        "stops": []
       },
       {
         "bound": "O",
@@ -24695,51 +23777,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Chartered",
-        "dest_zh": "租賃包車",
-        "orig_en": "Chartered",
-        "orig_zh": "租賃包車",
-        "route": "NT3",
-        "stops": []
-      },
-      {
-        "bound": "O",
-        "dest_en": "Chartered",
-        "dest_zh": "租賃包車",
-        "orig_en": "Chartered",
-        "orig_zh": "租賃包車",
-        "route": "NT3",
-        "stops": []
-      },
-      {
-        "bound": "I",
-        "dest_en": "Octopus Night Pass",
-        "dest_zh": "八達通夜遊票",
-        "orig_en": "Octopus Night Pass",
-        "orig_zh": "八達通夜遊票",
-        "route": "ONPA",
-        "stops": []
-      },
-      {
-        "bound": "O",
-        "dest_en": "Octopus Night Pass",
-        "dest_zh": "八達通夜遊票",
-        "orig_en": "Octopus Night Pass",
-        "orig_zh": "八達通夜遊票",
-        "route": "ONPA",
-        "stops": []
-      },
-      {
-        "bound": "I",
-        "dest_en": "Disneyland",
-        "dest_zh": "迪士尼樂園",
-        "orig_en": "North Point Ferry Pier",
-        "orig_zh": "北角碼頭",
-        "route": "R11",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "North Point Ferry Pier",
         "dest_zh": "北角碼頭",
@@ -24767,15 +23804,6 @@
           "001254",
           "001249"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Disneyland",
-        "dest_zh": "迪士尼樂園",
-        "orig_en": "Yau Tong",
-        "orig_zh": "油塘",
-        "route": "R22",
-        "stops": []
       },
       {
         "bound": "O",
@@ -24817,15 +23845,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Disneyland",
-        "dest_zh": "迪士尼樂園",
-        "orig_en": "Lantau Link Bus-Bus Interchange",
-        "orig_zh": "青嶼幹線巴士轉乘站",
-        "route": "R8",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Lantau Link Bus-Bus Interchange",
         "dest_zh": "青嶼幹線巴士轉乘站",
@@ -24840,15 +23859,6 @@
           "002664",
           "002658"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tung Chung Station",
-        "dest_zh": "東涌站",
-        "orig_en": "Airport (Passenger Terminal 1 / AsiaWorld-Expo)",
-        "orig_zh": "機場 (一號客運大樓／博覽館)",
-        "route": "S1",
-        "stops": []
       },
       {
         "bound": "O",
@@ -24980,15 +23990,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Tung Chung (Yat Tung Estate)",
-        "dest_zh": "東涌 (逸東邨)",
-        "orig_en": "Chun Ping Road (Asia Airfreight Terminal)",
-        "orig_zh": "駿坪路 (亞洲空運中心)",
-        "route": "S52P",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Chun Ping Road (Asia Airfreight Terminal)",
         "dest_zh": "駿坪路 (亞洲空運中心)",
@@ -25015,15 +24016,6 @@
           "001874",
           "002589"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tung Chung Station",
-        "dest_zh": "東涌站",
-        "orig_en": "Airport (Passenger Terminal 1)",
-        "orig_zh": "機場 (一號客運大樓)",
-        "route": "S56",
-        "stops": []
       },
       {
         "bound": "O",
@@ -25057,15 +24049,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Kai Tak Sports Park",
-        "dest_zh": "啟德體育園",
-        "orig_en": "Central (Macao Ferry)",
-        "orig_zh": "中環 (港澳碼頭)",
-        "route": "SP10",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Central (Macao Ferry)",
         "dest_zh": "中環 (港澳碼頭)",
@@ -25085,15 +24068,6 @@
           "001056",
           "001027"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Kai Tak Sports Park",
-        "dest_zh": "啟德體育園",
-        "orig_en": "Siu Sai Wan (Island Resort)",
-        "orig_zh": "小西灣 (藍灣半島)",
-        "route": "SP11",
-        "stops": []
       },
       {
         "bound": "O",
@@ -25130,15 +24104,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Kai Tak Sports Park",
-        "dest_zh": "啟德體育園",
-        "orig_en": "Huanggang Port",
-        "orig_zh": "皇崗口岸",
-        "route": "SP12",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Huanggang Port",
         "dest_zh": "皇崗口岸",
@@ -25149,15 +24114,6 @@
           "003874",
           "003939"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Kai Tak Sports Park",
-        "dest_zh": "啟德體育園",
-        "orig_en": "Mong Kok",
-        "orig_zh": "旺角",
-        "route": "SP2",
-        "stops": []
       },
       {
         "bound": "O",
@@ -25173,15 +24129,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Kai Tak Sports Park",
-        "dest_zh": "啟德體育園",
-        "orig_en": "Tsim Sha Tsui",
-        "orig_zh": "尖沙咀",
-        "route": "SP2A",
-        "stops": []
-      },
-      {
         "bound": "O",
         "dest_en": "Tsim Sha Tsui",
         "dest_zh": "尖沙咀",
@@ -25195,15 +24142,6 @@
           "001570",
           "001571"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Kai Tak Sports Park",
-        "dest_zh": "啟德體育園",
-        "orig_en": "Tuen Mun (Ching Tin and Wo Tin)",
-        "orig_zh": "屯門 (菁田及和田)",
-        "route": "SP5B",
-        "stops": []
       },
       {
         "bound": "O",
@@ -25224,15 +24162,6 @@
           "003767",
           "003752"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Kai Tak Sports Park",
-        "dest_zh": "啟德體育園",
-        "orig_en": "LOHAS Park",
-        "orig_zh": "日出康城",
-        "route": "SP9",
-        "stops": []
       },
       {
         "bound": "O",
@@ -25258,24 +24187,6 @@
           "002929",
           "003329"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Tung Chung Garage",
-        "dest_zh": "東涌車廠",
-        "orig_en": "Tung Chung (North)",
-        "orig_zh": "東涌 (北)",
-        "route": "TCD4",
-        "stops": []
-      },
-      {
-        "bound": "O",
-        "dest_en": "Tung Chung (North)",
-        "dest_zh": "東涌 (北)",
-        "orig_en": "Tung Chung Garage",
-        "orig_zh": "東涌車廠",
-        "route": "TCD4",
-        "stops": []
       },
       {
         "bound": "I",
@@ -25336,24 +24247,6 @@
       },
       {
         "bound": "I",
-        "dest_en": "AsiaWorld-Expo",
-        "dest_zh": "亞洲國際博覽館",
-        "orig_en": "AsiaWorld-Expo",
-        "orig_zh": "亞洲國際博覽館",
-        "route": "X55",
-        "stops": []
-      },
-      {
-        "bound": "O",
-        "dest_en": "AsiaWorld-Expo",
-        "dest_zh": "亞洲國際博覽館",
-        "orig_en": "AsiaWorld-Expo",
-        "orig_zh": "亞洲國際博覽館",
-        "route": "X55",
-        "stops": []
-      },
-      {
-        "bound": "I",
         "dest_en": "Tiu Keng Leng Station",
         "dest_zh": "調景嶺站",
         "orig_en": "Fire and Ambulance Services Academy",
@@ -25375,15 +24268,6 @@
           "002917",
           "003444"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "Happy Valley (Upper)",
-        "dest_zh": "跑馬地 (上)",
-        "orig_en": "Siu Sai Wan (Island Resort)",
-        "orig_zh": "小西灣 (藍灣半島)",
-        "route": "X8",
-        "stops": []
       },
       {
         "bound": "O",
@@ -25445,24 +24329,6 @@
       },
       {
         "bound": "O",
-        "dest_en": "Shek O",
-        "dest_zh": "石澳",
-        "orig_en": "Central (Star Ferry)",
-        "orig_zh": "中環 (天星碼頭)",
-        "route": "X9",
-        "stops": []
-      },
-      {
-        "bound": "I",
-        "dest_en": "Admiralty (West)",
-        "dest_zh": "金鐘 (西)",
-        "orig_en": "Tuen Mun (Lung Mun Oasis)",
-        "orig_zh": "屯門 (龍門居)",
-        "route": "X962",
-        "stops": []
-      },
-      {
-        "bound": "O",
         "dest_en": "Tuen Mun (Lung Mun Oasis)",
         "dest_zh": "屯門 (龍門居)",
         "orig_en": "Admiralty (West)",
@@ -25481,15 +24347,6 @@
           "001938",
           "001939"
         ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "South Horizons",
-        "dest_zh": "海怡半島",
-        "orig_en": "Cheung Sha Wan (Kom Tsun Street)",
-        "orig_zh": "長沙灣 (甘泉街)",
-        "route": "X970",
-        "stops": []
       },
       {
         "bound": "O",
