@@ -71319,36 +71319,6 @@
       },
       {
         "bound": "I",
-        "dest_en": "UNIVERSITY STATION",
-        "dest_tc": "大學站",
-        "orig_en": "GO PARK",
-        "orig_tc": "西沙 GO PARK",
-        "route": "PBPN",
-        "service_type": "1",
-        "special_remark_en": "Normal",
-        "special_remark_tc": "",
-        "stops": [
-          "SB15N08400",
-          "SB15N08350"
-        ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "GO PARK",
-        "dest_tc": "西沙 GO PARK",
-        "orig_en": "UNIVERSITY STATION",
-        "orig_tc": "大學站",
-        "route": "PBPN",
-        "service_type": "1",
-        "special_remark_en": "Normal",
-        "special_remark_tc": "",
-        "stops": [
-          "SB15N08350",
-          "SB15N08400"
-        ]
-      },
-      {
-        "bound": "I",
         "dest_en": "LEI MUK SHUE",
         "dest_tc": "梨木樹",
         "orig_en": "AIRPORT and HZMB Control Point",
@@ -105096,21 +105066,21 @@
         "lat": 22.279372,
         "long": 114.175241,
         "stop_name_en": "INTERNATIONAL ORGANIZATION FOR MEDIATION",
-        "stop_name_wrap_en": "INTERNATIONAL|ORGANIZATION|FOR MEDIATION",
+        "stop_name_wrap_en": "INTERNATIONAL|ORGANIZATION>FOR MEDIATION",
         "stop_name_zh": "國際調解院"
       },
       "GL01W14500": {
         "lat": 22.279381,
         "long": 114.175326,
         "stop_name_en": "INTERNATIONAL ORGANIZATION FOR MEDIATION",
-        "stop_name_wrap_en": "INTERNATIONAL|ORGANIZATION|FOR MEDIATION",
+        "stop_name_wrap_en": "INTERNATIONAL|ORGANIZATION>FOR MEDIATION",
         "stop_name_zh": "國際調解院"
       },
       "GL01W15000": {
         "lat": 22.27939,
         "long": 114.175398,
         "stop_name_en": "INTERNATIONAL ORGANIZATION FOR MEDIATION",
-        "stop_name_wrap_en": "INTERNATIONAL|ORGANIZATION|FOR MEDIATION",
+        "stop_name_wrap_en": "INTERNATIONAL|ORGANIZATION>FOR MEDIATION",
         "stop_name_zh": "國際調解院"
       },
       "GL01W16000": {
@@ -127757,8 +127727,6 @@
         "stop_name_zh": "沙田大會堂"
       },
       "SB15N08350": {
-        "lat": 22.412599,
-        "long": 114.211231,
         "stop_name_en": "UNIVERSITY STATION",
         "stop_name_wrap_en": "UNIVERSITY STATION",
         "stop_name_zh": "大學站"
@@ -141368,21 +141336,21 @@
         "lat": 22.30755,
         "long": 114.164551,
         "stop_name_en": "WEST KOWLOON STATION TERMINUS",
-        "stop_name_wrap_en": "JORDAN (WEST KOWLOON STATION) BUS TERMINUS",
+        "stop_name_wrap_en": "WEST KOWLOON|STATION TERMINUS",
         "stop_name_zh": "西九龍站總站"
       },
       "WE03T15000": {
         "lat": 22.30755,
         "long": 114.164551,
-        "stop_name_en": "JORDAN (WEST KOWLOON STATION) BUS TERMINUS",
+        "stop_name_en": "WEST KOWLOON STATION TERMINUS",
         "stop_name_wrap_en": "WEST KOWLOON|STATION TERMINUS",
-        "stop_name_zh": "佐敦(西九龍站)巴士總站"
+        "stop_name_zh": "西九龍站總站"
       },
       "WE03T16000": {
         "lat": 22.30755,
         "long": 114.164551,
         "stop_name_en": "WEST KOWLOON STATION TERMINUS",
-        "stop_name_wrap_en": "JORDAN (WEST|KOWLOON STATION)>BUS TERMINUS",
+        "stop_name_wrap_en": "WEST KOWLOON|STATION TERMINUS",
         "stop_name_zh": "西九龍站總站"
       },
       "WE03T17000": {
@@ -141396,376 +141364,356 @@
         "lat": 22.30755,
         "long": 114.164551,
         "stop_name_en": "WEST KOWLOON STATION TERMINUS",
-        "stop_name_wrap_en": "WHAMPOA GARDEN|BUS TERMINUS",
+        "stop_name_wrap_en": "WEST KOWLOON|STATION TERMINUS",
         "stop_name_zh": "西九龍站總站"
       },
       "WE03T19000": {
         "lat": 22.30755,
         "long": 114.164551,
         "stop_name_en": "JORDAN (WEST KOWLOON STATION)BUS TERMINUS",
-        "stop_name_wrap_en": "WHAMPOA GARDEN|BUS TERMINUS",
-        "stop_name_zh": "佐敦西九龍站巴士總站"
+        "stop_name_wrap_en": "JORDAN (WEST|KOWLOON STATION)>BUS TERMINUS",
+        "stop_name_zh": "佐敦西九龍站>巴士總站"
       },
       "WE03T21000": {
         "lat": 22.30755,
         "long": 114.164551,
         "stop_name_en": "WEST KOWLOON STATION TERMINUS",
-        "stop_name_wrap_en": "WHAMPOA GARDEN|BUS TERMINUS",
+        "stop_name_wrap_en": "WEST KOWLOON|STATION TERMINUS",
         "stop_name_zh": "西九龍站總站"
       },
       "WE03T22000": {
         "lat": 22.30755,
         "long": 114.164551,
         "stop_name_en": "WEST KOWLOON STATION TERMINUS",
-        "stop_name_wrap_en": "WHAMPOA GARDEN|BUS TERMINUS",
+        "stop_name_wrap_en": "WEST KOWLOON|STATION TERMINUS",
         "stop_name_zh": "西九龍站總站"
-      },
-      "WELCMSPEECHKMB": {
-        "stop_name_en": "WELCOME ONBOARD",
-        "stop_name_wrap_en": "WHAMPOA GARDEN|BUS TERMINUS",
-        "stop_name_zh": "歡迎乘坐九龍巴士"
-      },
-      "WELCMSPEECHLWB": {
-        "stop_name_en": "WELCOME ONBOARD",
-        "stop_name_wrap_en": "WHAMPOA GARDEN|BUS TERMINUS",
-        "stop_name_zh": "歡迎乘坐龍運巴士"
       },
       "WH01T10000": {
         "lat": 22.304899,
         "long": 114.19069,
         "stop_name_en": "WHAMPOA GARDEN BUS TERMINUS",
-        "stop_name_wrap_en": "WING KEI ROAD",
+        "stop_name_wrap_en": "WHAMPOA GARDEN|BUS TERMINUS",
         "stop_name_zh": "黃埔花園總站"
       },
       "WH01T10100": {
         "stop_name_en": "WHAMPOA GARDEN BUS TERMINUS",
-        "stop_name_wrap_en": "WING KEI ROAD",
+        "stop_name_wrap_en": "WHAMPOA GARDEN|BUS TERMINUS",
         "stop_name_zh": "黃埔花園總站"
       },
       "WH01T10500": {
         "lat": 22.304924,
         "long": 114.190783,
         "stop_name_en": "WHAMPOA GARDEN BUS TERMINUS",
-        "stop_name_wrap_en": "WING SHUN STREET",
+        "stop_name_wrap_en": "WHAMPOA GARDEN|BUS TERMINUS",
         "stop_name_zh": "黃埔花園總站"
       },
       "WH01T11000": {
         "lat": 22.304688,
         "long": 114.190403,
         "stop_name_en": "WHAMPOA GARDEN BUS TERMINUS",
-        "stop_name_wrap_en": "TSUEN WAN|CHINESE CEMETERY",
+        "stop_name_wrap_en": "WHAMPOA GARDEN|BUS TERMINUS",
         "stop_name_zh": "黃埔花園總站"
       },
       "WH01T11500": {
         "lat": 22.30484,
         "long": 114.190806,
         "stop_name_en": "WHAMPOA GARDEN BUS TERMINUS",
-        "stop_name_wrap_en": "WATERSIDE PLAZA",
+        "stop_name_wrap_en": "WHAMPOA GARDEN|BUS TERMINUS",
         "stop_name_zh": "黃埔花園總站"
       },
       "WH01T12000": {
         "lat": 22.30483,
         "long": 114.190277,
         "stop_name_en": "WHAMPOA GARDEN BUS TERMINUS",
-        "stop_name_wrap_en": "TSUEN WAN|SPORTS CENTRE",
+        "stop_name_wrap_en": "WHAMPOA GARDEN|BUS TERMINUS",
         "stop_name_zh": "黃埔花園總站"
       },
       "WI01N10000": {
         "lat": 22.359698,
         "long": 114.118508,
         "stop_name_en": "WING KEI ROAD",
-        "stop_name_wrap_en": "TSUEN WAN PARK",
+        "stop_name_wrap_en": "WING KEI ROAD",
         "stop_name_zh": "永基路"
       },
       "WI01S10000": {
         "lat": 22.358569,
         "long": 114.118431,
         "stop_name_en": "WING KEI ROAD",
-        "stop_name_wrap_en": "WATERSIDE PLAZA",
+        "stop_name_wrap_en": "WING KEI ROAD",
         "stop_name_zh": "永基路"
       },
       "WI02N08000": {
         "lat": 22.355761,
         "long": 114.115834,
         "stop_name_en": "WING SHUN STREET",
-        "stop_name_wrap_en": "TSUEN WAN|CHINESE CEMETERY",
+        "stop_name_wrap_en": "WING SHUN STREET",
         "stop_name_zh": "永順街"
       },
       "WI02N09000": {
         "lat": 22.360147,
         "long": 114.114661,
         "stop_name_en": "TSUEN WAN CHINESE CEMETERY",
-        "stop_name_wrap_en": "WING SHUN STREET",
+        "stop_name_wrap_en": "TSUEN WAN|CHINESE CEMETERY",
         "stop_name_zh": "荃灣華人墳場"
       },
       "WI02N09500": {
         "lat": 22.363938,
         "long": 114.113519,
         "stop_name_en": "WATERSIDE PLAZA",
-        "stop_name_wrap_en": "WING HING STREET",
+        "stop_name_wrap_en": "WATERSIDE PLAZA",
         "stop_name_zh": "海灣花園"
       },
       "WI02N10000": {
         "lat": 22.365646,
         "long": 114.113415,
         "stop_name_en": "TSUEN WAN SPORTS CENTRE",
-        "stop_name_wrap_en": "CHAI WAN|INDUSTRIAL CITY",
+        "stop_name_wrap_en": "TSUEN WAN|SPORTS CENTRE",
         "stop_name_zh": "荃灣體育館"
       },
       "WI02S10000": {
         "lat": 22.365775,
         "long": 114.113857,
         "stop_name_en": "TSUEN WAN PARK",
-        "stop_name_wrap_en": "CHAI WAN|INDUSTRIAL CITY",
+        "stop_name_wrap_en": "TSUEN WAN PARK",
         "stop_name_zh": "荃灣公園"
       },
       "WI02S10500": {
         "lat": 22.363936,
         "long": 114.113831,
         "stop_name_en": "WATERSIDE PLAZA",
-        "stop_name_wrap_en": "TSUI SHOU HOUSE|TSUI WAN ESTATE",
+        "stop_name_wrap_en": "WATERSIDE PLAZA",
         "stop_name_zh": "海灣花園"
       },
       "WI02S11000": {
         "lat": 22.359916,
         "long": 114.114816,
         "stop_name_en": "TSUEN WAN CHINESE CEMETERY",
-        "stop_name_wrap_en": "TSUI SHOU HOUSE|TSUI WAN ESTATE",
+        "stop_name_wrap_en": "TSUEN WAN|CHINESE CEMETERY",
         "stop_name_zh": "荃灣華人墳場"
       },
       "WI02S11500": {
         "lat": 22.355797,
         "long": 114.115915,
         "stop_name_en": "WING SHUN STREET",
-        "stop_name_wrap_en": "WO CHE|BUS TERMINUS",
+        "stop_name_wrap_en": "WING SHUN STREET",
         "stop_name_zh": "永順街"
       },
       "WI03E10000": {
         "lat": 22.285378,
         "long": 114.192437,
         "stop_name_en": "WING HING STREET",
-        "stop_name_wrap_en": "WO CHE|BUS TERMINUS",
+        "stop_name_wrap_en": "WING HING STREET",
         "stop_name_zh": "永興街"
       },
       "WI04E10500": {
         "lat": 22.267576,
         "long": 114.242379,
         "stop_name_en": "CHAI WAN INDUSTRIAL CITY",
-        "stop_name_wrap_en": "SAU CHUEN HOUSE|LEK YUEN ESTATE",
+        "stop_name_wrap_en": "CHAI WAN|INDUSTRIAL CITY",
         "stop_name_zh": "柴灣工業城"
       },
       "WI04E10750": {
         "lat": 22.267633,
         "long": 114.242377,
         "stop_name_en": "CHAI WAN INDUSTRIAL CITY",
-        "stop_name_wrap_en": "LUK CHUEN HOUSE",
+        "stop_name_wrap_en": "CHAI WAN|INDUSTRIAL CITY",
         "stop_name_zh": "柴灣工業城"
       },
       "WI04E11000": {
         "lat": 22.26862,
         "long": 114.240685,
         "stop_name_en": "TSUI SHOU HOUSE TSUI WAN ESTATE",
-        "stop_name_wrap_en": "WO HING TSUEN",
+        "stop_name_wrap_en": "TSUI SHOU HOUSE|TSUI WAN ESTATE",
         "stop_name_zh": "翠灣邨翠壽樓"
       },
       "WI04E11500": {
         "lat": 22.26862,
         "long": 114.240685,
         "stop_name_en": "TSUI SHOU HOUSE TSUI WAN ESTATE",
-        "stop_name_wrap_en": "WO HING ROAD",
+        "stop_name_wrap_en": "TSUI SHOU HOUSE|TSUI WAN ESTATE",
         "stop_name_zh": "翠灣邨翠壽樓"
       },
       "WO01T10000": {
         "lat": 22.388591,
         "long": 114.194423,
         "stop_name_en": "WO CHE BUS TERMINUS",
-        "stop_name_wrap_en": "WO HING TSUEN",
+        "stop_name_wrap_en": "WO CHE|BUS TERMINUS",
         "stop_name_zh": "禾輋巴士總站"
       },
       "WO01T10500": {
         "lat": 22.388561,
         "long": 114.194454,
         "stop_name_en": "WO CHE BUS TERMINUS",
-        "stop_name_wrap_en": "WO HOP SHEK",
+        "stop_name_wrap_en": "WO CHE|BUS TERMINUS",
         "stop_name_zh": "禾輋巴士總站"
       },
       "WO01W10000": {
         "lat": 22.386183,
         "long": 114.192851,
         "stop_name_en": "SAU CHUEN HOUSE LEK YUEN ESTATE",
-        "stop_name_wrap_en": "WO HOP SHEK",
+        "stop_name_wrap_en": "SAU CHUEN HOUSE|LEK YUEN ESTATE",
         "stop_name_zh": "瀝源邨壽全樓"
       },
       "WO01W10500": {
         "lat": 22.386617,
         "long": 114.192289,
         "stop_name_en": "LUK CHUEN HOUSE",
-        "stop_name_wrap_en": "KWAI CHUNG|KAI FONG ASS.",
+        "stop_name_wrap_en": "LUK CHUEN HOUSE",
         "stop_name_zh": "祿泉樓"
       },
       "WO02N10000": {
         "lat": 22.485128,
         "long": 114.14636,
         "stop_name_en": "WO HING TSUEN",
-        "stop_name_wrap_en": "KWAI CHUNG|KAI FONG ASS.",
+        "stop_name_wrap_en": "WO HING TSUEN",
         "stop_name_zh": "和興村"
       },
       "WO02N10500": {
         "lat": 22.486596,
         "long": 114.1478,
         "stop_name_en": "WO HING ROAD",
-        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
+        "stop_name_wrap_en": "WO HING ROAD",
         "stop_name_zh": "和興路"
       },
       "WO02S10000": {
         "lat": 22.484716,
         "long": 114.146218,
         "stop_name_en": "WO HING TSUEN",
-        "stop_name_wrap_en": "WONG NAI TAU",
+        "stop_name_wrap_en": "WO HING TSUEN",
         "stop_name_zh": "和興村"
       },
       "WO02T10000": {
         "lat": 22.482439,
         "long": 114.143218,
         "stop_name_en": "WO HOP SHEK",
-        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
+        "stop_name_wrap_en": "WO HOP SHEK",
         "stop_name_zh": "和合石"
       },
       "WO02T10500": {
         "lat": 22.482439,
         "long": 114.143218,
         "stop_name_en": "WO HOP SHEK",
-        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
+        "stop_name_wrap_en": "WO HOP SHEK",
         "stop_name_zh": "和合石"
       },
       "WO02T11000": {
         "lat": 22.482364,
         "long": 114.143724,
         "stop_name_en": "WO HOP SHEK",
-        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
+        "stop_name_wrap_en": "WO HOP SHEK",
         "stop_name_zh": "和合石"
       },
       "WO02T11500": {
         "lat": 22.482439,
         "long": 114.143218,
         "stop_name_en": "WO HOP SHEK",
-        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
+        "stop_name_wrap_en": "WO HOP SHEK",
         "stop_name_zh": "和合石"
       },
       "WO03E10000": {
         "lat": 22.368833,
         "long": 114.129575,
         "stop_name_en": "KWAI CHUNG KAI FONG ASS.",
-        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
+        "stop_name_wrap_en": "KWAI CHUNG|KAI FONG ASS.",
         "stop_name_zh": "葵涌街坊會"
       },
       "WO03E10002": {
         "lat": 22.368833,
         "long": 114.129575,
         "stop_name_en": "KWAI CHUNG KAI FONG ASS.",
-        "stop_name_wrap_en": "WONG NAI TAU",
+        "stop_name_wrap_en": "KWAI CHUNG|KAI FONG ASS.",
         "stop_name_zh": "葵涌街坊會"
       },
       "WO03T10000": {
         "stop_name_en": "WONG NAI TAU BUS TERMINUS",
-        "stop_name_wrap_en": "KIN HONG STREET",
+        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
         "stop_name_zh": "黃泥頭總站"
       },
       "WO03T10002": {
         "lat": 22.382285,
         "long": 114.217717,
         "stop_name_en": "WONG NAI TAU",
-        "stop_name_wrap_en": "TA CHUEN PING|STREET",
-        "stop_name_zh": "黃泥頭"
-      },
-      "WO03T10500": {
-        "stop_name_en": "WONG NAI TAU",
-        "stop_name_wrap_en": "TA CHUEN PING|STREET",
+        "stop_name_wrap_en": "WONG NAI TAU",
         "stop_name_zh": "黃泥頭"
       },
       "WO03T11000": {
         "lat": 22.382321,
         "long": 114.217722,
         "stop_name_en": "WONG NAI TAU BUS TERMINUS",
-        "stop_name_wrap_en": "SHEK YI ROAD",
+        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
         "stop_name_zh": "黃泥頭總站"
       },
       "WO03T11500": {
         "lat": 22.38234,
         "long": 114.217954,
         "stop_name_en": "WONG NAI TAU BUS TERMINUS",
-        "stop_name_wrap_en": "LAM TIN STREET",
+        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
         "stop_name_zh": "黃泥頭總站"
       },
       "WO03T11700": {
         "stop_name_en": "WONG NAI TAU BUS TERMINUS",
-        "stop_name_wrap_en": "LAM TIN STREET",
+        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
         "stop_name_zh": "黃泥頭總站"
       },
       "WO03T12000": {
         "lat": 22.382436,
         "long": 114.217712,
         "stop_name_en": "WONG NAI TAU BUS TERMINUS",
-        "stop_name_wrap_en": "WO YI HOP ROAD|SPORTSGROUND",
+        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
         "stop_name_zh": "黃泥頭總站"
       },
       "WO03T12500": {
         "stop_name_en": "WONG NAI TAU BUS TERMINUS",
-        "stop_name_wrap_en": "WO YI HOP ROAD|SPORTSGROUND",
+        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
         "stop_name_zh": "黃泥頭總站"
       },
       "WO03T14000": {
         "lat": 22.382285,
         "long": 114.217717,
         "stop_name_en": "WONG NAI TAU BUS TERMINUS",
-        "stop_name_wrap_en": "SHEK WAI KOK|SUN VILLAGE",
+        "stop_name_wrap_en": "WONG NAI TAU|BUS TERMINUS",
         "stop_name_zh": "黃泥頭總站"
-      },
-      "WO03T14002": {
-        "stop_name_en": "WONG NAI TAU",
-        "stop_name_wrap_en": "SHEK WAI KOK|SUN VILLAGE",
-        "stop_name_zh": "黃泥頭"
       },
       "WO03W10000": {
         "lat": 22.369156,
         "long": 114.130194,
         "stop_name_en": "KIN HONG STREET",
-        "stop_name_wrap_en": "LEI MUK SHUE|ESTATE",
+        "stop_name_wrap_en": "KIN HONG STREET",
         "stop_name_zh": "健康街"
       },
       "WO04N10000": {
         "lat": 22.366078,
         "long": 114.136904,
         "stop_name_en": "TA CHUEN PING STREET",
-        "stop_name_wrap_en": "HO FUNG COLLEGE",
+        "stop_name_wrap_en": "TA CHUEN PING|STREET",
         "stop_name_zh": "打磚坪街"
       },
       "WO04N10500": {
         "lat": 22.365984,
         "long": 114.136723,
         "stop_name_en": "TA CHUEN PING STREET",
-        "stop_name_wrap_en": "HO FUNG COLLEGE",
+        "stop_name_wrap_en": "TA CHUEN PING|STREET",
         "stop_name_zh": "打磚坪街"
       },
       "WO04N11000": {
         "lat": 22.368408,
         "long": 114.139187,
         "stop_name_en": "SHEK YI ROAD",
-        "stop_name_wrap_en": "LEI MUK SHUE|ESTATE",
+        "stop_name_wrap_en": "SHEK YI ROAD",
         "stop_name_zh": "石宜路"
       },
       "WO04N11500": {
         "lat": 22.369709,
         "long": 114.138771,
         "stop_name_en": "LAM TIN STREET",
-        "stop_name_wrap_en": "LEI MUK SHUE|ESTATE",
+        "stop_name_wrap_en": "LAM TIN STREET",
         "stop_name_zh": "藍田街"
       },
       "WO04N12000": {
         "lat": 22.369867,
         "long": 114.138528,
         "stop_name_en": "LAM TIN STREET",
-        "stop_name_wrap_en": "WO YI HOP ROAD|SPORTSGROUND",
+        "stop_name_wrap_en": "LAM TIN STREET",
         "stop_name_zh": "藍田街"
       },
       "WO04N12500": {
@@ -141786,2048 +141734,2005 @@
         "lat": 22.375875,
         "long": 114.13625,
         "stop_name_en": "SHEK WAI KOK SUN VILLAGE",
-        "stop_name_wrap_en": "WO YI HOP ROAD|SPORTSGROUND",
+        "stop_name_wrap_en": "SHEK WAI KOK|SUN VILLAGE",
         "stop_name_zh": "石圍角新村"
       },
       "WO04N13002": {
         "stop_name_en": "SHEK WAI KOK SUN VILLAGE",
-        "stop_name_wrap_en": "LEI MUK ROAD",
+        "stop_name_wrap_en": "SHEK WAI KOK|SUN VILLAGE",
         "stop_name_zh": "石圍角新村"
       },
       "WO04N13500": {
         "lat": 22.37859,
         "long": 114.137242,
         "stop_name_en": "LEI MUK SHUE ESTATE",
-        "stop_name_wrap_en": "LAM TIN STREET",
+        "stop_name_wrap_en": "LEI MUK SHUE|ESTATE",
         "stop_name_zh": "梨木樹邨"
       },
       "WO04N13750": {
         "lat": 22.378515,
         "long": 114.13727,
         "stop_name_en": "LEI MUK SHUE ESTATE",
-        "stop_name_wrap_en": "LAM TIN STREET",
+        "stop_name_wrap_en": "LEI MUK SHUE|ESTATE",
         "stop_name_zh": "梨木樹邨"
       },
       "WO04N14000": {
         "lat": 22.380167,
         "long": 114.135129,
         "stop_name_en": "HO FUNG COLLEGE",
-        "stop_name_wrap_en": "TA CHUEN PING|STREET",
+        "stop_name_wrap_en": "HO FUNG COLLEGE",
         "stop_name_zh": "可風中學"
       },
       "WO04S10000": {
         "lat": 22.380443,
         "long": 114.135135,
         "stop_name_en": "HO FUNG COLLEGE",
-        "stop_name_wrap_en": "WONG SHEK PIER|BUS TERMINUS",
+        "stop_name_wrap_en": "HO FUNG COLLEGE",
         "stop_name_zh": "可風中學"
       },
       "WO04S10250": {
         "lat": 22.380443,
         "long": 114.135135,
         "stop_name_en": "HO FUNG COLLEGE",
-        "stop_name_wrap_en": "WONG SHEK PIER|BUS TERMINUS",
+        "stop_name_wrap_en": "HO FUNG COLLEGE",
         "stop_name_zh": "可風中學"
       },
       "WO04S10500": {
         "lat": 22.377716,
         "long": 114.137097,
         "stop_name_en": "LEI MUK SHUE ESTATE",
-        "stop_name_wrap_en": "SHEK KIP MEI|STATION",
+        "stop_name_wrap_en": "LEI MUK SHUE|ESTATE",
         "stop_name_zh": "梨木樹邨"
       },
       "WO04S10600": {
         "lat": 22.377275,
         "long": 114.136891,
         "stop_name_en": "LEI MUK SHUE ESTATE",
-        "stop_name_wrap_en": "BLOCK 20|SHEK KIP MEI EST",
+        "stop_name_wrap_en": "LEI MUK SHUE|ESTATE",
         "stop_name_zh": "梨木樹邨"
       },
       "WO04S10900": {
         "lat": 22.374165,
         "long": 114.136527,
         "stop_name_en": "WO YI HOP ROAD SPORTSGROUND",
-        "stop_name_wrap_en": "BLOCK 23|SHEK KIP MEI EST",
+        "stop_name_wrap_en": "WO YI HOP ROAD|SPORTSGROUND",
         "stop_name_zh": "和宜合道運動場"
       },
       "WO04S10902": {
         "lat": 22.374165,
         "long": 114.136527,
         "stop_name_en": "WO YI HOP ROAD SPORTSGROUND",
-        "stop_name_wrap_en": "MEI SANG HOUSE|SHEK KIP MEI EST",
+        "stop_name_wrap_en": "WO YI HOP ROAD|SPORTSGROUND",
         "stop_name_zh": "和宜合道運動場"
       },
       "WO04S11000": {
         "lat": 22.374018,
         "long": 114.136465,
         "stop_name_en": "WO YI HOP ROAD SPORTSGROUND",
-        "stop_name_wrap_en": "SHEK KIP MEI|STATION",
+        "stop_name_wrap_en": "WO YI HOP ROAD|SPORTSGROUND",
         "stop_name_zh": "和宜合道運動場"
       },
       "WO04S11000OLD": {
         "stop_name_en": "WO YI HOP ROAD SPORTSGROUND",
-        "stop_name_wrap_en": "MAN LOK HOUSE",
+        "stop_name_wrap_en": "WO YI HOP ROAD|SPORTSGROUND",
         "stop_name_zh": "和宜合道運動場"
       },
       "WO04S11500": {
         "lat": 22.371271,
         "long": 114.136752,
         "stop_name_en": "LEI MUK ROAD",
-        "stop_name_wrap_en": "MAN LOK HOUSE",
+        "stop_name_wrap_en": "LEI MUK ROAD",
         "stop_name_zh": "梨木道"
       },
       "WO04S12000": {
         "lat": 22.370039,
         "long": 114.138328,
         "stop_name_en": "LAM TIN STREET",
-        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
+        "stop_name_wrap_en": "LAM TIN STREET",
         "stop_name_zh": "藍田街"
       },
       "WO04S12500": {
         "lat": 22.369992,
         "long": 114.138344,
         "stop_name_en": "LAM TIN STREET",
-        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
+        "stop_name_wrap_en": "LAM TIN STREET",
         "stop_name_zh": "藍田街"
       },
       "WO04S13000": {
         "lat": 22.36736,
         "long": 114.138988,
         "stop_name_en": "TA CHUEN PING STREET",
-        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
+        "stop_name_wrap_en": "TA CHUEN PING|STREET",
         "stop_name_zh": "打磚坪街"
       },
       "WO04T09500": {
         "lat": 22.434752,
         "long": 114.33673,
         "stop_name_en": "WONG SHEK PIER BUS TERMINUS",
-        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
+        "stop_name_wrap_en": "WONG SHEK PIER|BUS TERMINUS",
         "stop_name_zh": "黃石碼頭總站"
       },
       "WO04T10000": {
         "lat": 22.434752,
         "long": 114.336736,
         "stop_name_en": "WONG SHEK PIER BUS TERMINUS",
-        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
+        "stop_name_wrap_en": "WONG SHEK PIER|BUS TERMINUS",
         "stop_name_zh": "黃石碼頭總站"
       },
       "WO05N10000": {
         "lat": 22.331455,
         "long": 114.169457,
         "stop_name_en": "SHEK KIP MEI STATION",
-        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
+        "stop_name_wrap_en": "SHEK KIP MEI|STATION",
         "stop_name_zh": "石硤尾站"
       },
       "WO05N10500": {
         "lat": 22.332431,
         "long": 114.166897,
         "stop_name_en": "BLOCK 20 SHEK KIP MEI EST",
-        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
+        "stop_name_wrap_en": "BLOCK 20|SHEK KIP MEI EST",
         "stop_name_zh": "石硤尾邨第20座"
       },
       "WO05N11000": {
         "lat": 22.333633,
         "long": 114.165358,
         "stop_name_en": "BLOCK 23 SHEK KIP MEI EST",
-        "stop_name_wrap_en": "ABERDEEN|TECHNICAL SCHOOL",
+        "stop_name_wrap_en": "BLOCK 23|SHEK KIP MEI EST",
         "stop_name_zh": "石硤尾邨第23座"
       },
       "WO05S10000": {
         "lat": 22.333562,
         "long": 114.165756,
         "stop_name_en": "MEI SANG HOUSE SHEK KIP MEI EST",
-        "stop_name_wrap_en": "YAN'S TOWER",
+        "stop_name_wrap_en": "MEI SANG HOUSE|SHEK KIP MEI EST",
         "stop_name_zh": "石硤尾邨美笙樓"
       },
       "WO05S10500": {
         "lat": 22.331837,
         "long": 114.167987,
         "stop_name_en": "SHEK KIP MEI STATION",
-        "stop_name_wrap_en": "YIP HING STREET",
+        "stop_name_wrap_en": "SHEK KIP MEI|STATION",
         "stop_name_zh": "石硤尾站"
       },
       "WO05S11000": {
         "lat": 22.331648,
         "long": 114.169578,
         "stop_name_en": "MAN LOK HOUSE",
-        "stop_name_wrap_en": "WONG CHUK HANG|RECREATION GND",
+        "stop_name_wrap_en": "MAN LOK HOUSE",
         "stop_name_zh": "民樂樓"
       },
       "WO05S11500": {
         "lat": 22.331652,
         "long": 114.169655,
         "stop_name_en": "MAN LOK HOUSE",
-        "stop_name_wrap_en": "ABERDEEN TUNNEL",
+        "stop_name_wrap_en": "MAN LOK HOUSE",
         "stop_name_zh": "民樂樓"
       },
       "WO05T10000": {
         "lat": 22.340841,
         "long": 114.195295,
         "stop_name_en": "WONG TAI SIN BUS TERMINUS",
-        "stop_name_wrap_en": "ABERDEEN TUNNEL",
+        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
         "stop_name_zh": "黃大仙總站"
       },
       "WO05T10500": {
         "lat": 22.340819,
         "long": 114.195236,
         "stop_name_en": "WONG TAI SIN BUS TERMINUS",
-        "stop_name_wrap_en": "ABERDEEN TUNNEL",
+        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
         "stop_name_zh": "黃大仙總站"
       },
       "WO05T11500": {
         "lat": 22.341022,
         "long": 114.194867,
         "stop_name_en": "WONG TAI SIN BUS TERMINUS",
-        "stop_name_wrap_en": "WONG CHUK HANG|RECREATION GND",
+        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
         "stop_name_zh": "黃大仙總站"
       },
       "WO05T12000": {
         "lat": 22.340803,
         "long": 114.195161,
         "stop_name_en": "WONG TAI SIN BUS TERMINUS",
-        "stop_name_wrap_en": "YIP HING STREET",
+        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
         "stop_name_zh": "黃大仙總站"
       },
       "WO05T12500": {
         "lat": 22.340925,
         "long": 114.194927,
         "stop_name_en": "WONG TAI SIN BUS TERMINUS",
-        "stop_name_wrap_en": "NAM LONG SHAN|ROAD",
+        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
         "stop_name_zh": "黃大仙總站"
       },
       "WO05T13000": {
         "lat": 22.340796,
         "long": 114.195088,
         "stop_name_en": "WONG TAI SIN BUS TERMINUS",
-        "stop_name_wrap_en": "VICTORY|FACTORY BUILDING",
+        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
         "stop_name_zh": "黃大仙總站"
       },
       "WO05T14000": {
         "stop_name_en": "WONG TAI SIN BUS TERMINUS",
-        "stop_name_wrap_en": "WONG CHUK HANG|BUS TERMINUS",
+        "stop_name_wrap_en": "WONG TAI SIN|BUS TERMINUS",
         "stop_name_zh": "黃大仙總站"
       },
       "WO06N10000": {
         "lat": 22.248699,
         "long": 114.162511,
         "stop_name_en": "ABERDEEN TECHNICAL SCHOOL",
-        "stop_name_wrap_en": "TAI NAN STREET",
+        "stop_name_wrap_en": "ABERDEEN|TECHNICAL SCHOOL",
         "stop_name_zh": "香港仔工業學校"
       },
       "WO06N10500": {
         "lat": 22.248547,
         "long": 114.163881,
         "stop_name_en": "YAN'S TOWER",
-        "stop_name_wrap_en": "FUK WA STREET",
+        "stop_name_wrap_en": "YAN'S TOWER",
         "stop_name_zh": "甄沾記大廈"
       },
       "WO06N10800": {
         "lat": 22.249669,
         "long": 114.168177,
         "stop_name_en": "YIP HING STREET",
-        "stop_name_wrap_en": "HK SANATORIUM|AND HOSPITAL",
+        "stop_name_wrap_en": "YIP HING STREET",
         "stop_name_zh": "業興街"
       },
       "WO06N11000": {
         "lat": 22.25057,
         "long": 114.170418,
         "stop_name_en": "WONG CHUK HANG RECREATION GND",
-        "stop_name_wrap_en": "HAPPY VALLEY|RACECOURSE",
+        "stop_name_wrap_en": "WONG CHUK HANG|RECREATION GND",
         "stop_name_zh": "黃竹坑遊樂場"
       },
       "WO06N11500": {
         "lat": 22.250048,
         "long": 114.176065,
         "stop_name_en": "ABERDEEN TUNNEL",
-        "stop_name_wrap_en": "HAU TAK LANE",
+        "stop_name_wrap_en": "ABERDEEN TUNNEL",
         "stop_name_zh": "香港仔隧道"
       },
       "WO06N13000": {
         "lat": 22.251807,
         "long": 114.17807,
         "stop_name_en": "ABERDEEN TUNNEL",
-        "stop_name_wrap_en": "SPORTS ROAD",
+        "stop_name_wrap_en": "ABERDEEN TUNNEL",
         "stop_name_zh": "香港仔隧道"
       },
       "WO06S08500": {
         "lat": 22.25143,
         "long": 114.178279,
         "stop_name_en": "ABERDEEN TUNNEL",
-        "stop_name_wrap_en": "BROADWOOD ROAD",
+        "stop_name_wrap_en": "ABERDEEN TUNNEL",
         "stop_name_zh": "香港仔隧道"
       },
       "WO06S09000": {
         "lat": 22.251256,
         "long": 114.178132,
         "stop_name_en": "ABERDEEN TUNNEL",
-        "stop_name_wrap_en": "AMIGO MANSION",
+        "stop_name_wrap_en": "ABERDEEN TUNNEL",
         "stop_name_zh": "香港仔隧道"
       },
       "WO06S10000": {
         "lat": 22.249737,
         "long": 114.175302,
         "stop_name_en": "ABERDEEN TUNNEL",
-        "stop_name_wrap_en": "WONG TAI SIN|TEMPLE",
+        "stop_name_wrap_en": "ABERDEEN TUNNEL",
         "stop_name_zh": "香港仔隧道"
       },
       "WO06S10001": {
         "stop_name_en": "ABERDEEN TUNNEL",
-        "stop_name_wrap_en": "LUNG CHEUNG GOVT|SECONDARY SCHOOL",
+        "stop_name_wrap_en": "ABERDEEN TUNNEL",
         "stop_name_zh": "香港仔隧道"
       },
       "WO06S10750": {
         "lat": 22.250307,
         "long": 114.170477,
         "stop_name_en": "WONG CHUK HANG RECREATION GND",
-        "stop_name_wrap_en": "ALLIANCE|PRIMARY SCHOOL",
+        "stop_name_wrap_en": "WONG CHUK HANG|RECREATION GND",
         "stop_name_zh": "黃竹坑遊樂場"
       },
       "WO06S11250": {
         "lat": 22.249172,
         "long": 114.167885,
         "stop_name_en": "YIP HING STREET",
-        "stop_name_wrap_en": "UNION PLAZA",
+        "stop_name_wrap_en": "YIP HING STREET",
         "stop_name_zh": "業興街"
       },
       "WO06S11750": {
         "lat": 22.248252,
         "long": 114.165898,
         "stop_name_en": "NAM LONG SHAN ROAD",
-        "stop_name_wrap_en": "UNION PLAZA",
+        "stop_name_wrap_en": "NAM LONG SHAN|ROAD",
         "stop_name_zh": "南朗山道"
       },
       "WO06S12000": {
         "lat": 22.248388,
         "long": 114.162899,
         "stop_name_en": "VICTORY FACTORY BUILDING",
-        "stop_name_wrap_en": "WO KWAI LANE",
+        "stop_name_wrap_en": "VICTORY|FACTORY BUILDING",
         "stop_name_zh": "勝利工廠大廈"
       },
       "WO06T10000": {
         "stop_name_en": "WONG CHUK HANG BUS TERMINUS",
-        "stop_name_wrap_en": "WO KWAI LANE",
+        "stop_name_wrap_en": "WONG CHUK HANG|BUS TERMINUS",
         "stop_name_zh": "黃竹坑總站"
       },
       "WO07E10000": {
         "lat": 22.32699,
         "long": 114.163828,
         "stop_name_en": "TAI NAN STREET",
-        "stop_name_wrap_en": "LUNG YAT ESTATE",
+        "stop_name_wrap_en": "TAI NAN STREET",
         "stop_name_zh": "大南街"
       },
       "WO07E10500": {
         "lat": 22.328849,
         "long": 114.165486,
         "stop_name_en": "FUK WA STREET",
-        "stop_name_wrap_en": "LUNG YAT ESTATE",
+        "stop_name_wrap_en": "FUK WA STREET",
         "stop_name_zh": "福華街"
       },
       "WO08N10000": {
         "lat": 22.269951,
         "long": 114.182847,
         "stop_name_en": "HK SANATORIUM AND HOSPITAL",
-        "stop_name_wrap_en": "WU BOON HOUSE|WU KING ESTATE",
+        "stop_name_wrap_en": "HK SANATORIUM|AND HOSPITAL",
         "stop_name_zh": "養和醫院"
       },
       "WO08N10500": {
         "lat": 22.271166,
         "long": 114.180957,
         "stop_name_en": "HAPPY VALLEY RACECOURSE",
-        "stop_name_wrap_en": "WU TSUI HOUSE|WU KING ESTATE",
+        "stop_name_wrap_en": "HAPPY VALLEY|RACECOURSE",
         "stop_name_zh": "跑馬地馬場"
       },
       "WO08N12000": {
         "lat": 22.274166,
         "long": 114.179301,
         "stop_name_en": "HAU TAK LANE",
-        "stop_name_wrap_en": "WU TSUI HOUSE|WU KING ESTATE",
+        "stop_name_wrap_en": "HAU TAK LANE",
         "stop_name_zh": "厚德里"
       },
       "WO08S10000": {
         "lat": 22.275986,
         "long": 114.182764,
         "stop_name_en": "SPORTS ROAD",
-        "stop_name_wrap_en": "WU TSUI HOUSE|WU KING ESTATE",
+        "stop_name_wrap_en": "SPORTS ROAD",
         "stop_name_zh": "體育道"
       },
       "WO08S10500": {
         "lat": 22.274411,
         "long": 114.183511,
         "stop_name_en": "BROADWOOD ROAD",
-        "stop_name_wrap_en": "WU BOON HOUSE WU|KING ESTATE",
+        "stop_name_wrap_en": "BROADWOOD ROAD",
         "stop_name_zh": "樂活道"
       },
       "WO08S11000": {
         "lat": 22.272017,
         "long": 114.184657,
         "stop_name_en": "AMIGO MANSION",
-        "stop_name_wrap_en": "WU KAI SHA|STATION",
+        "stop_name_wrap_en": "AMIGO MANSION",
         "stop_name_zh": "雅谷大廈"
       },
       "WO09W10000": {
         "lat": 22.343535,
         "long": 114.193854,
         "stop_name_en": "WONG TAI SIN TEMPLE",
-        "stop_name_wrap_en": "WU KAI SHA|STATION",
+        "stop_name_wrap_en": "WONG TAI SIN|TEMPLE",
         "stop_name_zh": "黃大仙廟"
       },
       "WO09W10500": {
         "lat": 22.343226,
         "long": 114.190945,
         "stop_name_en": "LUNG CHEUNG GOVT SECONDARY SCHOOL",
-        "stop_name_wrap_en": "WU KAI SHA|STATION",
+        "stop_name_wrap_en": "LUNG CHEUNG GOVT|SECONDARY SCHOOL",
         "stop_name_zh": "龍翔官立中學"
       },
       "WO11E10000": {
         "lat": 22.500807,
         "long": 114.14261,
         "stop_name_en": "ALLIANCE PRIMARY SCHOOL",
-        "stop_name_wrap_en": "WU KAI SHA|STATION",
+        "stop_name_wrap_en": "ALLIANCE|PRIMARY SCHOOL",
         "stop_name_zh": "上水宣道小學"
       },
       "WO11W09500": {
         "lat": 22.500489,
         "long": 114.142725,
         "stop_name_en": "UNION PLAZA",
-        "stop_name_wrap_en": "WU KAI SHA|STATION",
+        "stop_name_wrap_en": "UNION PLAZA",
         "stop_name_zh": "海聯廣場"
       },
       "WO11W10000": {
         "stop_name_en": "UNION PLAZA",
-        "stop_name_wrap_en": "WU KAI SHA|STATION",
+        "stop_name_wrap_en": "UNION PLAZA",
         "stop_name_zh": "海聯廣場"
       },
       "WO11W10500": {
         "lat": 22.500489,
         "long": 114.142725,
         "stop_name_en": "UNION PLAZA",
-        "stop_name_wrap_en": "WU KAI SHA|STATION",
+        "stop_name_wrap_en": "UNION PLAZA",
         "stop_name_zh": "海聯廣場"
       },
       "WO12E10000": {
         "lat": 22.367107,
         "long": 114.133083,
         "stop_name_en": "WO KWAI LANE",
-        "stop_name_wrap_en": "BUTTERFLY BEACH|SPORTS CENTRE",
+        "stop_name_wrap_en": "WO KWAI LANE",
         "stop_name_zh": "禾葵里"
       },
       "WO12E10252": {
         "lat": 22.367092,
         "long": 114.133137,
         "stop_name_en": "WO KWAI LANE",
-        "stop_name_wrap_en": "BUTTERFLY BEACH|SPORTS CENTRE",
+        "stop_name_wrap_en": "WO KWAI LANE",
         "stop_name_zh": "禾葵里"
       },
       "WO13W10000": {
         "lat": 22.387145,
         "long": 113.968011,
         "stop_name_en": "LUNG YAT ESTATE",
-        "stop_name_wrap_en": "WU SHAN|TENNIS COURT",
+        "stop_name_wrap_en": "LUNG YAT ESTATE",
         "stop_name_zh": "龍逸邨"
       },
       "WO13W10002": {
         "lat": 22.387145,
         "long": 113.968011,
         "stop_name_en": "LUNG YAT ESTATE",
-        "stop_name_wrap_en": "WU SHAN|TENNIS COURT",
+        "stop_name_wrap_en": "LUNG YAT ESTATE",
         "stop_name_zh": "龍逸邨"
       },
       "WU01N10000": {
         "lat": 22.374569,
         "long": 113.965687,
         "stop_name_en": "WU BOON HOUSE WU KING ESTATE",
-        "stop_name_wrap_en": "YEH KING HOUSE|SIU SHAN COURT",
+        "stop_name_wrap_en": "WU BOON HOUSE|WU KING ESTATE",
         "stop_name_zh": "湖景邨湖畔樓"
       },
       "WU01N10252": {
         "lat": 22.374569,
         "long": 113.965687,
         "stop_name_en": "WU BOON HOUSE WU KING ESTATE",
-        "stop_name_wrap_en": "YEH KING HOUSE|SIU SHAN COURT",
+        "stop_name_wrap_en": "WU BOON HOUSE|WU KING ESTATE",
         "stop_name_zh": "湖景邨湖畔樓"
       },
       "WU01N10500": {
         "lat": 22.376415,
         "long": 113.966141,
         "stop_name_en": "WU TSUI HOUSE WU KING ESTATE",
-        "stop_name_wrap_en": "TIP SUM HOUSE|BUTTERFLY ESTATE",
+        "stop_name_wrap_en": "WU TSUI HOUSE|WU KING ESTATE",
         "stop_name_zh": "湖景邨湖翠樓"
       },
       "WU01N10752": {
         "lat": 22.376415,
         "long": 113.966141,
         "stop_name_en": "WU TSUI HOUSE WU KING ESTATE",
-        "stop_name_wrap_en": "TIP SUM HOUSE|BUTTERFLY ESTATE",
+        "stop_name_wrap_en": "WU TSUI HOUSE|WU KING ESTATE",
         "stop_name_zh": "湖景邨湖翠樓"
       },
       "WU01S10000": {
         "lat": 22.376589,
         "long": 113.966462,
         "stop_name_en": "WU TSUI HOUSE WU KING ESTATE",
-        "stop_name_wrap_en": "WU PIK HOUSE|WU KING ESTATE",
+        "stop_name_wrap_en": "WU TSUI HOUSE|WU KING ESTATE",
         "stop_name_zh": "湖景邨湖翠樓"
       },
       "WU01S10252": {
         "lat": 22.376645,
         "long": 113.966463,
         "stop_name_en": "WU TSUI HOUSE WU KING ESTATE",
-        "stop_name_wrap_en": "WU PIK HOUSE|WU KING ESTATE",
+        "stop_name_wrap_en": "WU TSUI HOUSE|WU KING ESTATE",
         "stop_name_zh": "湖景邨湖翠樓"
       },
       "WU01S10500": {
         "stop_name_en": "WU BOON HOUSE WU KING ESTATE",
-        "stop_name_wrap_en": "TUEN MUN|PIER HEAD>SIU HEI COURT",
+        "stop_name_wrap_en": "WU BOON HOUSE WU|KING ESTATE",
         "stop_name_zh": "湖景邨湖畔樓"
       },
       "WU01T05000": {
         "stop_name_en": "WU KAI SHA STATION",
-        "stop_name_wrap_en": "TUEN MUN|PIER HEAD>SIU HEI COURT",
+        "stop_name_wrap_en": "WU KAI SHA|STATION",
         "stop_name_zh": "烏溪沙站"
       },
       "WU01T10000": {
         "stop_name_en": "WU KAI SHA STATION",
-        "stop_name_wrap_en": "MIAMI BEACH|TOWERS",
+        "stop_name_wrap_en": "WU KAI SHA|STATION",
         "stop_name_zh": "烏溪沙站"
       },
       "WU01T10500": {
         "lat": 22.428373,
         "long": 114.243567,
         "stop_name_en": "WU KAI SHA STATION",
-        "stop_name_wrap_en": "MIAMI BEACH|TOWERS",
+        "stop_name_wrap_en": "WU KAI SHA|STATION",
         "stop_name_zh": "烏溪沙站"
       },
       "WU01T11000": {
         "lat": 22.428394,
         "long": 114.243732,
         "stop_name_en": "WU KAI SHA STATION",
-        "stop_name_wrap_en": "MIAMI BEACH|TOWERS",
+        "stop_name_wrap_en": "WU KAI SHA|STATION",
         "stop_name_zh": "烏溪沙站"
       },
       "WU01T11500": {
         "lat": 22.42842,
         "long": 114.243873,
         "stop_name_en": "WU KAI SHA STATION",
-        "stop_name_wrap_en": "MIAMI BEACH|TOWERS",
+        "stop_name_wrap_en": "WU KAI SHA|STATION",
         "stop_name_zh": "烏溪沙站"
       },
       "WU01T11750": {
         "lat": 22.42842,
         "long": 114.243873,
         "stop_name_en": "WU KAI SHA STATION",
-        "stop_name_wrap_en": "TUEN MUN|PIER HEAD B/T",
+        "stop_name_wrap_en": "WU KAI SHA|STATION",
         "stop_name_zh": "烏溪沙站"
       },
       "WU01T12000": {
         "lat": 22.42842,
         "long": 114.244017,
         "stop_name_en": "WU KAI SHA STATION",
-        "stop_name_wrap_en": "TUEN MUN|PIER HEAD",
+        "stop_name_wrap_en": "WU KAI SHA|STATION",
         "stop_name_zh": "烏溪沙站"
       },
       "WU01T12002": {
         "lat": 22.428334,
         "long": 114.244021,
         "stop_name_en": "WU KAI SHA STATION",
-        "stop_name_wrap_en": "MELODY GARDEN",
+        "stop_name_wrap_en": "WU KAI SHA|STATION",
         "stop_name_zh": "烏溪沙站"
       },
       "WU01T12500": {
         "lat": 22.428333,
         "long": 114.243275,
         "stop_name_en": "WU KAI SHA STATION",
-        "stop_name_wrap_en": "MELODY GARDEN",
+        "stop_name_wrap_en": "WU KAI SHA|STATION",
         "stop_name_zh": "烏溪沙站"
       },
       "WU02E10000": {
         "lat": 22.378784,
         "long": 113.963571,
         "stop_name_en": "BUTTERFLY BEACH SPORTS CENTRE",
-        "stop_name_wrap_en": "KUN YAM STREET",
+        "stop_name_wrap_en": "BUTTERFLY BEACH|SPORTS CENTRE",
         "stop_name_zh": "蝴蝶灣體育館"
       },
       "WU02E10252": {
         "lat": 22.378671,
         "long": 113.964123,
         "stop_name_en": "BUTTERFLY BEACH SPORTS CENTRE",
-        "stop_name_wrap_en": "MARSH STREET",
+        "stop_name_wrap_en": "BUTTERFLY BEACH|SPORTS CENTRE",
         "stop_name_zh": "蝴蝶灣體育館"
       },
       "WU02E11002": {
         "lat": 22.376686,
         "long": 113.96841,
         "stop_name_en": "WU SHAN TENNIS COURT",
-        "stop_name_wrap_en": "WALKER ROAD",
+        "stop_name_wrap_en": "WU SHAN|TENNIS COURT",
         "stop_name_zh": "湖山網球場"
       },
       "WU02W09002": {
         "lat": 22.376402,
         "long": 113.968465,
         "stop_name_en": "WU SHAN TENNIS COURT",
-        "stop_name_wrap_en": "WALKER ROAD",
+        "stop_name_wrap_en": "WU SHAN|TENNIS COURT",
         "stop_name_zh": "湖山網球場"
       },
       "WU02W10000": {
         "lat": 22.378458,
         "long": 113.963776,
         "stop_name_en": "YEH KING HOUSE SIU SHAN COURT",
-        "stop_name_wrap_en": "WALKER ROAD",
+        "stop_name_wrap_en": "YEH KING HOUSE|SIU SHAN COURT",
         "stop_name_zh": "兆山苑椰景閣"
       },
       "WU02W10252": {
         "lat": 22.378492,
         "long": 113.963662,
         "stop_name_en": "YEH KING HOUSE SIU SHAN COURT",
-        "stop_name_wrap_en": "YUET WU VILLA",
+        "stop_name_wrap_en": "YEH KING HOUSE|SIU SHAN COURT",
         "stop_name_zh": "兆山苑椰景閣"
       },
       "WU03E10000": {
         "lat": 22.374166,
         "long": 113.962277,
         "stop_name_en": "TIP SUM HOUSE BUTTERFLY ESTATE",
-        "stop_name_wrap_en": "YUET WU VILLA",
+        "stop_name_wrap_en": "TIP SUM HOUSE|BUTTERFLY ESTATE",
         "stop_name_zh": "蝴蝶邨蝶心樓"
       },
       "WU03E10002": {
         "stop_name_en": "TIP SUM HOUSE BUTTERFLY ESTATE",
-        "stop_name_wrap_en": "WU KAI SHA ROAD",
+        "stop_name_wrap_en": "TIP SUM HOUSE|BUTTERFLY ESTATE",
         "stop_name_zh": "蝴蝶邨蝶心樓"
       },
       "WU03E10500": {
         "lat": 22.373681,
         "long": 113.964085,
         "stop_name_en": "WU PIK HOUSE WU KING ESTATE",
-        "stop_name_wrap_en": "WEST KOWLOON|STATION",
+        "stop_name_wrap_en": "WU PIK HOUSE|WU KING ESTATE",
         "stop_name_zh": "湖景邨湖碧樓"
       },
       "WU03E10502": {
         "stop_name_en": "WU PIK HOUSE WU KING ESTATE",
-        "stop_name_wrap_en": "WEST KOWLOON|STATION",
+        "stop_name_wrap_en": "WU PIK HOUSE|WU KING ESTATE",
         "stop_name_zh": "湖景邨湖碧樓"
       },
       "WU03E11000": {
         "lat": 22.37312,
         "long": 113.966618,
         "stop_name_en": "TUEN MUN PIER HEADSIU HEI COURT",
-        "stop_name_wrap_en": "WEST KOWLOON|STATION",
+        "stop_name_wrap_en": "TUEN MUN|PIER HEAD>SIU HEI COURT",
         "stop_name_zh": "屯門碼頭兆禧苑"
       },
       "WU03E11002": {
         "lat": 22.37312,
         "long": 113.966618,
         "stop_name_en": "TUEN MUN PIER HEADSIU HEI COURT",
-        "stop_name_wrap_en": "HSR WEST|KOWLOON STATION",
+        "stop_name_wrap_en": "TUEN MUN|PIER HEAD>SIU HEI COURT",
         "stop_name_zh": "屯門碼頭兆禧苑"
       },
       "WU03E11500": {
         "stop_name_en": "MIAMI BEACH TOWERS",
-        "stop_name_wrap_en": "CHI SUM ROAD",
+        "stop_name_wrap_en": "MIAMI BEACH|TOWERS",
         "stop_name_zh": "邁亞美海灣"
       },
       "WU03E11502": {
         "lat": 22.372791,
         "long": 113.969718,
         "stop_name_en": "MIAMI BEACH TOWERS",
-        "stop_name_wrap_en": "WU KAU TANG",
+        "stop_name_wrap_en": "MIAMI BEACH|TOWERS",
         "stop_name_zh": "邁亞美海灣"
       },
       "WU03W09250": {
         "lat": 22.37275,
         "long": 113.969963,
         "stop_name_en": "MIAMI BEACH TOWERS",
-        "stop_name_wrap_en": "THANKS YOU |FOR TRAVELLING",
+        "stop_name_wrap_en": "MIAMI BEACH|TOWERS",
         "stop_name_zh": "邁亞美海灣"
       },
       "WU03W09252": {
         "lat": 22.372713,
         "long": 113.969612,
         "stop_name_en": "MIAMI BEACH TOWERS",
-        "stop_name_wrap_en": "QUEEN ELIZABETH|HOSPITAL",
+        "stop_name_wrap_en": "MIAMI BEACH|TOWERS",
         "stop_name_zh": "邁亞美海灣"
       },
       "WU03W09500": {
         "lat": 22.372799,
         "long": 113.966914,
         "stop_name_en": "TUEN MUN PIER HEAD B/T",
-        "stop_name_wrap_en": "HOMANTIN HILL|ROAD",
+        "stop_name_wrap_en": "TUEN MUN|PIER HEAD B/T",
         "stop_name_zh": "屯門碼頭總站"
       },
       "WU03W09502": {
         "lat": 22.372799,
         "long": 113.966914,
         "stop_name_en": "TUEN MUN PIER HEAD",
-        "stop_name_wrap_en": "HOMANTIN HILL|ROAD",
+        "stop_name_wrap_en": "TUEN MUN|PIER HEAD",
         "stop_name_zh": "屯門碼頭"
       },
       "WU03W10000": {
         "lat": 22.375412,
         "long": 113.960844,
         "stop_name_en": "MELODY GARDEN",
-        "stop_name_wrap_en": "QUEEN ELIZABETH|HOSPITAL",
+        "stop_name_wrap_en": "MELODY GARDEN",
         "stop_name_zh": "美樂花園"
       },
       "WU03W10002": {
         "stop_name_en": "MELODY GARDEN",
-        "stop_name_wrap_en": "LEI YUE MUN|ESTATE",
+        "stop_name_wrap_en": "MELODY GARDEN",
         "stop_name_zh": "美樂花園"
       },
       "WU04E10000": {
         "lat": 22.307555,
         "long": 114.185684,
         "stop_name_en": "KUN YAM STREET",
-        "stop_name_wrap_en": "LEI YUE MUN|ESTATE",
+        "stop_name_wrap_en": "KUN YAM STREET",
         "stop_name_zh": "觀音街"
       },
       "WU04E10500": {
         "lat": 22.307305,
         "long": 114.186095,
         "stop_name_en": "MARSH STREET",
-        "stop_name_wrap_en": "KA WING STREET",
+        "stop_name_wrap_en": "MARSH STREET",
         "stop_name_zh": "孖庶街"
       },
       "WU04W10000": {
         "lat": 22.308045,
         "long": 114.184596,
         "stop_name_en": "WALKER ROAD",
-        "stop_name_wrap_en": "KA WING STREET",
+        "stop_name_wrap_en": "WALKER ROAD",
         "stop_name_zh": "獲嘉道"
       },
       "WU04W10500": {
         "lat": 22.308069,
         "long": 114.184561,
         "stop_name_en": "WALKER ROAD",
-        "stop_name_wrap_en": "KA WING STREET",
+        "stop_name_wrap_en": "WALKER ROAD",
         "stop_name_zh": "獲嘉道"
       },
       "WU04W11000": {
         "lat": 22.308104,
         "long": 114.184512,
         "stop_name_en": "WALKER ROAD",
-        "stop_name_wrap_en": "YAU OI (SOUTH)",
+        "stop_name_wrap_en": "WALKER ROAD",
         "stop_name_zh": "獲嘉道"
       },
       "WU05N10000": {
         "lat": 22.374816,
         "long": 113.968628,
         "stop_name_en": "YUET WU VILLA",
-        "stop_name_wrap_en": "YAU OI (SOUTH)",
+        "stop_name_wrap_en": "YUET WU VILLA",
         "stop_name_zh": "悅湖總站"
       },
       "WU05N10002": {
         "stop_name_en": "YUET WU VILLA",
-        "stop_name_wrap_en": "PAK FUK TIN SUM|PLAYGROUND",
+        "stop_name_wrap_en": "YUET WU VILLA",
         "stop_name_zh": "悅湖山莊"
       },
       "WU06S11000": {
         "lat": 22.430936,
         "long": 114.240685,
         "stop_name_en": "WU KAI SHA ROAD",
-        "stop_name_wrap_en": "DAWNING VIEWS",
+        "stop_name_wrap_en": "WU KAI SHA ROAD",
         "stop_name_zh": "烏溪沙路"
       },
       "WU07E10000": {
         "lat": 22.304171,
         "long": 114.166525,
         "stop_name_en": "WEST KOWLOON STATION",
-        "stop_name_wrap_en": "DAWNING VIEWS",
+        "stop_name_wrap_en": "WEST KOWLOON|STATION",
         "stop_name_zh": "西九龍站"
       },
       "WU07E11000": {
         "lat": 22.30419,
         "long": 114.166528,
         "stop_name_en": "WEST KOWLOON STATION",
-        "stop_name_wrap_en": "CHING KOK LIN|ASSN. SCHOOL",
+        "stop_name_wrap_en": "WEST KOWLOON|STATION",
         "stop_name_zh": "西九龍站"
       },
       "WU07E12000": {
         "lat": 22.304014,
         "long": 114.16662,
         "stop_name_en": "WEST KOWLOON STATION",
-        "stop_name_wrap_en": "YAN KING ROAD",
+        "stop_name_wrap_en": "WEST KOWLOON|STATION",
         "stop_name_zh": "西九龍站"
       },
       "WU07E13000": {
         "lat": 22.304014,
         "long": 114.16662,
-        "stop_name_en": "WEST KOWLOON STATION",
-        "stop_name_wrap_en": "FESTIVAL WALK",
+        "stop_name_en": "HSR WEST KOWLOON STATION",
+        "stop_name_wrap_en": "HSR WEST|KOWLOON STATION",
         "stop_name_zh": "西九龍站"
       },
       "WU07T10009": {
         "stop_name_en": "WUI MAN ROAD",
-        "stop_name_wrap_en": "FESTIVAL WALK",
+        "stop_name_wrap_en": "WUI MAN ROAD",
         "stop_name_zh": "匯民道"
       },
       "WU07W13000": {
         "lat": 22.303513,
         "long": 114.166393,
         "stop_name_en": "HSR WEST KOWLOON STATION",
-        "stop_name_wrap_en": "YAN KING ROAD",
+        "stop_name_wrap_en": "HSR WEST|KOWLOON STATION",
         "stop_name_zh": "高鐵西九龍站"
       },
       "WU08S10000": {
         "lat": 22.507073,
         "long": 114.241219,
         "stop_name_en": "CHI SUM ROAD",
-        "stop_name_wrap_en": "SAM KA TSUEN|FERRY",
+        "stop_name_wrap_en": "CHI SUM ROAD",
         "stop_name_zh": "祠心路"
       },
       "WU08T10000": {
         "lat": 22.505914,
         "long": 114.241791,
         "stop_name_en": "WU KAU TANG",
-        "stop_name_wrap_en": "YAU TONG ROAD|PLAYGROUND",
+        "stop_name_wrap_en": "WU KAU TANG",
         "stop_name_zh": "烏蛟騰"
       },
       "WU09E10002": {
         "lat": 22.299139,
         "long": 113.951577,
         "stop_name_en": "WUI TUNG STREET",
-        "stop_name_wrap_en": "YAU TONG|BUS TERMINUS",
+        "stop_name_wrap_en": "WUI TUNG STREET",
         "stop_name_zh": "匯東街"
       },
       "WU09W10002": {
         "lat": 22.29899,
         "long": 113.95163,
         "stop_name_en": "WUI TUNG STREET",
-        "stop_name_wrap_en": "YAU TONG|BUS TERMINUS",
+        "stop_name_wrap_en": "WUI TUNG STREET",
         "stop_name_zh": "匯東街"
       },
       "WY01N10000": {
         "lat": 22.309561,
         "long": 114.17608,
         "stop_name_en": "QUEEN ELIZABETH HOSPITAL",
-        "stop_name_wrap_en": "YAU TONG|BUS TERMINUS",
+        "stop_name_wrap_en": "QUEEN ELIZABETH|HOSPITAL",
         "stop_name_zh": "伊利沙伯醫院"
       },
       "WY01N10500": {
         "lat": 22.312684,
         "long": 114.175771,
         "stop_name_en": "HOMANTIN HILL ROAD",
-        "stop_name_wrap_en": "YAU TONG|BUS TERMINUS",
+        "stop_name_wrap_en": "HOMANTIN HILL|ROAD",
         "stop_name_zh": "何文田山道"
       },
       "WY01S10000": {
         "lat": 22.312485,
         "long": 114.176121,
         "stop_name_en": "HOMANTIN HILL ROAD",
-        "stop_name_wrap_en": "YAN CHEUNG ROAD",
+        "stop_name_wrap_en": "HOMANTIN HILL|ROAD",
         "stop_name_zh": "何文田山道"
       },
       "WY01S10500": {
         "lat": 22.308996,
         "long": 114.176416,
         "stop_name_en": "QUEEN ELIZABETH HOSPITAL",
-        "stop_name_wrap_en": "YAU POK ROAD| LPH (SOUTH)",
+        "stop_name_wrap_en": "QUEEN ELIZABETH|HOSPITAL",
         "stop_name_zh": "伊利沙伯醫院"
       },
       "YA01S07500": {
         "stop_name_en": "LEI YUE MUN ESTATE",
-        "stop_name_wrap_en": "YAU POK ROAD|LIGHT PUBLIC>HOUSING (SOUTH)",
+        "stop_name_wrap_en": "LEI YUE MUN|ESTATE",
         "stop_name_zh": "鯉魚門邨"
       },
       "YA01S08000": {
         "lat": 22.294774,
         "long": 114.239286,
         "stop_name_en": "LEI YUE MUN ESTATE",
-        "stop_name_wrap_en": "YAN CHEUNG ROAD",
+        "stop_name_wrap_en": "LEI YUE MUN|ESTATE",
         "stop_name_zh": "鯉魚門邨"
       },
       "YA01S10500": {
         "stop_name_en": "KA WING STREET",
-        "stop_name_wrap_en": "YAU POK ROAD| LPH (NORTH)",
+        "stop_name_wrap_en": "KA WING STREET",
         "stop_name_zh": "嘉榮街"
       },
       "YA01S11000": {
         "lat": 22.293785,
         "long": 114.238433,
         "stop_name_en": "KA WING STREET",
-        "stop_name_wrap_en": "YAU POK ROAD| LPH (NORTH)",
+        "stop_name_wrap_en": "KA WING STREET",
         "stop_name_zh": "嘉榮街"
       },
       "YA01S11010": {
         "stop_name_en": "KA WING STREET",
-        "stop_name_wrap_en": "YAU POK ROAD|LIGHT PUBLIC>HOUSING (NORTH)",
+        "stop_name_wrap_en": "KA WING STREET",
         "stop_name_zh": "嘉榮街"
       },
       "YA01T10000": {
         "stop_name_en": "YAU OI (SOUTH)",
-        "stop_name_wrap_en": "YAU POK ROAD|LIGHT PUBLIC>HOUSING (NORTH)",
+        "stop_name_wrap_en": "YAU OI (SOUTH)",
         "stop_name_zh": "友愛南總站"
       },
       "YA01T10500": {
         "stop_name_en": "YAU OI (SOUTH)",
-        "stop_name_wrap_en": "YAT TUNG ESTATE|BUS TERMINUS",
+        "stop_name_wrap_en": "YAU OI (SOUTH)",
         "stop_name_zh": "友愛南總站"
       },
       "YA02E09000": {
         "lat": 22.488346,
         "long": 114.140923,
         "stop_name_en": "PAK FUK TIN SUM PLAYGROUND",
-        "stop_name_wrap_en": "YAT TUNG ESTATE|BUS TERMINUS",
+        "stop_name_wrap_en": "PAK FUK TIN SUM|PLAYGROUND",
         "stop_name_zh": "百福田心球場"
       },
       "YA02E09500": {
         "lat": 22.486635,
         "long": 114.143349,
         "stop_name_en": "DAWNING VIEWS",
-        "stop_name_wrap_en": "NOVO LAND",
+        "stop_name_wrap_en": "DAWNING VIEWS",
         "stop_name_zh": "牽晴間"
       },
       "YA02E10000": {
         "lat": 22.486567,
         "long": 114.143488,
         "stop_name_en": "DAWNING VIEWS",
-        "stop_name_wrap_en": "NOVO LAND",
+        "stop_name_wrap_en": "DAWNING VIEWS",
         "stop_name_zh": "牽晴間"
       },
       "YA02W10000": {
         "lat": 22.487178,
         "long": 114.142431,
         "stop_name_en": "CHING KOK LIN ASSN. SCHOOL",
-        "stop_name_wrap_en": "TSZ TIN TSUENG",
+        "stop_name_wrap_en": "CHING KOK LIN|ASSN. SCHOOL",
         "stop_name_zh": "正覺蓮社學校"
       },
       "YA03E10500": {
         "lat": 22.32379,
         "long": 114.258615,
         "stop_name_en": "YAN KING ROAD",
-        "stop_name_wrap_en": "TSZ TIN TSUEN",
+        "stop_name_wrap_en": "YAN KING ROAD",
         "stop_name_zh": "欣景路"
       },
       "YA03T10000": {
         "lat": 22.336788,
         "long": 114.174811,
         "stop_name_en": "FESTIVAL WALK",
-        "stop_name_wrap_en": "CHING TIN ESTATE",
+        "stop_name_wrap_en": "FESTIVAL WALK",
         "stop_name_zh": "又一城"
       },
       "YA03T10500": {
         "lat": 22.336788,
         "long": 114.174811,
         "stop_name_en": "FESTIVAL WALK",
-        "stop_name_wrap_en": "CHING TIN ESTATE",
+        "stop_name_wrap_en": "FESTIVAL WALK",
         "stop_name_zh": "又一城"
       },
       "YA03W10000": {
         "lat": 22.322949,
         "long": 114.259137,
         "stop_name_en": "YAN KING ROAD",
-        "stop_name_wrap_en": "NOVO LAND",
+        "stop_name_wrap_en": "YAN KING ROAD",
         "stop_name_zh": "欣景路"
       },
       "YA05S10000": {
         "lat": 22.292188,
         "long": 114.236629,
         "stop_name_en": "SAM KA TSUEN FERRY",
-        "stop_name_wrap_en": "NOVO LAND",
+        "stop_name_wrap_en": "SAM KA TSUEN|FERRY",
         "stop_name_zh": "三家村碼頭"
       },
       "YA06N10000": {
         "stop_name_en": "YAU TONG ROAD PLAYGROUND",
-        "stop_name_wrap_en": "YEE KING ROAD",
+        "stop_name_wrap_en": "YAU TONG ROAD|PLAYGROUND",
         "stop_name_zh": "油塘道遊樂場"
       },
       "YA06T10000": {
         "lat": 22.295791,
         "long": 114.238617,
         "stop_name_en": "YAU TONG BUS TERMINUS",
-        "stop_name_wrap_en": "NORTH POINT GOVT|PRIMARY SCHOOL>CLOUD VIEW ROAD",
+        "stop_name_wrap_en": "YAU TONG|BUS TERMINUS",
         "stop_name_zh": "油塘巴士總站"
       },
       "YA06T10500": {
         "lat": 22.295807,
         "long": 114.238556,
         "stop_name_en": "YAU TONG BUS TERMINUS",
-        "stop_name_wrap_en": "NORTH POINT GOVT|PRIMARY SCHOOL >CLOUD VIEW ROAD",
+        "stop_name_wrap_en": "YAU TONG|BUS TERMINUS",
         "stop_name_zh": "油塘巴士總站"
       },
       "YA06T11000": {
         "lat": 22.295827,
         "long": 114.238484,
         "stop_name_en": "YAU TONG BUS TERMINUS",
-        "stop_name_wrap_en": "YEE KING ROAD",
+        "stop_name_wrap_en": "YAU TONG|BUS TERMINUS",
         "stop_name_zh": "油塘巴士總站"
       },
       "YA06T11500": {
         "lat": 22.295851,
         "long": 114.238412,
         "stop_name_en": "YAU TONG BUS TERMINUS",
-        "stop_name_wrap_en": "PATERSON STREET",
+        "stop_name_wrap_en": "YAU TONG|BUS TERMINUS",
         "stop_name_zh": "油塘巴士總站"
       },
       "YA07E10000": {
         "stop_name_en": "YAN CHEUNG ROAD",
-        "stop_name_wrap_en": "PATERSON STREET",
+        "stop_name_wrap_en": "YAN CHEUNG ROAD",
         "stop_name_zh": "欣翔道"
       },
       "YA07T10000": {
         "lat": 22.475603,
         "long": 114.050735,
         "stop_name_en": "YAU POK ROAD LPH (SOUTH)",
-        "stop_name_wrap_en": "PATERSON STREET",
+        "stop_name_wrap_en": "YAU POK ROAD| LPH (SOUTH)",
         "stop_name_zh": "攸壆路簡約公屋(南)"
       },
       "YA07T10500": {
         "lat": 22.475606,
         "long": 114.050757,
         "stop_name_en": "YAU POK ROAD LIGHT PUBLIC HOUSING (SOUTH)",
-        "stop_name_wrap_en": "PATERSON STREET",
+        "stop_name_wrap_en": "YAU POK ROAD|LIGHT PUBLIC>HOUSING (SOUTH)",
         "stop_name_zh": "攸壆路簡約公屋(南)"
       },
       "YA07W10000": {
         "lat": 22.308881,
         "long": 114.166179,
         "stop_name_en": "YAN CHEUNG ROAD",
-        "stop_name_wrap_en": "PATERSON STREET",
+        "stop_name_wrap_en": "YAN CHEUNG ROAD",
         "stop_name_zh": "欣翔道"
       },
       "YA07W10500": {
         "lat": 22.308881,
         "long": 114.166179,
         "stop_name_en": "YAN CHEUNG ROAD",
-        "stop_name_wrap_en": "PATERSON STREET",
+        "stop_name_wrap_en": "YAN CHEUNG ROAD",
         "stop_name_zh": "欣翔道"
       },
       "YA08T10000": {
         "lat": 22.47925,
         "long": 114.052849,
         "stop_name_en": "YAU POK ROAD LPH (NORTH)",
-        "stop_name_wrap_en": "YEE WO STREET",
-        "stop_name_zh": "攸壆路簡約公屋(北)"
-      },
-      "YA08T10500": {
-        "stop_name_en": "YAU POK ROAD LPH (NORTH)",
-        "stop_name_wrap_en": "YEE WO STREET",
+        "stop_name_wrap_en": "YAU POK ROAD| LPH (NORTH)",
         "stop_name_zh": "攸壆路簡約公屋(北)"
       },
       "YA08T11000": {
         "lat": 22.479289,
         "long": 114.052867,
-        "stop_name_en": "YAU POK ROAD LPH (NORTH)",
-        "stop_name_wrap_en": "YEE WO STREET",
+        "stop_name_en": "YAU POK ROAD LIGHT PUBLIC HOUSING (NORTH)",
+        "stop_name_wrap_en": "YAU POK ROAD|LIGHT PUBLIC>HOUSING (NORTH)",
         "stop_name_zh": "攸壆路簡約公屋(北)"
       },
       "YA08T11500": {
         "lat": 22.479314,
         "long": 114.052982,
         "stop_name_en": "YAU POK ROAD LIGHT PUBLIC HOUSING (NORTH)",
-        "stop_name_wrap_en": "YEE WO STREET",
+        "stop_name_wrap_en": "YAU POK ROAD|LIGHT PUBLIC>HOUSING (NORTH)",
         "stop_name_zh": "攸壆路簡約公屋(北)"
       },
       "YA70T10002": {
         "lat": 22.28198,
         "long": 113.936021,
         "stop_name_en": "YAT TUNG ESTATE BUS TERMINUS",
-        "stop_name_wrap_en": "YEE WO STREET",
+        "stop_name_wrap_en": "YAT TUNG ESTATE|BUS TERMINUS",
         "stop_name_zh": "逸東邨總站"
       },
       "YA70T10502": {
         "lat": 22.281858,
         "long": 113.936002,
         "stop_name_en": "YAT TUNG ESTATE BUS TERMINUS",
-        "stop_name_wrap_en": "YEE WO STREET",
+        "stop_name_wrap_en": "YAT TUNG ESTATE|BUS TERMINUS",
         "stop_name_zh": "逸東邨總站"
       },
       "YA71E10000": {
         "lat": 22.412115,
         "long": 113.970279,
         "stop_name_en": "NOVO LAND",
-        "stop_name_wrap_en": "YEE KUK STREET",
+        "stop_name_wrap_en": "NOVO LAND",
         "stop_name_zh": "NOVO LAND"
       },
       "YA71E10002": {
         "stop_name_en": "NOVO LAND",
-        "stop_name_wrap_en": "SHAM SHUI PO|POLICE STATION",
+        "stop_name_wrap_en": "NOVO LAND",
         "stop_name_zh": "NOVO LAND"
       },
       "YA71E11000": {
         "lat": 22.414047,
         "long": 113.973446,
         "stop_name_en": "TSZ TIN TSUENG",
-        "stop_name_wrap_en": "SHAM SHUI PO|POLICE STATION",
+        "stop_name_wrap_en": "TSZ TIN TSUENG",
         "stop_name_zh": "紫田村"
       },
       "YA71E11002": {
         "lat": 22.414047,
         "long": 113.973446,
         "stop_name_en": "TSZ TIN TSUEN",
-        "stop_name_wrap_en": "SHAM SHUI PO|POLICE STATION",
+        "stop_name_wrap_en": "TSZ TIN TSUEN",
         "stop_name_zh": "紫田村"
       },
       "YA71W10000": {
         "lat": 22.413165,
         "long": 113.972357,
         "stop_name_en": "CHING TIN ESTATE",
-        "stop_name_wrap_en": "FUK WA STREET",
+        "stop_name_wrap_en": "CHING TIN ESTATE",
         "stop_name_zh": "菁田邨"
       },
       "YA71W10002": {
         "lat": 22.413165,
         "long": 113.972357,
         "stop_name_en": "CHING TIN ESTATE",
-        "stop_name_wrap_en": "FUK WING STREET",
+        "stop_name_wrap_en": "CHING TIN ESTATE",
         "stop_name_zh": "菁田邨"
       },
       "YA71W11000": {
         "lat": 22.411987,
         "long": 113.970355,
         "stop_name_en": "NOVO LAND",
-        "stop_name_wrap_en": "CHEUNG SHA WAN|GOVT OFFICES",
+        "stop_name_wrap_en": "NOVO LAND",
         "stop_name_zh": "NOVO LAND"
       },
       "YA71W11002": {
         "stop_name_en": "NOVO LAND",
-        "stop_name_wrap_en": "KI LUNG STREET",
+        "stop_name_wrap_en": "NOVO LAND",
         "stop_name_zh": "NOVO LAND"
       },
       "YE01N10000": {
         "lat": 22.28203,
         "long": 114.194059,
         "stop_name_en": "YEE KING ROAD",
-        "stop_name_wrap_en": "KI LUNG STREET",
+        "stop_name_wrap_en": "YEE KING ROAD",
         "stop_name_zh": "怡景道"
       },
       "YE01N10500": {
         "lat": 22.283811,
         "long": 114.195072,
         "stop_name_en": "NORTH POINT GOVT PRIMARY SCHOOL CLOUD VIEW ROAD",
-        "stop_name_wrap_en": "TUNG CHAU STREET|PARK",
+        "stop_name_wrap_en": "NORTH POINT GOVT|PRIMARY SCHOOL>CLOUD VIEW ROAD",
         "stop_name_zh": "北角官立小學雲景道"
       },
       "YE01S10000": {
         "lat": 22.283215,
         "long": 114.194977,
         "stop_name_en": "NORTH POINT GOVT PRIMARY SCHOOL CLOUD VIEW ROAD",
-        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
+        "stop_name_wrap_en": "NORTH POINT GOVT|PRIMARY SCHOOL >CLOUD VIEW ROAD",
         "stop_name_zh": "北角官立小學雲景道"
       },
       "YE01S10500": {
         "lat": 22.281431,
         "long": 114.193702,
         "stop_name_en": "YEE KING ROAD",
-        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
+        "stop_name_wrap_en": "YEE KING ROAD",
         "stop_name_zh": "怡景道"
       },
       "YE03E10000": {
         "lat": 22.280083,
         "long": 114.185239,
         "stop_name_en": "PATERSON STREET",
-        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
+        "stop_name_wrap_en": "PATERSON STREET",
         "stop_name_zh": "百德新街"
       },
       "YE03E10500": {
         "lat": 22.280063,
         "long": 114.185296,
         "stop_name_en": "PATERSON STREET",
-        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
+        "stop_name_wrap_en": "PATERSON STREET",
         "stop_name_zh": "百德新街"
       },
       "YE03E10900": {
         "lat": 22.280019,
         "long": 114.185419,
         "stop_name_en": "PATERSON STREET",
-        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
+        "stop_name_wrap_en": "PATERSON STREET",
         "stop_name_zh": "百德新街"
       },
       "YE03E11000": {
         "lat": 22.280019,
         "long": 114.185419,
         "stop_name_en": "PATERSON STREET",
-        "stop_name_wrap_en": "CHUNG ON STREET",
+        "stop_name_wrap_en": "PATERSON STREET",
         "stop_name_zh": "百德新街"
       },
       "YE03E11750": {
         "lat": 22.280005,
         "long": 114.185477,
         "stop_name_en": "PATERSON STREET",
-        "stop_name_wrap_en": "WANG WO TSAI|STREET",
+        "stop_name_wrap_en": "PATERSON STREET",
         "stop_name_zh": "百德新街"
       },
       "YE03E12000": {
         "lat": 22.279983,
         "long": 114.185537,
         "stop_name_en": "PATERSON STREET",
-        "stop_name_wrap_en": "WANG WO TSAI|STREET",
+        "stop_name_wrap_en": "PATERSON STREET",
         "stop_name_zh": "百德新街"
       },
       "YE03E12250": {
         "lat": 22.279816,
         "long": 114.186024,
         "stop_name_en": "PATERSON STREET",
-        "stop_name_wrap_en": "WANG LUNG STREET",
+        "stop_name_wrap_en": "PATERSON STREET",
         "stop_name_zh": "百德新街"
       },
       "YE03E12500": {
         "lat": 22.279601,
         "long": 114.186754,
         "stop_name_en": "YEE WO STREET",
-        "stop_name_wrap_en": "WANG LUNG STREET",
+        "stop_name_wrap_en": "YEE WO STREET",
         "stop_name_zh": "怡和街"
       },
       "YE03W10000": {
         "lat": 22.279728,
         "long": 114.185591,
         "stop_name_en": "YEE WO STREET",
-        "stop_name_wrap_en": "WANG LUNG STREET",
+        "stop_name_wrap_en": "YEE WO STREET",
         "stop_name_zh": "怡和街"
       },
       "YE03W10500": {
         "lat": 22.279745,
         "long": 114.185534,
         "stop_name_en": "YEE WO STREET",
-        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
+        "stop_name_wrap_en": "YEE WO STREET",
         "stop_name_zh": "怡和街"
       },
       "YE03W11250": {
         "lat": 22.279806,
         "long": 114.185362,
         "stop_name_en": "YEE WO STREET",
-        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
+        "stop_name_wrap_en": "YEE WO STREET",
         "stop_name_zh": "怡和街"
       },
       "YE03W11500": {
         "lat": 22.279912,
         "long": 114.185065,
         "stop_name_en": "YEE WO STREET",
-        "stop_name_wrap_en": "NAM CHEONG ESTATE",
+        "stop_name_wrap_en": "YEE WO STREET",
         "stop_name_zh": "怡和街"
       },
       "YE03W11750": {
         "lat": 22.27985,
         "long": 114.185383,
         "stop_name_en": "YEE WO STREET",
-        "stop_name_wrap_en": "NAM CHEONG|ESTATE",
+        "stop_name_wrap_en": "YEE WO STREET",
         "stop_name_zh": "怡和街"
-      },
-      "YE04E09500": {
-        "stop_name_wrap_en": "TUNG PO TO"
       },
       "YE04E10500": {
         "lat": 22.328968,
         "long": 114.15831,
         "stop_name_en": "YEE KUK STREET",
-        "stop_name_wrap_en": "YIU ON ESTATE",
+        "stop_name_wrap_en": "YEE KUK STREET",
         "stop_name_zh": "醫局街"
       },
       "YE04E10900": {
         "lat": 22.330275,
         "long": 114.159488,
         "stop_name_en": "SHAM SHUI PO POLICE STATION",
-        "stop_name_wrap_en": "YIU ON|BUS TERMINUS",
+        "stop_name_wrap_en": "SHAM SHUI PO|POLICE STATION",
         "stop_name_zh": "深水埗警署"
       },
       "YE04E11000": {
         "lat": 22.330328,
         "long": 114.159539,
         "stop_name_en": "SHAM SHUI PO POLICE STATION",
-        "stop_name_wrap_en": "YIU ON|BUS TERMINUS",
+        "stop_name_wrap_en": "SHAM SHUI PO|POLICE STATION",
         "stop_name_zh": "深水埗警署"
       },
       "YE04E11500": {
         "lat": 22.330383,
         "long": 114.15959,
         "stop_name_en": "SHAM SHUI PO POLICE STATION",
-        "stop_name_wrap_en": "YIU ON|BUS TERMINUS",
+        "stop_name_wrap_en": "SHAM SHUI PO|POLICE STATION",
         "stop_name_zh": "深水埗警署"
       },
       "YE04E12000": {
         "stop_name_en": "FUK WA STREET",
-        "stop_name_wrap_en": "YIU ON|BUS TERMINUS",
+        "stop_name_wrap_en": "FUK WA STREET",
         "stop_name_zh": "福華街"
       },
       "YE04W10000": {
         "lat": 22.332816,
         "long": 114.162115,
         "stop_name_en": "FUK WING STREET",
-        "stop_name_wrap_en": "HOI PA RESITE|VILLAGE",
+        "stop_name_wrap_en": "FUK WING STREET",
         "stop_name_zh": "福榮街"
       },
       "YE04W10500": {
         "lat": 22.331866,
         "long": 114.161257,
         "stop_name_en": "CHEUNG SHA WAN GOVT OFFICES",
-        "stop_name_wrap_en": "MACPHERSON|PLAYGROUND",
+        "stop_name_wrap_en": "CHEUNG SHA WAN|GOVT OFFICES",
         "stop_name_zh": "長沙灣政府合署"
       },
       "YE04W11000": {
         "lat": 22.330547,
         "long": 114.160068,
         "stop_name_en": "KI LUNG STREET",
-        "stop_name_wrap_en": "MACPHERSON|PLAYGROUND",
+        "stop_name_wrap_en": "KI LUNG STREET",
         "stop_name_zh": "基隆街"
       },
       "YE04W11500": {
         "lat": 22.330174,
         "long": 114.159747,
         "stop_name_en": "KI LUNG STREET",
-        "stop_name_wrap_en": "YIU TUNG ESTATE",
+        "stop_name_wrap_en": "KI LUNG STREET",
         "stop_name_zh": "基隆街"
       },
       "YE04W12000": {
         "lat": 22.327741,
         "long": 114.157546,
         "stop_name_en": "TUNG CHAU STREET PARK",
-        "stop_name_wrap_en": "TUNG YAN COURT",
+        "stop_name_wrap_en": "TUNG CHAU STREET|PARK",
         "stop_name_zh": "通州街公園"
       },
       "YE05E10000": {
         "lat": 22.368633,
         "long": 114.114631,
         "stop_name_en": "YEUNG UK ROAD MARKET",
-        "stop_name_wrap_en": "TUNG YAN COURT",
+        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
         "stop_name_zh": "楊屋道街市"
       },
       "YE05E10500": {
         "lat": 22.36851,
         "long": 114.114978,
         "stop_name_en": "YEUNG UK ROAD MARKET",
-        "stop_name_wrap_en": "TUNG HEI COURT",
+        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
         "stop_name_zh": "楊屋道街市"
       },
       "YE05E10652": {
         "lat": 22.368448,
         "long": 114.115097,
         "stop_name_en": "YEUNG UK ROAD MARKET",
-        "stop_name_wrap_en": "TUNG HEI COURT",
+        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
         "stop_name_zh": "楊屋道街市"
       },
       "YE05E10700": {
         "lat": 22.36851,
         "long": 114.114978,
         "stop_name_en": "YEUNG UK ROAD MARKET",
-        "stop_name_wrap_en": "YAT HEI HOUSE",
+        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
         "stop_name_zh": "楊屋道街市"
       },
       "YE05E10750": {
         "lat": 22.368425,
         "long": 114.115146,
         "stop_name_en": "YEUNG UK ROAD MARKET",
-        "stop_name_wrap_en": "YAT HEI HOUSE",
+        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
         "stop_name_zh": "楊屋道街市"
       },
       "YE05E11000": {
         "lat": 22.368365,
         "long": 114.115227,
         "stop_name_en": "YEUNG UK ROAD MARKET",
-        "stop_name_wrap_en": "YIU WAH HOUSE",
+        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
         "stop_name_zh": "楊屋道街市"
       },
       "YE05E11100": {
         "stop_name_en": "CHUNG ON STREET",
-        "stop_name_wrap_en": "YIU WAH HOUSE",
+        "stop_name_wrap_en": "CHUNG ON STREET",
         "stop_name_zh": "眾安街"
       },
       "YE05E11252": {
         "lat": 22.36658,
         "long": 114.118655,
         "stop_name_en": "WANG WO TSAI STREET",
-        "stop_name_wrap_en": "YIU TUNG ESTATE",
+        "stop_name_wrap_en": "WANG WO TSAI|STREET",
         "stop_name_zh": "橫窩仔街"
       },
       "YE05E11500": {
         "lat": 22.366539,
         "long": 114.118734,
         "stop_name_en": "WANG WO TSAI STREET",
-        "stop_name_wrap_en": "YIU HING HOUSE",
+        "stop_name_wrap_en": "WANG WO TSAI|STREET",
         "stop_name_zh": "橫窩仔街"
       },
       "YE05W09002": {
         "stop_name_en": "WANG LUNG STREET",
-        "stop_name_wrap_en": "YIU HING HOUSE",
+        "stop_name_wrap_en": "WANG LUNG STREET",
         "stop_name_zh": "橫龍街"
       },
       "YE05W09500": {
         "lat": 22.366353,
         "long": 114.118736,
         "stop_name_en": "WANG LUNG STREET",
-        "stop_name_wrap_en": "YIU KWAI HOUSE",
+        "stop_name_wrap_en": "WANG LUNG STREET",
         "stop_name_zh": "橫龍街"
       },
       "YE05W10000": {
         "lat": 22.366632,
         "long": 114.118071,
         "stop_name_en": "WANG LUNG STREET",
-        "stop_name_wrap_en": "YIU KWAI HOUSE",
+        "stop_name_wrap_en": "WANG LUNG STREET",
         "stop_name_zh": "橫龍街"
       },
       "YE05W10252": {
         "lat": 22.366674,
         "long": 114.117979,
         "stop_name_en": "WANG LUNG STREET",
-        "stop_name_wrap_en": "SHAUKEIWAN PLAZA",
+        "stop_name_wrap_en": "WANG LUNG STREET",
         "stop_name_zh": "橫龍街"
       },
       "YE05W10752": {
         "lat": 22.368537,
         "long": 114.114364,
         "stop_name_en": "YEUNG UK ROAD MARKET",
-        "stop_name_wrap_en": "SHAUKEIWAN PLAZA",
+        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
         "stop_name_zh": "楊屋道街市"
       },
       "YE05W11000": {
         "lat": 22.36837,
         "long": 114.114592,
         "stop_name_en": "YEUNG UK ROAD MARKET",
-        "stop_name_wrap_en": "YIU TUNG ESTATE",
+        "stop_name_wrap_en": "YEUNG UK ROAD|MARKET",
         "stop_name_zh": "楊屋道街市"
       },
       "YE06E09500": {
         "lat": 22.327001,
         "long": 114.155664,
         "stop_name_en": "NAM CHEONG ESTATE",
-        "stop_name_wrap_en": "SHAUKEIWAN PLAZA",
+        "stop_name_wrap_en": "NAM CHEONG ESTATE",
         "stop_name_zh": "南昌邨"
       },
       "YE06E10000": {
         "lat": 22.327351,
         "long": 114.156846,
         "stop_name_en": "NAM CHEONG ESTATE",
-        "stop_name_wrap_en": "SHAUKEIWAN PLAZA",
+        "stop_name_wrap_en": "NAM CHEONG|ESTATE",
         "stop_name_zh": "南昌邨"
       },
       "YI01E10000": {
         "lat": 22.378716,
         "long": 114.126958,
         "stop_name_en": "TUNG PO TO",
-        "stop_name_wrap_en": "TUNG SHING COURT",
+        "stop_name_wrap_en": "TUNG PO TO",
         "stop_name_zh": "東普陀"
       },
       "YI01E10002": {
         "stop_name_en": "YIU ON ESTATE",
-        "stop_name_wrap_en": "TUNG SHING COURT",
+        "stop_name_wrap_en": "YIU ON ESTATE",
         "stop_name_zh": "耀安邨"
       },
       "YI01T10000": {
         "lat": 22.419367,
         "long": 114.229741,
         "stop_name_en": "YIU ON BUS TERMINUS",
-        "stop_name_wrap_en": "YIU MING HOUSE",
+        "stop_name_wrap_en": "YIU ON|BUS TERMINUS",
         "stop_name_zh": "耀安巴士總站"
       },
       "YI01T10002": {
         "lat": 22.419327,
         "long": 114.229671,
         "stop_name_en": "YIU ON ESTATE",
-        "stop_name_wrap_en": "YIU MING HOUSE",
+        "stop_name_wrap_en": "YIU ON ESTATE",
         "stop_name_zh": "耀安邨"
       },
       "YI01T10500": {
         "lat": 22.419352,
         "long": 114.229687,
         "stop_name_en": "YIU ON BUS TERMINUS",
-        "stop_name_wrap_en": "YIU TUNG ESTATE|BUS TERMINUS",
+        "stop_name_wrap_en": "YIU ON|BUS TERMINUS",
         "stop_name_zh": "耀安巴士總站"
       },
       "YI01T11000": {
         "lat": 22.419454,
         "long": 114.229812,
         "stop_name_en": "YIU ON BUS TERMINUS",
-        "stop_name_wrap_en": "YIU TUNG|SHOPPING CENTRE",
+        "stop_name_wrap_en": "YIU ON|BUS TERMINUS",
         "stop_name_zh": "耀安巴士總站"
       },
       "YI01T11252": {
         "stop_name_en": "YIU ON BUS TERMINUS",
-        "stop_name_wrap_en": "YIU WAH HOUSE",
+        "stop_name_wrap_en": "YIU ON|BUS TERMINUS",
         "stop_name_zh": "耀安巴士總站"
       },
       "YI01W10000": {
         "lat": 22.378954,
         "long": 114.127632,
         "stop_name_en": "HOI PA RESITE VILLAGE",
-        "stop_name_wrap_en": "YIU WAH HOUSE",
+        "stop_name_wrap_en": "HOI PA RESITE|VILLAGE",
         "stop_name_zh": "海壩村"
       },
       "YI02N10000": {
         "lat": 22.318381,
         "long": 114.173155,
         "stop_name_en": "MACPHERSON PLAYGROUND",
-        "stop_name_wrap_en": "KING HEI HOUSE",
+        "stop_name_wrap_en": "MACPHERSON|PLAYGROUND",
         "stop_name_zh": "麥花臣遊樂場"
       },
       "YI02S10000": {
         "lat": 22.318656,
         "long": 114.173318,
         "stop_name_en": "MACPHERSON PLAYGROUND",
-        "stop_name_wrap_en": "KING HEI HOUSE",
+        "stop_name_wrap_en": "MACPHERSON|PLAYGROUND",
         "stop_name_zh": "麥花臣遊樂場"
       },
       "YI02T10000": {
         "lat": 22.277965,
         "long": 114.222893,
         "stop_name_en": "YIU TUNG ESTATE",
-        "stop_name_wrap_en": "HING TUNG ESTATE",
+        "stop_name_wrap_en": "YIU TUNG ESTATE",
         "stop_name_zh": "耀東邨"
       },
       "YI03E09000": {
         "lat": 22.28083,
         "long": 114.220798,
         "stop_name_en": "TUNG YAN COURT",
-        "stop_name_wrap_en": "HING TUNG ESTATE",
+        "stop_name_wrap_en": "TUNG YAN COURT",
         "stop_name_zh": "東欣苑"
       },
       "YI03E09500": {
         "lat": 22.280777,
         "long": 114.220835,
         "stop_name_en": "TUNG YAN COURT",
-        "stop_name_wrap_en": "YIU SHA ROAD",
+        "stop_name_wrap_en": "TUNG YAN COURT",
         "stop_name_zh": "東欣苑"
       },
       "YI03E10000": {
         "lat": 22.280435,
         "long": 114.219605,
         "stop_name_en": "TUNG HEI COURT",
-        "stop_name_wrap_en": "YU NGA COURT|YING HEI ROAD",
+        "stop_name_wrap_en": "TUNG HEI COURT",
         "stop_name_zh": "東熹苑"
       },
       "YI03E10250": {
         "lat": 22.28051,
         "long": 114.219654,
         "stop_name_en": "TUNG HEI COURT",
-        "stop_name_wrap_en": "CENTURY LINK",
+        "stop_name_wrap_en": "TUNG HEI COURT",
         "stop_name_zh": "東熹苑"
       },
       "YI03E10500": {
         "lat": 22.279692,
         "long": 114.21832,
         "stop_name_en": "YAT HEI HOUSE",
-        "stop_name_wrap_en": "YING HEI ROAD",
+        "stop_name_wrap_en": "YAT HEI HOUSE",
         "stop_name_zh": "逸熹閣"
       },
       "YI03E10750": {
         "lat": 22.279579,
         "long": 114.21836,
         "stop_name_en": "YAT HEI HOUSE",
-        "stop_name_wrap_en": "THE VISIONARY",
+        "stop_name_wrap_en": "YAT HEI HOUSE",
         "stop_name_zh": "逸熹閣"
       },
       "YI03E11000": {
         "lat": 22.279297,
         "long": 114.221017,
         "stop_name_en": "YIU WAH HOUSE",
-        "stop_name_wrap_en": "YING TUNG ESTATE",
+        "stop_name_wrap_en": "YIU WAH HOUSE",
         "stop_name_zh": "耀華樓"
       },
       "YI03E11250": {
         "lat": 22.279341,
         "long": 114.221004,
         "stop_name_en": "YIU WAH HOUSE",
-        "stop_name_wrap_en": "THE VISIONARY",
+        "stop_name_wrap_en": "YIU WAH HOUSE",
         "stop_name_zh": "耀華樓"
       },
       "YI03E11400": {
         "lat": 22.277965,
         "long": 114.222893,
         "stop_name_en": "YIU TUNG ESTATE",
-        "stop_name_wrap_en": "YIP WONG ESTATE",
+        "stop_name_wrap_en": "YIU TUNG ESTATE",
         "stop_name_zh": "耀東邨"
       },
       "YI03E11450": {
         "lat": 22.277965,
         "long": 114.222893,
         "stop_name_en": "YIU TUNG ESTATE",
-        "stop_name_wrap_en": "NGA SHING HOUSE|YU NGA COURT",
+        "stop_name_wrap_en": "YIU TUNG ESTATE",
         "stop_name_zh": "耀東邨"
       },
       "YI03E11500": {
         "lat": 22.276444,
         "long": 114.224227,
         "stop_name_en": "YIU HING HOUSE",
-        "stop_name_wrap_en": "YU NGA|SHOPPING CENTRE",
+        "stop_name_wrap_en": "YIU HING HOUSE",
         "stop_name_zh": "耀興樓"
       },
       "YI03E11750": {
         "lat": 22.276444,
         "long": 114.224227,
         "stop_name_en": "YIU HING HOUSE",
-        "stop_name_wrap_en": "KUI YAT HOUSE|YAT TUNG ESTATE",
+        "stop_name_wrap_en": "YIU HING HOUSE",
         "stop_name_zh": "耀興樓"
       },
       "YI03E12000": {
         "lat": 22.275616,
         "long": 114.225548,
         "stop_name_en": "YIU KWAI HOUSE",
-        "stop_name_wrap_en": "KUI YAT HOUSE|YAT TUNG ESTATE",
+        "stop_name_wrap_en": "YIU KWAI HOUSE",
         "stop_name_zh": "耀貴樓"
       },
       "YI03E12250": {
         "lat": 22.275642,
         "long": 114.225683,
         "stop_name_en": "YIU KWAI HOUSE",
-        "stop_name_wrap_en": "HKSPC",
+        "stop_name_wrap_en": "YIU KWAI HOUSE",
         "stop_name_zh": "耀貴樓"
       },
       "YI03E12500": {
         "lat": 22.277358,
         "long": 114.225979,
         "stop_name_en": "SHAUKEIWAN PLAZA",
-        "stop_name_wrap_en": "MAPLE STREET",
+        "stop_name_wrap_en": "SHAUKEIWAN PLAZA",
         "stop_name_zh": "筲箕灣廣場"
       },
       "YI03E12750": {
         "lat": 22.27743,
         "long": 114.225935,
         "stop_name_en": "SHAUKEIWAN PLAZA",
-        "stop_name_wrap_en": "SHEK KIP MEI ST|REST GARDEN",
+        "stop_name_wrap_en": "SHAUKEIWAN PLAZA",
         "stop_name_zh": "筲箕灣廣場"
       },
       "YI03T10000": {
         "stop_name_en": "YIU TUNG ESTATE",
-        "stop_name_wrap_en": "SHEK KIP MEI ST|REST GARDEN",
+        "stop_name_wrap_en": "YIU TUNG ESTATE",
         "stop_name_zh": "耀東邨"
       },
       "YI03W09000": {
         "lat": 22.277134,
         "long": 114.226274,
         "stop_name_en": "SHAUKEIWAN PLAZA",
-        "stop_name_wrap_en": "NAM CHEONG|STREET",
+        "stop_name_wrap_en": "SHAUKEIWAN PLAZA",
         "stop_name_zh": "筲箕灣廣場"
       },
       "YI03W10000": {
         "lat": 22.277232,
         "long": 114.226245,
         "stop_name_en": "SHAUKEIWAN PLAZA",
-        "stop_name_wrap_en": "PEI HO STREET",
+        "stop_name_wrap_en": "SHAUKEIWAN PLAZA",
         "stop_name_zh": "筲箕灣廣場"
       },
       "YI03W10500": {
         "lat": 22.275998,
         "long": 114.226498,
         "stop_name_en": "TUNG SHING COURT",
-        "stop_name_wrap_en": "PEI HO STREET",
+        "stop_name_wrap_en": "TUNG SHING COURT",
         "stop_name_zh": "東盛苑"
       },
       "YI03W10750": {
         "lat": 22.275883,
         "long": 114.226417,
         "stop_name_en": "TUNG SHING COURT",
-        "stop_name_wrap_en": "KWEILIN STREET",
+        "stop_name_wrap_en": "TUNG SHING COURT",
         "stop_name_zh": "東盛苑"
       },
       "YI03W10850": {
         "lat": 22.275812,
         "long": 114.224643,
         "stop_name_en": "YIU MING HOUSE",
-        "stop_name_wrap_en": "KWEILIN STREET",
+        "stop_name_wrap_en": "YIU MING HOUSE",
         "stop_name_zh": "耀明樓"
       },
       "YI03W10900": {
         "lat": 22.275895,
         "long": 114.224552,
         "stop_name_en": "YIU MING HOUSE",
-        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
+        "stop_name_wrap_en": "YIU MING HOUSE",
         "stop_name_zh": "耀明樓"
       },
       "YI03W11000": {
         "lat": 22.277031,
         "long": 114.223742,
         "stop_name_en": "YIU TUNG ESTATE BUS TERMINUS",
-        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
+        "stop_name_wrap_en": "YIU TUNG ESTATE|BUS TERMINUS",
         "stop_name_zh": "耀東邨總站"
       },
       "YI03W11250": {
         "lat": 22.277323,
         "long": 114.223499,
         "stop_name_en": "YIU TUNG SHOPPING CENTRE",
-        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
+        "stop_name_wrap_en": "YIU TUNG|SHOPPING CENTRE",
         "stop_name_zh": "耀東商場"
       },
       "YI03W11500": {
         "lat": 22.279016,
         "long": 114.220208,
         "stop_name_en": "YIU WAH HOUSE",
-        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
+        "stop_name_wrap_en": "YIU WAH HOUSE",
         "stop_name_zh": "耀華樓"
       },
       "YI03W11750": {
         "lat": 22.279016,
         "long": 114.220208,
         "stop_name_en": "YIU WAH HOUSE",
-        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
+        "stop_name_wrap_en": "YIU WAH HOUSE",
         "stop_name_zh": "耀華樓"
       },
       "YI03W12000": {
         "lat": 22.279757,
         "long": 114.217927,
         "stop_name_en": "KING HEI HOUSE",
-        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
+        "stop_name_wrap_en": "KING HEI HOUSE",
         "stop_name_zh": "景熹閣"
       },
       "YI03W12250": {
         "lat": 22.279831,
         "long": 114.21789,
         "stop_name_en": "KING HEI HOUSE",
-        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
+        "stop_name_wrap_en": "KING HEI HOUSE",
         "stop_name_zh": "景熹閣"
       },
       "YI03W12500": {
         "lat": 22.280616,
         "long": 114.219706,
         "stop_name_en": "HING TUNG ESTATE",
-        "stop_name_wrap_en": "YUEN LONG EAST|BUS TERMINUS",
+        "stop_name_wrap_en": "HING TUNG ESTATE",
         "stop_name_zh": "興東邨"
       },
       "YI03W12750": {
         "lat": 22.280616,
         "long": 114.219706,
         "stop_name_en": "HING TUNG ESTATE",
-        "stop_name_wrap_en": "YUEN LONG EAST",
+        "stop_name_wrap_en": "HING TUNG ESTATE",
         "stop_name_zh": "興東邨"
       },
       "YI04W10000": {
         "lat": 22.433294,
         "long": 114.241483,
         "stop_name_en": "YIU SHA ROAD",
-        "stop_name_wrap_en": "YUEN LONG EAST|BUS TERMINUS",
+        "stop_name_wrap_en": "YIU SHA ROAD",
         "stop_name_zh": "耀沙路"
       },
       "YI05E09502": {
         "lat": 22.294246,
         "long": 113.94791,
         "stop_name_en": "YU NGA COURT YING HEI ROAD",
-        "stop_name_wrap_en": "YUE MAN SQUARE",
+        "stop_name_wrap_en": "YU NGA COURT|YING HEI ROAD",
         "stop_name_zh": "迎禧路裕雅苑"
       },
       "YI05E10002": {
         "lat": 22.294556,
         "long": 113.950328,
         "stop_name_en": "CENTURY LINK",
-        "stop_name_wrap_en": "YUE MAN SQUARE",
+        "stop_name_wrap_en": "CENTURY LINK",
         "stop_name_zh": "東環"
       },
       "YI05W10002": {
         "lat": 22.294485,
         "long": 113.950524,
         "stop_name_en": "YING HEI ROAD",
-        "stop_name_wrap_en": "YUE MAN SQUARE",
+        "stop_name_wrap_en": "YING HEI ROAD",
         "stop_name_zh": "迎禧路"
       },
       "YI06E10252": {
         "lat": 22.295626,
         "long": 113.952088,
         "stop_name_en": "THE VISIONARY",
-        "stop_name_wrap_en": "YUE MAN SQUARE",
+        "stop_name_wrap_en": "THE VISIONARY",
         "stop_name_zh": "昇薈"
       },
       "YI06T09002": {
         "stop_name_en": "YING TUNG ESTATE",
-        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
+        "stop_name_wrap_en": "YING TUNG ESTATE",
         "stop_name_zh": "迎東邨"
       },
       "YI06T10002": {
         "lat": 22.29705,
         "long": 113.952582,
         "stop_name_en": "YING TUNG ESTATE",
-        "stop_name_wrap_en": "YUEN LONG (WEST) BUS TERMINUS",
+        "stop_name_wrap_en": "YING TUNG ESTATE",
         "stop_name_zh": "迎東邨"
       },
       "YI06W10252": {
         "lat": 22.295703,
         "long": 113.951998,
         "stop_name_en": "THE VISIONARY",
-        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
+        "stop_name_wrap_en": "THE VISIONARY",
         "stop_name_zh": "昇薈"
       },
       "YI07S10000": {
         "lat": 22.38914,
         "long": 113.968747,
         "stop_name_en": "YIP WONG ESTATE",
-        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
+        "stop_name_wrap_en": "YIP WONG ESTATE",
         "stop_name_zh": "業旺邨"
       },
       "YI70W09002": {
         "lat": 22.296485,
         "long": 113.948495,
         "stop_name_en": "NGA SHING HOUSE YU NGA COURT",
-        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
+        "stop_name_wrap_en": "NGA SHING HOUSE|YU NGA COURT",
         "stop_name_zh": "裕雅苑雅盛閣"
       },
       "YI70W10002": {
         "lat": 22.296485,
         "long": 113.948495,
         "stop_name_en": "NGA SHING HOUSE YU NGA COURT",
-        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
+        "stop_name_wrap_en": "NGA SHING HOUSE|YU NGA COURT",
         "stop_name_zh": "裕雅苑雅盛閣"
       },
       "YI70W11002": {
         "lat": 22.295371,
         "long": 113.946747,
         "stop_name_en": "YU NGA SHOPPING CENTRE",
-        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
+        "stop_name_wrap_en": "YU NGA|SHOPPING CENTRE",
         "stop_name_zh": "裕雅商場"
       },
       "YT70W09002": {
         "lat": 22.282607,
         "long": 113.936813,
         "stop_name_en": "KUI YAT HOUSE YAT TUNG ESTATE",
-        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
+        "stop_name_wrap_en": "KUI YAT HOUSE|YAT TUNG ESTATE",
         "stop_name_zh": "逸東邨居逸樓"
       },
       "YT70W09502": {
         "lat": 22.282661,
         "long": 113.936974,
         "stop_name_en": "KUI YAT HOUSE YAT TUNG ESTATE",
-        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
+        "stop_name_wrap_en": "KUI YAT HOUSE|YAT TUNG ESTATE",
         "stop_name_zh": "逸東邨居逸樓"
       },
       "YU01N10500": {
         "lat": 22.325835,
         "long": 114.166576,
         "stop_name_en": "HKSPC",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "HKSPC",
         "stop_name_zh": "保護兒童會"
       },
       "YU01N11000": {
         "lat": 22.326719,
         "long": 114.165439,
         "stop_name_en": "MAPLE STREET",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "MAPLE STREET",
         "stop_name_zh": "楓樹街"
       },
       "YU01N11500": {
         "lat": 22.327915,
         "long": 114.163906,
         "stop_name_en": "SHEK KIP MEI ST REST GARDEN",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "SHEK KIP MEI ST|REST GARDEN",
         "stop_name_zh": "石硤尾街花園"
       },
       "YU01N12000": {
         "lat": 22.327994,
         "long": 114.163798,
         "stop_name_en": "SHEK KIP MEI ST REST GARDEN",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "SHEK KIP MEI ST|REST GARDEN",
         "stop_name_zh": "石硤尾街花園"
       },
       "YU01N12500": {
         "lat": 22.328386,
         "long": 114.163281,
         "stop_name_en": "NAM CHEONG STREET",
-        "stop_name_wrap_en": "WO CHE ESTATE",
+        "stop_name_wrap_en": "NAM CHEONG|STREET",
         "stop_name_zh": "南昌街"
       },
       "YU01N13000": {
         "lat": 22.329011,
         "long": 114.162478,
         "stop_name_en": "PEI HO STREET",
-        "stop_name_wrap_en": "WO CHE ESTATE",
+        "stop_name_wrap_en": "PEI HO STREET",
         "stop_name_zh": "北河街"
       },
       "YU01N13500": {
         "lat": 22.329064,
         "long": 114.162397,
         "stop_name_en": "PEI HO STREET",
-        "stop_name_wrap_en": "WO CHE ESTATE",
+        "stop_name_wrap_en": "PEI HO STREET",
         "stop_name_zh": "北河街"
       },
       "YU01N14000": {
         "lat": 22.329851,
         "long": 114.161402,
         "stop_name_en": "KWEILIN STREET",
-        "stop_name_wrap_en": "WO CHE ESTATE",
+        "stop_name_wrap_en": "KWEILIN STREET",
         "stop_name_zh": "桂林街"
       },
       "YU01N14500": {
         "lat": 22.329883,
         "long": 114.161357,
         "stop_name_en": "KWEILIN STREET",
-        "stop_name_wrap_en": "WO CHE ESTATE",
+        "stop_name_wrap_en": "KWEILIN STREET",
         "stop_name_zh": "桂林街"
       },
       "YU01T10000": {
         "lat": 22.381334,
         "long": 114.201583,
         "stop_name_en": "PRINCE OF WALES HOSPITAL",
-        "stop_name_wrap_en": "WO CHE ESTATE",
+        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
         "stop_name_zh": "威爾斯醫院"
       },
       "YU01T10500": {
         "lat": 22.38135,
         "long": 114.201605,
         "stop_name_en": "PRINCE OF WALES HOSPITAL",
-        "stop_name_wrap_en": "WO CHE ESTATE",
+        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
         "stop_name_zh": "威爾斯醫院"
       },
       "YU01T11000": {
         "lat": 22.381323,
         "long": 114.201485,
         "stop_name_en": "PRINCE OF WALES HOSPITAL",
-        "stop_name_wrap_en": "WO CHE ESTATE",
+        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
         "stop_name_zh": "威爾斯醫院"
       },
       "YU01T11200": {
         "lat": 22.381366,
         "long": 114.201366,
         "stop_name_en": "PRINCE OF WALES HOSPITAL",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
         "stop_name_zh": "威爾斯醫院"
       },
       "YU01T12000": {
         "stop_name_en": "PRINCE OF WALES HOSPITAL",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
         "stop_name_zh": "威爾斯醫院"
       },
       "YU01T13000": {
         "stop_name_en": "PRINCE OF WALES HOSPITAL",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
         "stop_name_zh": "威爾斯醫院"
       },
       "YU01T14000": {
         "stop_name_en": "PRINCE OF WALES HOSPITAL",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "PRINCE OF WALES|HOSPITAL",
         "stop_name_zh": "威爾斯醫院"
-      },
-      "YU02T10500": {
-        "stop_name_en": "YUEN LONG EAST BUS TERMINUS",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
-        "stop_name_zh": "元朗東總站"
-      },
-      "YU02T12000": {
-        "stop_name_en": "YUEN LONG EAST",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
-        "stop_name_zh": "元朗東"
-      },
-      "YU02T12002": {
-        "stop_name_en": "YUEN LONG EAST BUS TERMINUS",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
-        "stop_name_zh": "元朗東總站"
-      },
-      "YU02W10000": {
-        "stop_name_en": "YUE MAN SQUARE",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
-        "stop_name_zh": "裕民坊"
-      },
-      "YU02W10500": {
-        "stop_name_en": "YUE MAN SQUARE",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
-        "stop_name_zh": "裕民坊"
-      },
-      "YU02W11000": {
-        "stop_name_en": "YUE MAN SQUARE",
-        "stop_name_wrap_en": "YUEN LONG PARK|BUS TERMINUS",
-        "stop_name_zh": "裕民坊"
-      },
-      "YU02W11250": {
-        "stop_name_en": "YUE MAN SQUARE",
-        "stop_name_wrap_en": "YUEN LONG PARK|BUS TERMINUS",
-        "stop_name_zh": "裕民坊"
       },
       "YU03T10000": {
         "lat": 22.445432,
         "long": 114.024608,
         "stop_name_en": "YUEN LONG WEST BUS TERMINUS",
-        "stop_name_wrap_en": "KOON WAH LANE",
+        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
         "stop_name_zh": "元朗西總站"
       },
       "YU03T10500": {
         "lat": 22.445453,
         "long": 114.024767,
-        "stop_name_en": "YUEN LONG (WEST) BUS TERMINUS",
-        "stop_name_wrap_en": "LOK MOON HOUSE",
-        "stop_name_zh": "元朗（西）總站"
+        "stop_name_en": "YUEN LONG WEST BUS TERMINUS",
+        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
+        "stop_name_zh": "元朗西總站"
       },
       "YU03T11000": {
         "lat": 22.44552,
         "long": 114.024812,
         "stop_name_en": "YUEN LONG WEST BUS TERMINUS",
-        "stop_name_wrap_en": "LOK MOON HOUSE",
+        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
         "stop_name_zh": "元朗西總站"
       },
       "YU03T11500": {
         "lat": 22.44552,
         "long": 114.024812,
         "stop_name_en": "YUEN LONG WEST BUS TERMINUS",
-        "stop_name_wrap_en": "TAI PO|WATERFRONT PARK",
+        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
         "stop_name_zh": "元朗西總站"
       },
       "YU03T12000": {
         "lat": 22.445364,
         "long": 114.024859,
         "stop_name_en": "YUEN LONG WEST BUS TERMINUS",
-        "stop_name_wrap_en": "TAI PO|WATERFRONT PARK",
+        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
         "stop_name_zh": "元朗西總站"
       },
       "YU03T12500": {
         "stop_name_en": "YUEN LONG WEST BUS TERMINUS",
-        "stop_name_wrap_en": "YUEN LONG|STATION",
+        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
         "stop_name_zh": "元朗西總站"
       },
       "YU03T13000": {
         "lat": 22.445524,
         "long": 114.024917,
         "stop_name_en": "YUEN LONG WEST BUS TERMINUS",
-        "stop_name_wrap_en": "YUEN LONG| STATION",
+        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
         "stop_name_zh": "元朗西總站"
       },
       "YU03T13500": {
         "lat": 22.445504,
         "long": 114.02496,
         "stop_name_en": "YUEN LONG WEST BUS TERMINUS",
-        "stop_name_wrap_en": "YUEN LONG|STATION",
+        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
         "stop_name_zh": "元朗西總站"
       },
       "YU03T13552": {
         "stop_name_en": "YUEN LONG WEST BUS TERMINUS",
-        "stop_name_wrap_en": "YUEN LONG|FUNG CHEUNG ROAD",
+        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
         "stop_name_zh": "元朗西總站"
       },
       "YU03T14000": {
         "stop_name_en": "YUEN LONG WEST BUS TERMINUS",
-        "stop_name_wrap_en": "YUEN LONG|FUNG CHEUNG ROAD",
+        "stop_name_wrap_en": "YUEN LONG WEST|BUS TERMINUS",
         "stop_name_zh": "元朗西總站"
       },
       "YU05N10000": {
         "lat": 22.384532,
         "long": 114.193274,
         "stop_name_en": "LEK YUEN ESTATE",
-        "stop_name_wrap_en": "KMB SHATIN DEPOT",
+        "stop_name_wrap_en": "LEK YUEN ESTATE",
         "stop_name_zh": "瀝源邨"
       },
       "YU05N10002": {
         "lat": 22.384532,
         "long": 114.193274,
         "stop_name_en": "LEK YUEN ESTATE",
-        "stop_name_wrap_en": "YUEN YUEN|INSTITUTE",
+        "stop_name_wrap_en": "LEK YUEN ESTATE",
         "stop_name_zh": "瀝源邨"
       },
       "YU05N10700": {
         "lat": 22.384405,
         "long": 114.193158,
         "stop_name_en": "LEK YUEN ESTATE",
-        "stop_name_wrap_en": "SILVER FIELD|GARDEN",
+        "stop_name_wrap_en": "LEK YUEN ESTATE",
         "stop_name_zh": "瀝源邨"
       },
       "YU05N11000": {
         "lat": 22.384315,
         "long": 114.19307,
         "stop_name_en": "LEK YUEN ESTATE",
-        "stop_name_wrap_en": "YUEN LONG|TAK YIP STREET",
+        "stop_name_wrap_en": "LEK YUEN ESTATE",
         "stop_name_zh": "瀝源邨"
       },
       "YU05N11500": {
         "lat": 22.387846,
         "long": 114.196375,
         "stop_name_en": "WO CHE ESTATE",
-        "stop_name_wrap_en": "YUEN LONG|TAK YIP STREET",
+        "stop_name_wrap_en": "WO CHE ESTATE",
         "stop_name_zh": "禾輋邨"
       },
       "YU05N11502": {
         "lat": 22.387846,
         "long": 114.196375,
         "stop_name_en": "WO CHE ESTATE",
-        "stop_name_wrap_en": "FUK YAT HOUSE|YAT TUNG ESTATE",
+        "stop_name_wrap_en": "WO CHE ESTATE",
         "stop_name_zh": "禾輋邨"
       },
       "YU05N12000": {
         "lat": 22.388004,
         "long": 114.196544,
         "stop_name_en": "WO CHE ESTATE",
-        "stop_name_wrap_en": "YUNG YAT HOUSE|YAT TUNG ESTATE",
+        "stop_name_wrap_en": "WO CHE ESTATE",
         "stop_name_zh": "禾輋邨"
       },
       "YU05N12500": {
         "lat": 22.387757,
         "long": 114.196309,
         "stop_name_en": "WO CHE ESTATE",
-        "stop_name_wrap_en": "MUN TUNG ESTATE",
+        "stop_name_wrap_en": "WO CHE ESTATE",
         "stop_name_zh": "禾輋邨"
       },
       "YU05S10000": {
@@ -143841,290 +143746,287 @@
         "lat": 22.387544,
         "long": 114.196445,
         "stop_name_en": "WO CHE ESTATE",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "WO CHE ESTATE",
         "stop_name_zh": "禾輋邨"
       },
       "YU05S10250": {
         "lat": 22.387544,
         "long": 114.196445,
         "stop_name_en": "WO CHE ESTATE",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "WO CHE ESTATE",
         "stop_name_zh": "禾輋邨"
       },
       "YU05S10500": {
         "lat": 22.387596,
         "long": 114.196511,
         "stop_name_en": "WO CHE ESTATE",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "WO CHE ESTATE",
         "stop_name_zh": "禾輋邨"
       },
       "YU05S11000": {
         "lat": 22.387291,
         "long": 114.196122,
         "stop_name_en": "WO CHE ESTATE",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "WO CHE ESTATE",
         "stop_name_zh": "禾輋邨"
       },
       "YU05S11500": {
         "lat": 22.384292,
         "long": 114.193409,
         "stop_name_en": "LEK YUEN ESTATE",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
+        "stop_name_wrap_en": "LEK YUEN ESTATE",
         "stop_name_zh": "瀝源邨"
       },
       "YU05S12000": {
         "lat": 22.384248,
         "long": 114.193347,
         "stop_name_en": "LEK YUEN ESTATE",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
+        "stop_name_wrap_en": "LEK YUEN ESTATE",
         "stop_name_zh": "瀝源邨"
       },
       "YU05S12002": {
         "lat": 22.384248,
         "long": 114.193347,
         "stop_name_en": "LEK YUEN ESTATE",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
+        "stop_name_wrap_en": "LEK YUEN ESTATE",
         "stop_name_zh": "瀝源邨"
       },
       "YU05S12500": {
         "lat": 22.384168,
         "long": 114.19329,
         "stop_name_en": "LEK YUEN ESTATE",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
+        "stop_name_wrap_en": "LEK YUEN ESTATE",
         "stop_name_zh": "瀝源邨"
       },
       "YU05S12750": {
         "lat": 22.384168,
         "long": 114.19329,
         "stop_name_en": "LEK YUEN ESTATE",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
+        "stop_name_wrap_en": "LEK YUEN ESTATE",
         "stop_name_zh": "瀝源邨"
       },
       "YU05T10000": {
         "lat": 22.382005,
         "long": 114.205328,
         "stop_name_en": "YU CHUI COURT BUS TERMINUS",
-        "stop_name_wrap_en": "YUEN LONG PARK|BUS TERMINUS",
+        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
         "stop_name_zh": "愉翠苑總站"
       },
       "YU05T10500": {
         "lat": 22.38194,
         "long": 114.205399,
         "stop_name_en": "YU CHUI COURT BUS TERMINUS",
-        "stop_name_wrap_en": "YUEN LONG PARK|BUS TERMINUS",
+        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
         "stop_name_zh": "愉翠苑總站"
       },
       "YU05T11000": {
         "lat": 22.381882,
         "long": 114.205456,
         "stop_name_en": "YU CHUI COURT BUS TERMINUS",
-        "stop_name_wrap_en": "KOON WAH LANE",
+        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
         "stop_name_zh": "愉翠苑總站"
       },
       "YU05T11500": {
         "lat": 22.381835,
         "long": 114.205512,
         "stop_name_en": "YU CHUI COURT BUS TERMINUS",
-        "stop_name_wrap_en": "LOK MOON HOUSE",
+        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
         "stop_name_zh": "愉翠苑總站"
       },
       "YU05T11502": {
         "stop_name_en": "YU CHUI COURT BUS TERMINUS",
-        "stop_name_wrap_en": "LOK MOON HOUSE",
+        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
         "stop_name_zh": "愉翠苑總站"
       },
       "YU05T12000": {
         "lat": 22.381835,
         "long": 114.205512,
         "stop_name_en": "YU CHUI COURT BUS TERMINUS",
-        "stop_name_wrap_en": "TAI PO|WATERFRONT PARK",
+        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
         "stop_name_zh": "愉翠苑總站"
       },
       "YU06T10000": {
         "lat": 22.442051,
         "long": 114.020163,
         "stop_name_en": "YUEN LONG PARK BUS TERMINUS",
-        "stop_name_wrap_en": "TAI PO|WATERFRONT PARK",
+        "stop_name_wrap_en": "YUEN LONG PARK|BUS TERMINUS",
         "stop_name_zh": "元朗公園總站"
       },
       "YU06T11000": {
         "lat": 22.442051,
         "long": 114.020163,
         "stop_name_en": "YUEN LONG PARK BUS TERMINUS",
-        "stop_name_wrap_en": "YUEN LONG|STATION",
+        "stop_name_wrap_en": "YUEN LONG PARK|BUS TERMINUS",
         "stop_name_zh": "元朗公園總站"
       },
       "YU06T12000": {
         "lat": 22.442051,
         "long": 114.020163,
         "stop_name_en": "YUEN LONG PARK BUS TERMINUS",
-        "stop_name_wrap_en": "YUEN LONG| STATION",
+        "stop_name_wrap_en": "YUEN LONG PARK|BUS TERMINUS",
         "stop_name_zh": "元朗公園總站"
       },
       "YU06T13000": {
         "lat": 22.442051,
         "long": 114.020163,
-        "stop_name_en": "YUEN LONG PARK",
-        "stop_name_wrap_en": "YUEN LONG|STATION",
+        "stop_name_en": "YUEN LONG PARK BUS TERMINUS",
+        "stop_name_wrap_en": "YUEN LONG PARK|BUS TERMINUS",
         "stop_name_zh": "元朗公園"
       },
       "YU06W10000": {
         "lat": 22.347134,
         "long": 114.20225,
         "stop_name_en": "KOON WAH LANE",
-        "stop_name_wrap_en": "YUEN LONG|FUNG CHEUNG ROAD",
+        "stop_name_wrap_en": "KOON WAH LANE",
         "stop_name_zh": "貫華里"
       },
       "YU06W10250": {
         "lat": 22.347212,
         "long": 114.200452,
         "stop_name_en": "LOK MOON HOUSE",
-        "stop_name_wrap_en": "YUEN LONG|FUNG CHEUNG ROAD",
+        "stop_name_wrap_en": "LOK MOON HOUSE",
         "stop_name_zh": "樂滿樓"
       },
       "YU06W10500": {
         "lat": 22.347198,
         "long": 114.200596,
         "stop_name_en": "LOK MOON HOUSE",
-        "stop_name_wrap_en": "KMB SHATIN DEPOT",
+        "stop_name_wrap_en": "LOK MOON HOUSE",
         "stop_name_zh": "樂滿樓"
       },
       "YU07N10000": {
         "lat": 22.451677,
         "long": 114.177012,
         "stop_name_en": "TAI PO WATERFRONT PARK",
-        "stop_name_wrap_en": "YUEN YUEN|INSTITUTE",
+        "stop_name_wrap_en": "TAI PO|WATERFRONT PARK",
         "stop_name_zh": "大埔海濱公園"
       },
       "YU07S10000": {
         "lat": 22.452289,
         "long": 114.177642,
         "stop_name_en": "TAI PO WATERFRONT PARK",
-        "stop_name_wrap_en": "SILVER FIELD|GARDEN",
+        "stop_name_wrap_en": "TAI PO|WATERFRONT PARK",
         "stop_name_zh": "大埔海濱公園"
       },
       "YU07T09500": {
         "lat": 22.446096,
         "long": 114.034273,
         "stop_name_en": "YUEN LONG STATION",
-        "stop_name_wrap_en": "YUEN LONG|TAK YIP STREET",
+        "stop_name_wrap_en": "YUEN LONG|STATION",
         "stop_name_zh": "元朗站"
       },
       "YU07T10000": {
         "lat": 22.446096,
         "long": 114.034273,
         "stop_name_en": "YUEN LONG STATION",
-        "stop_name_wrap_en": "YUEN LONG|TAK YIP STREET",
+        "stop_name_wrap_en": "YUEN LONG| STATION",
         "stop_name_zh": "元朗站"
       },
       "YU07T10002": {
         "lat": 22.446096,
         "long": 114.034273,
         "stop_name_en": "YUEN LONG STATION",
-        "stop_name_wrap_en": "FUK YAT HOUSE|YAT TUNG ESTATE",
+        "stop_name_wrap_en": "YUEN LONG|STATION",
         "stop_name_zh": "元朗站"
       },
       "YU07T10500": {
         "stop_name_en": "YUEN LONG STATION",
-        "stop_name_wrap_en": "YUNG YAT HOUSE|YAT TUNG ESTATE",
+        "stop_name_wrap_en": "YUEN LONG|STATION",
         "stop_name_zh": "元朗站"
       },
       "YU08T10000": {
         "stop_name_en": "YUEN LONG FUNG CHEUNG ROAD",
-        "stop_name_wrap_en": "MUN TUNG ESTATE",
+        "stop_name_wrap_en": "YUEN LONG|FUNG CHEUNG ROAD",
         "stop_name_zh": "元朗鳳翔路"
       },
       "YU08T10500": {
         "lat": 22.44294,
         "long": 114.032453,
         "stop_name_en": "YUEN LONG FUNG CHEUNG ROAD",
-        "stop_name_wrap_en": "WO CHE ESTATE",
+        "stop_name_wrap_en": "YUEN LONG|FUNG CHEUNG ROAD",
         "stop_name_zh": "元朗鳳翔路"
       },
       "YU09A15000": {
         "stop_name_en": "KMB SHATIN DEPOT",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "KMB SHATIN DEPOT",
         "stop_name_zh": "九巴沙田車廠"
       },
       "YU09T10000": {
         "lat": 22.383027,
         "long": 114.122685,
         "stop_name_en": "YUEN YUEN INSTITUTE",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "YUEN YUEN|INSTITUTE",
         "stop_name_zh": "圓玄學院"
       },
       "YU10N10000": {
         "lat": 22.439505,
         "long": 114.022113,
         "stop_name_en": "SILVER FIELD GARDEN",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "SILVER FIELD|GARDEN",
         "stop_name_zh": "銀田花園"
       },
       "YU10T10000": {
         "lat": 22.451245,
         "long": 114.030972,
         "stop_name_en": "YUEN LONG TAK YIP STREET",
-        "stop_name_wrap_en": "LEK YUEN ESTATE",
+        "stop_name_wrap_en": "YUEN LONG|TAK YIP STREET",
         "stop_name_zh": "元朗德業街"
       },
       "YU10T11002": {
         "lat": 22.451245,
         "long": 114.030972,
         "stop_name_en": "YUEN LONG TAK YIP STREET",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
+        "stop_name_wrap_en": "YUEN LONG|TAK YIP STREET",
         "stop_name_zh": "元朗德業街"
       },
       "YU10T12000": {
         "lat": 22.451245,
         "long": 114.030972,
         "stop_name_en": "YUEN LONG TAK YIP STREET",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
+        "stop_name_wrap_en": "YUEN LONG|TAK YIP STREET",
         "stop_name_zh": "元朗德業街"
       },
       "YU70E10002": {
         "lat": 22.278841,
         "long": 113.933282,
         "stop_name_en": "FUK YAT HOUSE YAT TUNG ESTATE",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
+        "stop_name_wrap_en": "FUK YAT HOUSE|YAT TUNG ESTATE",
         "stop_name_zh": "逸東邨福逸樓"
       },
       "YU70E10502": {
         "lat": 22.278841,
         "long": 113.933282,
         "stop_name_en": "FUK YAT HOUSE YAT TUNG ESTATE",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
+        "stop_name_wrap_en": "FUK YAT HOUSE|YAT TUNG ESTATE",
         "stop_name_zh": "逸東邨福逸樓"
       },
       "YU70E11002": {
         "lat": 22.279642,
         "long": 113.936954,
         "stop_name_en": "YUNG YAT HOUSE YAT TUNG ESTATE",
-        "stop_name_wrap_en": "YU CHUI COURT|BUS TERMINUS",
+        "stop_name_wrap_en": "YUNG YAT HOUSE|YAT TUNG ESTATE",
         "stop_name_zh": "逸東邨雍逸樓"
       },
       "YU70E11502": {
         "lat": 22.279642,
         "long": 113.936954,
         "stop_name_en": "YUNG YAT HOUSE YAT TUNG ESTATE",
-        "stop_name_wrap_en": "YUEN LONG PARK|BUS TERMINUS",
+        "stop_name_wrap_en": "YUNG YAT HOUSE|YAT TUNG ESTATE",
         "stop_name_zh": "逸東邨雍逸樓"
       },
       "YU70W10002": {
         "lat": 22.278664,
         "long": 113.933183,
         "stop_name_en": "MUN TUNG ESTATE",
-        "stop_name_wrap_en": "YUEN LONG PARK|BUS TERMINUS",
+        "stop_name_wrap_en": "MUN TUNG ESTATE",
         "stop_name_zh": "滿東邨"
       },
       "YU70W11002": {
         "lat": 22.278664,
         "long": 113.933183,
         "stop_name_en": "MUN TUNG ESTATE",
-        "stop_name_wrap_en": "KOON WAH LANE",
+        "stop_name_wrap_en": "MUN TUNG ESTATE",
         "stop_name_zh": "滿東邨"
-      },
-      "nan": {
-        "stop_name_wrap_en": "LOK MOON HOUSE"
       }
     }
   }
