@@ -1,0 +1,69 @@
+name: Publish route-stop data to Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - route_stop.json
+      - .github/workflows/deploy-route-data.yml
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate and prepare public data
+        run: |
+          python - <<'PY'
+          import json
+          import pathlib
+          import re
+
+          text = pathlib.Path("route_stop.json").read_text(encoding="utf-8")
+          data = json.loads(re.sub(r":\s*NaN\b", ": null", text))
+          for operator in ("kmb", "ctb"):
+              routes = data["routes"][operator]
+              stops = data["stops"][operator]
+              if not isinstance(routes, list) or not routes or not isinstance(stops, dict):
+                  raise ValueError(f"Invalid route/stop groups for {operator}")
+              for route in routes:
+                  if not route.get("route") or route.get("bound") not in ("I", "O"):
+                      raise ValueError(f"Invalid route for {operator}")
+                  if not isinstance(route.get("stops"), list):
+                      raise ValueError(f"Invalid stop sequence for {operator}")
+                  for stop_id in route["stops"]:
+                      if stop_id not in stops:
+                          raise ValueError(f"Missing {operator} stop {stop_id}")
+          output = pathlib.Path("_site")
+          output.mkdir()
+          (output / "route_stop.json").write_text(
+              json.dumps(data, ensure_ascii=False, separators=(",", ":"), allow_nan=False),
+              encoding="utf-8",
+          )
+          (output / "index.html").write_text(
+              '<!doctype html><meta charset="utf-8"><title>Route-stop data</title>'
+              '<a href="route_stop.json">KMB and CTB route-stop JSON</a>',
+              encoding="utf-8",
+          )
+          PY
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
