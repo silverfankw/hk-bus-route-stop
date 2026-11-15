@@ -115917,6 +115917,11 @@
         "stop_name_wrap_en": "SAN TIN PTI",
         "stop_name_zh": "新田運輸交匯處"
       },
+      "LO04T1000X270S": {
+        "stop_name_en": "SAN TIN INTERCHANGE INTERCHANGE TO SHENZHEN",
+        "stop_name_wrap_en": "SAN TIN|INTERCHANGE>INTERCHANGE|TO SHENZHEN",
+        "stop_name_zh": "新田交匯處轉乘往深圳"
+      },
       "LO04T10502": {
         "stop_name_en": "SAN TIN PTI",
         "stop_name_wrap_en": "SAN TIN PTI",
