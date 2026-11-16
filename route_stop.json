@@ -31016,6 +31016,40 @@
       },
       {
         "bound": "I",
+        "dest_en": "TSUEN WAN (CASTLE PEAK ROAD)",
+        "dest_tc": "荃灣(青山公路)",
+        "orig_en": "YUEN YUEN INSTITUTE",
+        "orig_tc": "圓玄學院",
+        "route": "32P",
+        "service_type": "1",
+        "special_remark_en": "",
+        "special_remark_tc": "",
+        "stops": [
+          "YU09T10000",
+          "LO10E10000",
+          "TU05T11000",
+          "CA07N16100"
+        ]
+      },
+      {
+        "bound": "O",
+        "dest_en": "YUEN YUEN INSTITUTE",
+        "dest_tc": "圓玄學院",
+        "orig_en": "TSUEN WAN (CASTLE PEAK ROAD)",
+        "orig_tc": "荃灣(青山公路)",
+        "route": "32P",
+        "service_type": "1",
+        "special_remark_en": "",
+        "special_remark_tc": "",
+        "stops": [
+          "CA07N16100",
+          "TU05T10000",
+          "LO10W10000",
+          "YU09T10000"
+        ]
+      },
+      {
+        "bound": "I",
         "dest_en": "TSUEN WAN WEST STATION",
         "dest_tc": "荃灣西站",
         "orig_en": "YAU TONG",
@@ -75520,6 +75554,38 @@
         ]
       },
       {
+        "bound": "O",
+        "dest_en": "[KMB Tour HK] TSIM SHA TSUI and TSING MA BRIDGE",
+        "dest_tc": "[九巴遊香港] 尖沙咀及青馬大橋",
+        "orig_en": "KOWLOON STATION",
+        "orig_tc": "九龍站",
+        "route": "HK2",
+        "service_type": "1",
+        "special_remark_en": "＊Cancelled＊ Open-top Bus (SKYWALK) [via Stonecutters Bridge]",
+        "special_remark_tc": "＊已取消＊ 開篷巴士（天際漫遊）[經 昂船洲大橋]",
+        "stops": [
+          "MT01T12651",
+          "NG06S11000",
+          "CA04S10600",
+          "CA04S11100",
+          "CA04S12100",
+          "CA04N10102",
+          "JO02W12900",
+          "FE01S10000",
+          "NOTEHK2012",
+          "NOTEHK2013",
+          "NOTEHK2014",
+          "NOTEHK2015",
+          "NOTEHK2016",
+          "NOTEHK2017",
+          "NOTEHK2018",
+          "NOTEHK2019",
+          "FE01S10000",
+          "JO02W13900",
+          "MT01T12650"
+        ]
+      },
+      {
         "bound": "I",
         "dest_en": "KWUN TONG (YUE MAN SQUARE)",
         "dest_tc": "觀塘(裕民坊)",
@@ -78562,6 +78628,47 @@
           "DE02W09000",
           "DE02W13000",
           "CO03E09900"
+        ]
+      },
+      {
+        "bound": "I",
+        "dest_en": "ANDERSON",
+        "dest_tc": "安達臣",
+        "orig_en": "CENTRAL (RUMSEY STREET)",
+        "orig_tc": "中環(林士街)",
+        "route": "N600",
+        "service_type": "1",
+        "special_remark_en": "Only operates on New Year's Day and the 1st day of LNY",
+        "special_remark_tc": "只於元旦日及農曆年初一凌晨提供服務",
+        "stops": [
+          "CE01T10000",
+          "CO03E10900",
+          "CO03E11750",
+          "QU04E10500",
+          "HE02E12650",
+          "HE02E14600",
+          "HE02E16000",
+          "HE02E17500",
+          "HE02E18100",
+          "YE03E10900",
+          "CA08E14200",
+          "KI04E10100",
+          "KI04E11200",
+          "KI04E12300",
+          "KI04E12900",
+          "KI04E13250",
+          "KI04E14550",
+          "EH01E10500",
+          "LE03W11500",
+          "TS03E10000",
+          "SA13W10250",
+          "PO04E09500",
+          "ON15W10000",
+          "ON14W10500",
+          "ON14W11500",
+          "ON18S10300",
+          "ON18N11000",
+          "AN01T10500"
         ]
       },
       {
