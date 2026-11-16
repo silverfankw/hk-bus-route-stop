@@ -120862,11 +120862,6 @@
         "stop_name_wrap_en": "SKY100|360 DEGREE VIEW OF>VICTORIA HARBOUR",
         "stop_name_zh": "SKY100飽覽維港景色"
       },
-      "NOTEHK2011": {
-        "stop_name_en": "WELCOME ABOARD KMB TOUR HK HK2\"SKYWALK\"",
-        "stop_name_wrap_en": "WELCOME ABOARD|KMB TOUR HK>HK2\"SKYWALK\"",
-        "stop_name_zh": "九巴遊香港HK2天際漫遊"
-      },
       "NOTEHK2012": {
         "stop_name_en": "STONECUTTER BGE LONG-SPAN CABLE-STAYED BGE",
         "stop_name_wrap_en": "STONECUTTERS BGE|LONG-SPAN",
@@ -120894,18 +120889,33 @@
       },
       "NOTEHK2017": {
         "stop_name_en": "TSING YI MIX OF RESIDENTIAL AND HEAVY INDUSTRY",
-        "stop_name_wrap_en": "KMB HEADQUARTERS|HK'S LARGEST",
+        "stop_name_wrap_en": "TSING YI |MIX OF RESIDENTIAL",
         "stop_name_zh": "青衣集住宅重工於一身"
       },
       "NOTEHK2018": {
         "stop_name_en": "KMB HEADQUARTERS HK'S LARGEST BUS COMPANY",
-        "stop_name_wrap_en": "WEST KLN CORRIDOR|EXPERIENCE",
+        "stop_name_wrap_en": "KMB HEADQUARTERS|HK'S LARGEST",
         "stop_name_zh": "九巴總部香港最大巴士公司"
       },
       "NOTEHK2019": {
         "stop_name_en": "WEST KLN CORRIDOR EXPERIENCE DIFF SIDES OF HK",
-        "stop_name_wrap_en": "TSING YI |MIX OF RESIDENTIAL",
+        "stop_name_wrap_en": "WEST KLN CORRIDOR|EXPERIENCE",
         "stop_name_zh": "西九龍走廊短時間看香港不同"
+      },
+      "NOTESTARTKMB01": {
+        "stop_name_en": "WELCOME ABOARD",
+        "stop_name_wrap_en": "WELCOME ABOARD",
+        "stop_name_zh": "歡迎乘坐九龍巴士"
+      },
+      "NOTESTARTKMBHK2": {
+        "stop_name_en": "WELCOME ABOARD KMB TOUR HK HK2\"SKYWALK\"",
+        "stop_name_wrap_en": "WELCOME ABOARD|KMB TOUR HK>HK2\"SKYWALK\"",
+        "stop_name_zh": "九巴遊香港HK2天際漫遊"
+      },
+      "NOTESTARTLWB01": {
+        "stop_name_en": "WELCOME ABOARD LONG WIN BUS",
+        "stop_name_wrap_en": "WELCOME ONBOARD|LONG WIN BUS",
+        "stop_name_zh": "歡迎乘坐龍運巴士"
       },
       "OC01N10000": {
         "lat": 22.246718,
@@ -131564,9 +131574,9 @@
       "ST01T01100": {
         "lat": 22.293816,
         "long": 114.168797,
-        "stop_name_en": "STAR FERRY",
+        "stop_name_en": "17. STAR FERRY",
         "stop_name_wrap_en": "STAR FERRY",
-        "stop_name_zh": "尖沙咀碼頭"
+        "stop_name_zh": "17. 尖沙咀碼頭"
       },
       "ST01T01100K1G": {
         "stop_name_en": "THANK YOU FOR TRAVELLING KMB TOUR HK HK1",
@@ -131587,16 +131597,6 @@
         "stop_name_en": "KMB TOUR HK HK1 FEEL THE VIBRANT NIGHTTIME KLN",
         "stop_name_wrap_en": "KMB TOUR HK HK1|FEEL THE VIBRANT>NIGHTTIME KLN",
         "stop_name_zh": "九巴遊香港HK1體驗九龍夜景"
-      },
-      "ST01T01101": {
-        "stop_name_en": "STAR FERRY",
-        "stop_name_wrap_en": "STAR FERRY",
-        "stop_name_zh": "尖沙咀碼頭"
-      },
-      "ST01T01102": {
-        "stop_name_en": "17. STAR FERRY",
-        "stop_name_wrap_en": "17. STAR FERRY",
-        "stop_name_zh": "17. 尖沙咀碼頭"
       },
       "ST01T01110": {
         "lat": 22.293816,
