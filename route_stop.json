@@ -25495,25 +25495,6 @@
         ]
       },
       {
-        "bound": "O",
-        "dest_en": "DIAMOND HILL CEMETERY (CIRCULAR)",
-        "dest_tc": "鑽石山墳場(循環線)",
-        "orig_en": "DIAMOND HILL STATION",
-        "orig_tc": "鑽石山站",
-        "route": "3S",
-        "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
-        "stops": [
-          "LU07N10500",
-          "PO03E10000",
-          "PO03E11250",
-          "FU04T10500",
-          "FU07W10000",
-          "LU07N10500"
-        ]
-      },
-      {
         "bound": "I",
         "dest_en": "TSZ WAN SHAN (NORTH)",
         "dest_tc": "慈雲山(北)",
@@ -28590,22 +28571,6 @@
           "KO01S10000",
           "KO01S10500",
           "YA06T11000"
-        ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "TSEUNG KWAN O CHINESE PERMANENT CEMETERY(CIRCULAR)",
-        "dest_tc": "將軍澳墳場(循環線)",
-        "orig_en": "YAU TONG (LEI YUE MUN ROAD)",
-        "orig_tc": "油塘(鯉魚門道)",
-        "route": "14S",
-        "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
-        "stops": [
-          "LE03E16300",
-          "CE01W10000",
-          "KO01S12000"
         ]
       },
       {
@@ -41095,73 +41060,6 @@
       },
       {
         "bound": "I",
-        "dest_en": "PING TIN",
-        "dest_tc": "平田",
-        "orig_en": "WO HOP SHEK",
-        "orig_tc": "和合石",
-        "route": "74S",
-        "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
-        "stops": [
-          "WO02T10000",
-          "LU05E11500",
-          "LU05E12000",
-          "LU05E12750",
-          "LU05E16500",
-          "CH16E16500",
-          "CH15E13000",
-          "KW16E10500",
-          "KW16E11250",
-          "KW16E13000",
-          "KW16E16000",
-          "KW16E17870",
-          "KW16E20750",
-          "LE03E10500",
-          "LE03E14500",
-          "KA04N10500",
-          "KA04N11500",
-          "TA32E11000",
-          "ON05K10000",
-          "PI03T12000"
-        ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "WO HOP SHEK",
-        "dest_tc": "和合石",
-        "orig_en": "PING TIN",
-        "orig_tc": "平田",
-        "route": "74S",
-        "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
-        "stops": [
-          "PI03T12000",
-          "LA06T09000",
-          "TA32W10000",
-          "KA04S10000",
-          "KA04S11500",
-          "LE03W11500",
-          "LE03W14000",
-          "KW16W11000",
-          "KW16W12300",
-          "KW16W15250",
-          "KW16W17500",
-          "KW16W19000",
-          "KW16W22010",
-          "KW16W24500",
-          "KW16W24750",
-          "LU05W13000",
-          "LU05W13500",
-          "LU05W15500",
-          "LU05W17000",
-          "LU05W18000",
-          "WO02T10000"
-        ]
-      },
-      {
-        "bound": "I",
         "dest_en": "TAI PO CENTRAL",
         "dest_tc": "大埔中心",
         "orig_en": "KWUN TONG FERRY",
@@ -46622,43 +46520,6 @@
           "CL01E15500",
           "HO17S10000",
           "HO17S10500"
-        ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "TSEUNG KWAN O (CHOI MING)",
-        "dest_tc": "將軍澳(彩明)",
-        "orig_en": "CLEAR WATER BAY",
-        "orig_tc": "清水灣",
-        "route": "91R",
-        "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
-        "stops": [
-          "CL01T10500",
-          "TA18N10000",
-          "TA18N10500",
-          "CL01W10000",
-          "CL01W10500",
-          "CL01W11000",
-          "CL01W11500",
-          "CL01W12000",
-          "CL01W12500",
-          "CL01W13000",
-          "CL01W13500",
-          "CL01W14000",
-          "CL01W14500",
-          "HA02S10000",
-          "HA02S10500",
-          "PO06W10150",
-          "CH24E10500",
-          "NG07E10000",
-          "PO19W09500",
-          "TO10N10000",
-          "TO06W10000",
-          "CH38A10000",
-          "TI11T10000",
-          "CH25T10500"
         ]
       },
       {
@@ -61863,67 +61724,6 @@
       },
       {
         "bound": "I",
-        "dest_en": "TSING YI (CHEUNG CHING ESTATE)",
-        "dest_tc": "青衣(長青邨)",
-        "orig_en": "WO HOP SHEK",
-        "orig_tc": "和合石",
-        "route": "279S",
-        "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
-        "stops": [
-          "WO02T11500",
-          "SH23W11000",
-          "TA11S10000",
-          "YE05E10750",
-          "YE05E11500",
-          "TS16S09500",
-          "TS16S10000",
-          "TS07S10000",
-          "CH22W10000",
-          "CH22W10500",
-          "CH22W10600",
-          "CH22W11000",
-          "CH14E10750",
-          "CH14E11000",
-          "CH02T10500"
-        ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "WO HOP SHEK",
-        "dest_tc": "和合石",
-        "orig_en": "TSING YI (CHEUNG CHING ESTATE)",
-        "orig_tc": "青衣(長青邨)",
-        "route": "279S",
-        "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
-        "stops": [
-          "CH02T10500",
-          "CH14E14000",
-          "CH14W10000",
-          "CH14W11000",
-          "CH22E10000",
-          "CH22E10500",
-          "CH22E11000",
-          "TS07N10500",
-          "TS06T10000",
-          "TS16N10000",
-          "TS16N10500",
-          "TS16N11000",
-          "TS21T11750",
-          "CH05T15250",
-          "YE05W10000",
-          "YE05W11000",
-          "TA10N10500",
-          "TA11N10000",
-          "SH23E12000",
-          "WO02T11500"
-        ]
-      },
-      {
-        "bound": "I",
         "dest_en": "FANLING (LUEN WO HUI)",
         "dest_tc": "粉嶺(聯和墟)",
         "orig_en": "TSING YI STATION",
@@ -71819,35 +71619,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "TUEN MUN (FU TAI ESTATE)",
-        "dest_tc": "屯門(富泰邨)",
-        "orig_en": "AIRPORT and HZMB Control Point",
-        "orig_tc": "機場及港珠澳大橋",
-        "route": "A33X",
-        "service_type": "4",
-        "special_remark_en": "Via AsiaWorld-Expo",
-        "special_remark_tc": "經博覽館",
-        "stops": [
-          "GT70T10002",
-          "AI70E10002",
-          "HO07T10002",
-          "TU70N11502",
-          "HO02E10252",
-          "HO02E10752",
-          "TU05N10252",
-          "TU05N11752",
-          "TU05N13002",
-          "TU05N13502",
-          "CA07N44002",
-          "CA07N44122",
-          "CA07N44602",
-          "CA07N45202",
-          "TU16N10000",
-          "FU05T10002"
-        ]
-      },
-      {
         "bound": "O",
         "dest_en": "AIRPORT and HZMB Control Point",
         "dest_tc": "機場及港珠澳大橋",
@@ -72206,37 +71977,6 @@
         "stops": [
           "GT70T11002",
           "TU72W10002",
-          "HO07T11002",
-          "TU70N11002",
-          "TU06N10752",
-          "WA14E10252",
-          "ON03W10002",
-          "CA07N51400",
-          "CA07N53000",
-          "CA07N53752",
-          "LO04E10752",
-          "CA07N54600",
-          "CA07N55002",
-          "KA06E10002",
-          "KA06E10502",
-          "KA06E11002",
-          "KA11S05000",
-          "KA12T13002"
-        ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "KAM SHEUNG ROAD STATION",
-        "dest_tc": "錦上路站",
-        "orig_en": "AIRPORT and HZMB Control Point",
-        "orig_tc": "機場及港珠澳大橋",
-        "route": "A36",
-        "service_type": "5",
-        "special_remark_en": "Via AsiaWorld-Expo",
-        "special_remark_tc": "經博覽館",
-        "stops": [
-          "GT70T11002",
-          "AI70E10002",
           "HO07T11002",
           "TU70N11002",
           "TU06N10752",
@@ -72617,41 +72357,6 @@
         "stops": [
           "GT70T12002",
           "TU72W10002",
-          "HO07T16002",
-          "LA70E11502",
-          "TS21N10500",
-          "ME02E10752",
-          "CH07N11252",
-          "CH07N12752",
-          "CH07N13752",
-          "LI02N11252",
-          "SH06N10252",
-          "SH05T05002",
-          "WA08E10252",
-          "TA02N12252",
-          "TA02N13252",
-          "NG03E11252",
-          "NG03E11752",
-          "CH03N10252",
-          "NG04E08502",
-          "SH09E12000",
-          "SI02W13000",
-          "SH31T10002"
-        ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "SHEK MUN ESTATE",
-        "dest_tc": "碩門邨",
-        "orig_en": "AIRPORT and HZMB Control Point",
-        "orig_tc": "機場及港珠澳大橋",
-        "route": "A41",
-        "service_type": "5",
-        "special_remark_en": "Via AsiaWorld-Expo",
-        "special_remark_tc": "經博覽館",
-        "stops": [
-          "GT70T12002",
-          "AI70E10002",
           "HO07T16002",
           "LA70E11502",
           "TS21N10500",
@@ -73855,23 +73560,6 @@
         "route": "B10",
         "service_type": "1",
         "special_remark_en": "",
-        "special_remark_tc": "",
-        "stops": [
-          "KW18T10000",
-          "TS21T13000",
-          "TA44N09000",
-          "HU09T12500"
-        ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "HUANGGANG PORT",
-        "dest_tc": "皇崗口岸",
-        "orig_en": "KWAI FONG (KWAI TSUI ESTATE)",
-        "orig_tc": "葵芳(葵翠邨)",
-        "route": "B10S",
-        "service_type": "1",
-        "special_remark_en": "On Special Day Only",
         "special_remark_tc": "",
         "stops": [
           "KW18T10000",
@@ -75564,9 +75252,10 @@
         "orig_en": "KOWLOON STATION",
         "orig_tc": "九龍站",
         "route": "HK2",
+        "route_cancelled": true,
         "service_type": "1",
-        "special_remark_en": "＊Cancelled＊ Open-top Bus (SKYWALK) [via Stonecutters Bridge]",
-        "special_remark_tc": "＊已取消＊ 開篷巴士（天際漫遊）[經 昂船洲大橋]",
+        "special_remark_en": "Open-top Bus (SKYWALK) [via Stonecutters Bridge]",
+        "special_remark_tc": "開篷巴士（天際漫遊）[經 昂船洲大橋]",
         "stops": [
           "MT01T12651",
           "NG06S11000",
@@ -76136,40 +75825,6 @@
         ]
       },
       {
-        "bound": "O",
-        "dest_en": "TSING YI (CHEUNG WANG ESTATE)",
-        "dest_tc": "青衣(長宏邨)",
-        "orig_en": "TSUEN WAN STATION",
-        "orig_tc": "荃灣站",
-        "route": "N43",
-        "service_type": "1",
-        "special_remark_en": "Service on LNY EVE",
-        "special_remark_tc": "",
-        "stops": [
-          "TS10T10500",
-          "TA10S10000",
-          "SH03E10500",
-          "SH03E12200",
-          "SH03E14000",
-          "CH05T08000",
-          "FU05S10000",
-          "FU05S10500",
-          "FU05S11000",
-          "TS07S10000",
-          "TS07S10500",
-          "TS08S10000",
-          "TS08S10500",
-          "TS08S13000",
-          "CH14W10000",
-          "CH14W10500",
-          "CH14W11000",
-          "CH14W11500",
-          "LI03N10000",
-          "LI03N10500",
-          "CH21T10500"
-        ]
-      },
-      {
         "bound": "I",
         "dest_en": "YU CHUI COURT",
         "dest_tc": "愉翠苑",
@@ -76475,47 +76130,6 @@
           "SH02N21000",
           "SH02N21500",
           "SH01T10000"
-        ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "TSZ WAN SHAN (CENTRAL)",
-        "dest_tc": "慈雲山(中)",
-        "orig_en": "NORTH POINT",
-        "orig_tc": "北角",
-        "route": "N116",
-        "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
-        "stops": [
-          "KI04W13250",
-          "KI04W14500",
-          "KI04W16500",
-          "KI04W17500",
-          "KI04W18500",
-          "CA08W10000",
-          "YE03W10000",
-          "CA02S10500",
-          "HO06N10500",
-          "CH05N11500",
-          "CH05N12000",
-          "MA07N15000",
-          "MA07N16750",
-          "MA04N10000",
-          "MA04N14500",
-          "PR01E11500",
-          "CH16E10000",
-          "CH16E11500",
-          "CH16E14000",
-          "CH16E17500",
-          "HA01N10000",
-          "PO03W10000",
-          "PO03W10250",
-          "TS15W10000",
-          "TS15W10500",
-          "WA05W10000",
-          "TS15E10250",
-          "TS20T11000"
         ]
       },
       {
@@ -80584,85 +80198,6 @@
       },
       {
         "bound": "O",
-        "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
-        "dest_tc": "銅鑼灣(維多利亞公園)",
-        "orig_en": "KAI YIP",
-        "orig_tc": "啟業",
-        "route": "R108",
-        "service_type": "1",
-        "special_remark_en": "Service on 18.1.2026 only",
-        "special_remark_tc": "只在2026年1月18日行走",
-        "stops": [
-          "KA01T11500",
-          "WA12N11500",
-          "WA13S10500",
-          "KA10W10000",
-          "SH42N09300",
-          "SH42N09500",
-          "SH42N11000",
-          "CO01W10000",
-          "PR01W12500",
-          "PR02W13000",
-          "MA04S12000",
-          "MA04S14000",
-          "MA07S11000",
-          "CH05S10000",
-          "CH05S11500",
-          "CH05S12000",
-          "HO06S11500",
-          "PE01W10500",
-          "CA08E13900"
-        ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
-        "dest_tc": "尖東麼地道",
-        "orig_en": "LAM TIN (KWONG TIN ESTATE)",
-        "orig_tc": "藍田(廣田邨)",
-        "route": "R215",
-        "service_type": "1",
-        "special_remark_en": "Service on 18. 1. 2026 only",
-        "special_remark_tc": "只2026年1月18日行走",
-        "stops": [
-          "LA05T11000",
-          "PI01N10500",
-          "PI01N11500",
-          "PI01N12500",
-          "PI01N13000",
-          "LI01N10500",
-          "SA13W10250",
-          "ON15W10000",
-          "ON14W12000",
-          "ON16K09500",
-          "ON14E08000",
-          "ON14E09000",
-          "ON14E12500",
-          "PO04W10500",
-          "HI06W10000",
-          "SA14N30000",
-          "SA14N30500",
-          "SA14N31000",
-          "SA14N32000",
-          "SA13W12000",
-          "HO07S09500",
-          "CH20W10000",
-          "CH20W10750",
-          "CH20W12750",
-          "NG05W12500",
-          "WA12N10500",
-          "WA12N10750",
-          "WA12N11000",
-          "WA13S10000",
-          "KA01W10500",
-          "CH05S13000",
-          "CH06S10000",
-          "CH06S11000",
-          "CH06S12000"
-        ]
-      },
-      {
-        "bound": "O",
         "dest_en": "TSIM SHA TSUI EAST (MODY ROAD)",
         "dest_tc": "尖沙咀東(麼地道)",
         "orig_en": "TUEN MUN FERRY PIER",
@@ -80936,18 +80471,18 @@
         "bound": "O",
         "dest_en": "CAUSEWAY BAY (VICTORIA PARK)",
         "dest_tc": "銅鑼灣(維多利亞公園)",
-        "orig_en": "ON TAI (WEST)",
-        "orig_tc": "安泰(西)",
+        "orig_en": "ON TAI (WEST) (WO TAI HOUSE)",
+        "orig_tc": "安泰(西)(和泰樓)",
         "route": "R603",
         "service_type": "1",
-        "special_remark_en": "Service on 18. 1. 2026 only",
-        "special_remark_tc": "只在2026年1月18日行走",
+        "special_remark_en": "",
+        "special_remark_tc": "馬拉松特別路線",
         "stops": [
           "ON16K10500",
           "ON14E08000",
           "ON14E09000",
           "ON14E10500",
-          "PO04W10500",
+          "PO04W10400",
           "SA13W11000",
           "SA13W11500",
           "SA14S30000",
@@ -80957,9 +80492,9 @@
           "HI06E11500",
           "LI01S10000",
           "ON05K10000",
-          "PI03T12500",
+          "PI03T10000",
           "LA06T09000",
-          "LI01N10000",
+          "LI01S10500",
           "PI01S10000",
           "PI01S10500",
           "PI01S11000",
@@ -80970,11 +80505,11 @@
           "LE03W09000",
           "LE03W10000",
           "LE03W10700",
-          "LE03W12000",
+          "LE03W11500",
           "WA20S10500",
-          "HO06S11500",
+          "HO06S13000",
           "PE01W10500",
-          "CA08E13900"
+          "CA08E13800"
         ]
       },
       {
@@ -82682,43 +82217,6 @@
           "WA06S11000",
           "WA06S11500",
           "WA06S11750"
-        ]
-      },
-      {
-        "bound": "I",
-        "dest_en": "FIRE AND AMBULANCE SERVICES ACADEMY",
-        "dest_tc": "消防及救護學院",
-        "orig_en": "WONG TAI SIN STATION",
-        "orig_tc": "黃大仙站",
-        "route": "X90",
-        "service_type": "1",
-        "special_remark_en": "Service on 12/04/2026 only",
-        "special_remark_tc": "只在2026年4月12日服務",
-        "stops": [
-          "LU05E12750",
-          "KW16E12750",
-          "KW16E17850",
-          "KW16E20350",
-          "TS22E10500",
-          "PA07S10000"
-        ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "HUNG NGOK HOUSE",
-        "dest_tc": "紅萼樓",
-        "orig_en": "FIRE AND AMBULANCE SERVICES ACADEMY",
-        "orig_tc": "消防及救護學院",
-        "route": "X90",
-        "service_type": "1",
-        "special_remark_en": "Service on 12/04/2026 only",
-        "special_remark_tc": "只在2026年4月12日服務",
-        "stops": [
-          "PA07S10000",
-          "TS22W10500",
-          "KW16W13000",
-          "KW16W20000",
-          "LU05W11500"
         ]
       },
       {
@@ -97603,8 +97101,6 @@
         "stop_name_zh": "中環林士街"
       },
       "CE01W10000": {
-        "lat": 22.2922,
-        "long": 114.245333,
         "stop_name_en": "TSEUNG KWAN O CEMETERY",
         "stop_name_wrap_en": "TSEUNG KWAN O|CEMETERY",
         "stop_name_zh": "將軍澳墳場"
@@ -101133,8 +100629,6 @@
         "stop_name_zh": "風釆中學"
       },
       "CH38A10000": {
-        "lat": 22.304726,
-        "long": 114.253849,
         "stop_name_en": "CHUI LING ROAD",
         "stop_name_wrap_en": "CHUI LING ROAD",
         "stop_name_zh": "翠嶺路"
@@ -104358,8 +103852,6 @@
         "stop_name_zh": "富山邨總站"
       },
       "FU04T10500": {
-        "lat": 22.343649,
-        "long": 114.207982,
         "stop_name_en": "FU SHAN ESTATE BUS TERMINUS",
         "stop_name_wrap_en": "FU SHAN ESTATE|BUS TERMINUS",
         "stop_name_zh": "富山邨總站"
@@ -111171,8 +110663,6 @@
         "stop_name_zh": "油塘中心"
       },
       "KO01S12000": {
-        "lat": 22.29525,
-        "long": 114.240333,
         "stop_name_en": "KO CHIU ROAD",
         "stop_name_wrap_en": "KO CHIU ROAD",
         "stop_name_zh": "高超道"
@@ -115253,8 +114743,6 @@
         "stop_name_zh": "聖安當女書院"
       },
       "LE03E16300": {
-        "lat": 22.2998,
-        "long": 114.238709,
         "stop_name_en": "LEI YUE MUN ROAD",
         "stop_name_wrap_en": "LEI YUE MUN ROAD",
         "stop_name_zh": "鯉魚門道"
@@ -116891,8 +116379,6 @@
         "stop_name_zh": "鑽石山站"
       },
       "LU07N10500": {
-        "lat": 22.341459,
-        "long": 114.201054,
         "stop_name_en": "DIAMOND HILL STATION LUNG POON ST.",
         "stop_name_wrap_en": "DIAMOND HILL STATION|LUNG POON ST.",
         "stop_name_zh": "鑽石山站龍幡街"
@@ -141438,8 +140924,6 @@
         "stop_name_zh": "和興村"
       },
       "WO02T10000": {
-        "lat": 22.482439,
-        "long": 114.143218,
         "stop_name_en": "WO HOP SHEK",
         "stop_name_wrap_en": "WO HOP SHEK",
         "stop_name_zh": "和合石"
@@ -141457,8 +140941,6 @@
         "stop_name_zh": "和合石"
       },
       "WO02T11500": {
-        "lat": 22.482439,
-        "long": 114.143218,
         "stop_name_en": "WO HOP SHEK",
         "stop_name_wrap_en": "WO HOP SHEK",
         "stop_name_zh": "和合石"
