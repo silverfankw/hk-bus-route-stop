@@ -34056,8 +34056,8 @@
         "orig_tc": "保泰街",
         "route": "43X",
         "service_type": "2",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Originate from Po Tai Street bus stop",
+        "special_remark_tc": "由保泰街站開出",
         "stops": [
           "PO18W12000",
           "NI01W10000",
@@ -34709,8 +34709,8 @@
         "orig_tc": "水泉澳",
         "route": "47A",
         "service_type": "3",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Omit Shatin Central Bus Terminus",
+        "special_remark_tc": "不停沙田市中心總站",
         "stops": [
           "SH33T12000",
           "TO11E10000",
@@ -34849,8 +34849,8 @@
         "orig_tc": "新田圍",
         "route": "47X",
         "service_type": "4",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Originate from Sun Tin Wai Bus Terminus",
+        "special_remark_tc": "由新田圍總站開出",
         "stops": [
           "SU04T11000",
           "SH08N12000",
@@ -35311,8 +35311,8 @@
         "orig_tc": "碩門邨",
         "route": "49X",
         "service_type": "2",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Originate from Shek Mun Estate Bus Terminus",
+        "special_remark_tc": "由碩門?總站開出",
         "stops": [
           "SH31T10000",
           "TA02S10800",
@@ -35341,8 +35341,8 @@
         "orig_tc": "廣源",
         "route": "49X",
         "service_type": "3",
-        "special_remark_en": "omit Shatin Central Bus Terminus",
-        "special_remark_tc": "不經沙田市中心",
+        "special_remark_en": "Omit Shatin Central Bus Terminus",
+        "special_remark_tc": "不經沙田市中心總站",
         "stops": [
           "KW07T11000",
           "SI02W12500",
@@ -38911,7 +38911,6 @@
           "NA04E10500",
           "KW11E10750",
           "KW11E11000",
-          "KW14N10000",
           "PL01W10000",
           "NA05N11500",
           "NA05N12000",
@@ -38951,8 +38950,6 @@
           "NA05S10000",
           "NA05S10500",
           "PL01E10500",
-          "KW14S10000",
-          "TA21N26950",
           "NA05S11500",
           "HE04W10500",
           "NA04E10000",
@@ -39005,10 +39002,6 @@
           "NA05S10000",
           "NA05S10500",
           "NA05S11000",
-          "TA10T12500",
-          "TA10T13500",
-          "PL01E11000",
-          "KW14S10000",
           "TA10T12500",
           "TA10T13000",
           "NA05N11000",
@@ -39795,8 +39788,7 @@
         "special_remark_en": "Normal",
         "special_remark_tc": "",
         "stops": [
-          "PL01E11500",
-          "KW14S10000",
+          "TA21S12000",
           "CH41S09000",
           "CH41S09500",
           "CH41S10000",
@@ -40052,8 +40044,7 @@
           "TI08W19500",
           "TI08W20000",
           "NA05S10000",
-          "PL01E11500",
-          "KW14S10000",
+          "TA21S12000",
           "SH23W12500",
           "WO04S10000",
           "WO04S10600",
@@ -40184,8 +40175,7 @@
           "ON01S10500",
           "KW11E10500",
           "KW11E11000",
-          "PL01E11500",
-          "KW14S10000",
+          "TA21S12000",
           "SH23W11500",
           "WO04S10250",
           "WO04S10500",
@@ -41433,8 +41423,7 @@
           "TA07T14000",
           "ON01S10000",
           "PL01E10000",
-          "PL01E11000",
-          "KW14S10000",
+          "TA21S12000",
           "TA38S10000",
           "CH16W16000",
           "LU05W16000",
@@ -42889,8 +42878,8 @@
         "orig_tc": "新田圍",
         "route": "80X",
         "service_type": "3",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Originate from Sun Tin Wai Bus Terminus",
+        "special_remark_tc": "由新田圍總站開出",
         "stops": [
           "SU04T11000",
           "SH08N12000",
@@ -43129,7 +43118,7 @@
         "orig_tc": "穗禾苑",
         "route": "81K",
         "service_type": "2",
-        "special_remark_en": "Via Chun Yeung Estate, omit Shan Mei Street and Sh",
+        "special_remark_en": "Via Chun Yeung Estate",
         "special_remark_tc": "經駿洋邨",
         "stops": [
           "SU01T10500",
@@ -43230,7 +43219,7 @@
         "orig_tc": "香港科學園",
         "route": "82C",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "SC03N11500",
@@ -43289,7 +43278,7 @@
         "orig_tc": "大圍站",
         "route": "82D",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "TA11T16000",
@@ -43311,7 +43300,7 @@
         "orig_tc": "白石角",
         "route": "82D",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "PO24S09000",
@@ -43506,8 +43495,8 @@
         "orig_tc": "碩門邨",
         "route": "83K",
         "service_type": "2",
-        "special_remark_en": "Special Departures from Shek Mun on Weekdays",
-        "special_remark_tc": "特別班次：平日早上由碩門開出",
+        "special_remark_en": "Originate from Shek Mun Estate Bus Terminus",
+        "special_remark_tc": "由碩門?總站開出",
         "stops": [
           "SH31T10000",
           "SI02W13500",
@@ -43628,8 +43617,8 @@
         "orig_tc": "觀塘碼頭",
         "route": "83X",
         "service_type": "2",
-        "special_remark_en": "Special Departures to Wong Nai Tai on Weekdays Mor",
-        "special_remark_tc": "特別班次：平日早上開往黃泥頭總站班次",
+        "special_remark_en": "Special Departures to Wong Nai Tau Bus Terminus",
+        "special_remark_tc": "短程往黃泥頭巴士總站",
         "stops": [
           "KW12T15500",
           "KI03N10500",
@@ -43687,8 +43676,8 @@
         "orig_tc": "黃泥頭",
         "route": "83X",
         "service_type": "2",
-        "special_remark_en": "Special Departures from Wong Nai Tai on Weekdays M",
-        "special_remark_tc": "特別班次：平日早上由黃泥頭總站開出",
+        "special_remark_en": "Originate from Wong Nai Tau Bus Terminus",
+        "special_remark_tc": "由黃泥頭巴士總站開出",
         "stops": [
           "WO03T11500",
           "SI02W12000",
@@ -44694,8 +44683,8 @@
         "orig_tc": "馬鞍山市中心",
         "route": "86S",
         "service_type": "2",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Originate from Ma On Shan Town Centre Bus Terminus",
+        "special_remark_tc": "由馬鞍山市中心巴士總站開出",
         "stops": [
           "SA03N18000",
           "HA03E10500",
@@ -44802,7 +44791,7 @@
         "orig_tc": "紅磡站",
         "route": "87C",
         "service_type": "1",
-        "special_remark_en": "omit Waterloo Road, Tai Chung Kiu Road and A Kung",
+        "special_remark_en": "Omit Waterloo Road, Tai Chung Kiu Road and A Kung",
         "special_remark_tc": "特快不停窩打老道，大涌橋路及亞公角街各站",
         "stops": [
           "HU03T13000",
@@ -44839,7 +44828,7 @@
         "orig_tc": "錦英苑",
         "route": "87C",
         "service_type": "1",
-        "special_remark_en": "omit A Kung Kok Street and Tai Chung Kiu Road",
+        "special_remark_en": "Omit A Kung Kok Street and Tai Chung Kiu Road",
         "special_remark_tc": "特快不經亞公角街及大涌橋路",
         "stops": [
           "KA03T10500",
@@ -44961,7 +44950,7 @@
         "orig_tc": "馬鞍山市中心",
         "route": "87D",
         "service_type": "3",
-        "special_remark_en": "omit Hang Tak Street and A Kung Kok Street",
+        "special_remark_en": "Omit Hang Tak Street and A Kung Kok Street",
         "special_remark_tc": "不經恆德街及亞公角街",
         "stops": [
           "MA01T13000",
@@ -44995,7 +44984,7 @@
         "orig_tc": "錦英苑",
         "route": "87D",
         "service_type": "4",
-        "special_remark_en": "omit Ma On Shan Town Centre Bus Terminus",
+        "special_remark_en": "Omit Ma On Shan Town Centre Bus Terminus",
         "special_remark_tc": "不經馬鞍山市中心",
         "stops": [
           "KA03T10500",
@@ -45158,8 +45147,8 @@
         "orig_tc": "錦英苑",
         "route": "87K",
         "service_type": "3",
-        "special_remark_en": "Sp. Dept from Kam Ying",
-        "special_remark_tc": "錦英特別班",
+        "special_remark_en": "Originate from Kam Ying",
+        "special_remark_tc": "由錦英開出",
         "stops": [
           "KA07E10500",
           "KA07E11500",
@@ -45180,8 +45169,8 @@
         "orig_tc": "馬鞍山市中心",
         "route": "87K",
         "service_type": "4",
-        "special_remark_en": "Sp. Dept from Ma On Shan Town Centre",
-        "special_remark_tc": "馬鞍山市中心特別班",
+        "special_remark_en": "Originate from Ma On Shan Town Centre",
+        "special_remark_tc": "由馬鞍山市中心開出",
         "stops": [
           "MA01T13000",
           "CH19T10000",
@@ -45238,7 +45227,7 @@
         "orig_tc": "紅磡香港體育館",
         "route": "87R",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "HO05T10750",
@@ -45267,7 +45256,7 @@
         "route": "87S",
         "service_type": "1",
         "special_remark_en": "",
-        "special_remark_tc": "(上午往大學站循環線)",
+        "special_remark_tc": "",
         "stops": [
           "KA07E10500",
           "KA07E11500",
@@ -45288,7 +45277,7 @@
         "route": "87S",
         "service_type": "1",
         "special_remark_en": "",
-        "special_remark_tc": "(下午往錦英苑循環線)",
+        "special_remark_tc": "",
         "stops": [
           "UN01T10750",
           "MA02N02000",
@@ -45308,8 +45297,8 @@
         "orig_tc": "大圍站",
         "route": "88",
         "service_type": "1",
-        "special_remark_en": "VIA:  TATE'S CARIN TUNNEL, ON TAI",
-        "special_remark_tc": "經大老山隧道及安泰",
+        "special_remark_en": "Via Sha Tin Central and Tate's Cairn Tunnel",
+        "special_remark_tc": "經 沙田市中心及大老山轉車站",
         "stops": [
           "TA11T13000",
           "ME02W12300",
@@ -45343,8 +45332,8 @@
         "orig_tc": "中秀茂坪",
         "route": "88",
         "service_type": "1",
-        "special_remark_en": "VIA: ON TAI AND TATE'S CARIN TUNNEL",
-        "special_remark_tc": "經安泰及大老山隧道",
+        "special_remark_en": "Via Tate's Cairn Tunnel and Sha Tin Central",
+        "special_remark_tc": "經 大老山轉車站及沙田市中心",
         "stops": [
           "SA06T11500",
           "SA14S31500",
@@ -45437,7 +45426,7 @@
         "route": "88X",
         "service_type": "1",
         "special_remark_en": "Via Kowloon Bay",
-        "special_remark_tc": "經九龍灣",
+        "special_remark_tc": "常規班次經九龍灣",
         "stops": [
           "PI03T12500",
           "LA06T08500",
@@ -45479,7 +45468,7 @@
         "route": "88X",
         "service_type": "2",
         "special_remark_en": "Via Kwun Tong Bypass",
-        "special_remark_tc": "經觀塘繞道",
+        "special_remark_tc": "特別班次經觀塘繞道",
         "stops": [
           "PI03T12500",
           "LA06T08500",
@@ -45516,8 +45505,8 @@
         "orig_tc": "穗禾苑",
         "route": "88X",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Via Kwun Tong Bypass",
+        "special_remark_tc": "常規班次經觀塘繞道",
         "stops": [
           "SU01T10000",
           "SU01N10000",
@@ -45554,7 +45543,7 @@
         "route": "88X",
         "service_type": "2",
         "special_remark_en": "Via Kowloon Bay",
-        "special_remark_tc": "經九龍灣",
+        "special_remark_tc": "特別班次經九龍灣",
         "stops": [
           "SU01T10000",
           "SU01N10000",
@@ -45795,7 +45784,7 @@
         "orig_tc": "恆安",
         "route": "89C",
         "service_type": "2",
-        "special_remark_en": "omit Tai Chung Kiu Road, Siu Lek Yuen Road, Hammer",
+        "special_remark_en": "Omit Tai Chung Kiu Road, Siu Lek Yuen Road, Hammer",
         "special_remark_tc": "不經大涌橋路、小瀝源道、斧山道、彩虹通道及太子道",
         "stops": [
           "HE01T11000",
@@ -45864,7 +45853,7 @@
         "orig_tc": "藍田站",
         "route": "89D",
         "service_type": "2",
-        "special_remark_en": "omit Choi Hung",
+        "special_remark_en": "Omit Choi Hung",
         "special_remark_tc": "不經彩虹",
         "stops": [
           "LA08T11500",
@@ -45961,8 +45950,8 @@
         "orig_tc": "恒康街",
         "route": "89P",
         "service_type": "2",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Originate from Yiu Him House Stop",
+        "special_remark_tc": "由耀謙樓站開出",
         "stops": [
           "HA03E11000",
           "HA04S05000",
@@ -45985,8 +45974,8 @@
         "orig_tc": "馬鞍山市中心",
         "route": "89P",
         "service_type": "3",
-        "special_remark_en": "Omit A Kung Kok",
-        "special_remark_tc": "不經亞公角",
+        "special_remark_en": "Originate from MOS Town Centre B/T",
+        "special_remark_tc": "由馬鞍山市中心總站開出",
         "stops": [
           "SA03N19000",
           "SA03N19700",
@@ -46008,7 +45997,7 @@
         "orig_tc": "烏溪沙站",
         "route": "89S",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "WU01T11750",
@@ -46047,7 +46036,7 @@
         "orig_tc": "水泉澳",
         "route": "89S",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "SH33T13000",
@@ -46086,8 +46075,8 @@
         "orig_tc": "水泉澳",
         "route": "89S",
         "service_type": "2",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Originate from Sui Chuen O Bus Terminus",
+        "special_remark_tc": "由水泉澳總站開出",
         "stops": [
           "SH33T13000",
           "TO11E10000",
@@ -46799,8 +46788,8 @@
         "orig_tc": "旺角東站",
         "route": "93K",
         "service_type": "1",
-        "special_remark_en": "Terminus Changed to Tsui Lam",
-        "special_remark_tc": "本路線由2026年8月24日起改以翠林為總站",
+        "special_remark_en": "",
+        "special_remark_tc": "",
         "stops": [
           "MO01T12000",
           "LU03N10500",
@@ -46848,8 +46837,8 @@
         "orig_tc": "翠林",
         "route": "93K",
         "service_type": "1",
-        "special_remark_en": "Terminus Changed to Tsui Lam",
-        "special_remark_tc": "本路線由2026年8月24日起改由翠林開出",
+        "special_remark_en": "",
+        "special_remark_tc": "",
         "stops": [
           "TS13T10000",
           "HO03T10000",
@@ -48116,8 +48105,8 @@
         "orig_tc": "紅磡香港體育館",
         "route": "98R",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "HO05T10750",
           "SA13W10250",
@@ -48619,8 +48608,8 @@
         "orig_tc": "跑馬地馬場",
         "route": "101R",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "HA05T10000",
           "HO06N10500",
@@ -52873,8 +52862,8 @@
         "orig_tc": "紅磡香港體育館",
         "route": "215R",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "HO05T10750",
           "KW16E20750",
@@ -53159,8 +53148,8 @@
         "orig_tc": "紅磡香港體育館",
         "route": "224R",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "HO05T10750",
           "SH42N09300",
@@ -59383,7 +59372,7 @@
         "orig_tc": "紅磡站",
         "route": "271S",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "HU03T12500",
@@ -59508,8 +59497,8 @@
         "orig_tc": "白石角",
         "route": "272A",
         "service_type": "3",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Originate from Pak Shek Kok Bus Terminus",
+        "special_remark_tc": "由白石角總站開出",
         "stops": [
           "PA04T10000",
           "FO04S10000",
@@ -60617,8 +60606,7 @@
           "TA07T14000",
           "ON01S10000",
           "PL01E10000",
-          "PL01E11000",
-          "KW14S10000",
+          "TA21S12000",
           "TA38S10000",
           "PR01W11500",
           "PR01W12500",
@@ -61856,8 +61844,8 @@
         "orig_tc": "駿景園",
         "route": "280X",
         "service_type": "2",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Originate from Royal Ascot Bus Terminus",
+        "special_remark_tc": "由駿景園總站開出",
         "stops": [
           "LO06S10000",
           "LO02S10000",
@@ -62210,7 +62198,7 @@
         "orig_tc": "火炭站",
         "route": "285A",
         "service_type": "2",
-        "special_remark_en": "Terminated at Chun Yeung Estate",
+        "special_remark_en": "Terminate at Chun Yeung Estate",
         "special_remark_tc": "以駿洋邨為尾站",
         "stops": [
           "FO02T10000",
@@ -62245,8 +62233,8 @@
         "orig_tc": "沙田圍",
         "route": "286A",
         "service_type": "1",
-        "special_remark_en": "Daily 05:30-10:15",
-        "special_remark_tc": "每日早上 05:30-10:15 提供服務",
+        "special_remark_en": "",
+        "special_remark_tc": "",
         "stops": [
           "SH08T10000",
           "SH01S12000",
@@ -62361,7 +62349,7 @@
         "orig_tc": "深水埗(欽州街)",
         "route": "286D",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "SH19T11500",
@@ -62395,7 +62383,7 @@
         "orig_tc": "馬鞍山市中心",
         "route": "286D",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "MA01T11000",
@@ -62499,7 +62487,7 @@
         "orig_tc": "顯徑",
         "route": "286X",
         "service_type": "2",
-        "special_remark_en": "Omit Mei Tin / Mei Lam",
+        "special_remark_en": "Omit Mei Tin & Mei Lam",
         "special_remark_tc": "不入美田美林",
         "stops": [
           "HI01T12500",
@@ -62860,7 +62848,7 @@
         "orig_tc": "濱景花園",
         "route": "288D",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "ON02N07000",
@@ -62913,7 +62901,7 @@
         "orig_tc": "富安花園",
         "route": "289K",
         "service_type": "2",
-        "special_remark_en": "depart from Chevalier Garden",
+        "special_remark_en": "Originate from Chevalier Garden",
         "special_remark_tc": "由富安花園開出",
         "stops": [
           "CH09T05000",
@@ -63650,8 +63638,8 @@
         "orig_tc": "美孚",
         "route": "293S",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Late Night Special Service",
+        "special_remark_tc": "深宵特別線",
         "stops": [
           "ME01T15000",
           "CH11S13500",
@@ -63692,8 +63680,8 @@
         "orig_tc": "坑口(銀澳路)",
         "route": "293S",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Early Morning Special Service",
+        "special_remark_tc": "清晨特別線",
         "stops": [
           "NG07W10000",
           "PU02W10500",
@@ -65146,8 +65134,8 @@
         "orig_tc": "中環(林士街)",
         "route": "600X",
         "service_type": "1",
-        "special_remark_en": "With effective from 14/9/2026.",
-        "special_remark_tc": "由2026年9月14日起提供服務",
+        "special_remark_en": "Rapid Service - Omit Fortress Hill and North Point",
+        "special_remark_tc": "特快線 - 不經炮台山及北角",
         "stops": [
           "CE01T10000",
           "CO03E10900",
@@ -65185,8 +65173,8 @@
         "orig_tc": "安達臣",
         "route": "600X",
         "service_type": "1",
-        "special_remark_en": "With effective from 14/9/2026.",
-        "special_remark_tc": "由2026年9月14日起提供服務",
+        "special_remark_en": "Rapid Service - Omit North Point and Fortress Hill",
+        "special_remark_tc": "特快線 - 不經北角及炮台山",
         "stops": [
           "AN01T10500",
           "ON19A10000",
@@ -65224,7 +65212,7 @@
         "stops": [
           "AD02T30000",
           "HE02E12750",
-          "HE02E15250",
+          "HE02E15000",
           "HE02E16250",
           "HE02E17400",
           "HE02E18500",
@@ -65311,7 +65299,7 @@
           "DE02E16500",
           "QU04E10000",
           "HE02E12750",
-          "HE02E15250",
+          "HE02E15000",
           "HE02E16250",
           "HE02E17400",
           "HE02E18500",
@@ -66501,7 +66489,7 @@
           "CO03E12000",
           "QU04E11000",
           "HE02E10500",
-          "HE02E15000",
+          "HE02E15250",
           "HE02E16100",
           "HE02E17250",
           "HE02E18750",
@@ -67447,7 +67435,7 @@
           "DE02E15500",
           "QU04E11000",
           "HE02E12750",
-          "HE02E15000",
+          "HE02E15250",
           "HE02E16100",
           "HE02E17300",
           "HE02E18750",
@@ -67604,7 +67592,7 @@
           "DE02E15500",
           "QU04E11000",
           "HE02E12750",
-          "HE02E15000",
+          "HE02E15250",
           "HE02E16100",
           "HE02E17300",
           "HE02E18750",
@@ -67793,7 +67781,7 @@
         "orig_tc": "沙田馬場",
         "route": "872X",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "SH07T13500",
@@ -67855,8 +67843,8 @@
         "orig_tc": "沙田馬場",
         "route": "889",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "SH07T12000",
           "LU05E11500",
@@ -67895,8 +67883,8 @@
         "orig_tc": "沙田馬場",
         "route": "891",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "SH07T11000",
           "LU05E11500",
@@ -67922,8 +67910,8 @@
         "orig_tc": "沙田馬場",
         "route": "893",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "SH07T12000",
           "TA38S11000",
@@ -68368,7 +68356,7 @@
           "CH04E10500",
           "QU04E11000",
           "HE02E11000",
-          "HE02E15000",
+          "HE02E15500",
           "FL01N10250"
         ]
       },
@@ -68446,7 +68434,7 @@
           "CO03E11200",
           "CO05W07000",
           "HE02E12600",
-          "HE02E15500",
+          "HE02E15350",
           "HE02E17000",
           "HE02E18800",
           "YE03E12250",
@@ -69233,7 +69221,7 @@
           "CO09E10000",
           "CO05W07000",
           "HE02E12600",
-          "HE02E15500",
+          "HE02E15350",
           "HE02E17000",
           "HE02E18800",
           "YE03E12250",
@@ -69272,7 +69260,7 @@
           "CO09E10000",
           "CO05W07000",
           "HE02E12600",
-          "HE02E15500",
+          "HE02E15350",
           "HE02E17000",
           "HE02E18800",
           "YE03E12250",
@@ -69308,7 +69296,7 @@
           "CO09E10000",
           "CO05W07000",
           "HE02E12600",
-          "HE02E15500",
+          "HE02E15350",
           "HE02E17000",
           "HE02E18800",
           "YE03E12250",
@@ -69408,7 +69396,7 @@
           "CO03E11200",
           "CO05W07000",
           "HE02E12600",
-          "HE02E15500",
+          "HE02E15350",
           "HE02E17000",
           "HE02E18800",
           "YE03E12250",
@@ -69439,7 +69427,7 @@
           "CO03E11200",
           "CO05W07000",
           "HE02E12600",
-          "HE02E15500",
+          "HE02E15350",
           "HE02E17000",
           "HE02E18800",
           "YE03E12250",
@@ -70651,8 +70639,8 @@
         "orig_tc": "金鐘站(東)",
         "route": "980X",
         "service_type": "2",
-        "special_remark_en": "To Sai Sha Residence",
-        "special_remark_tc": "往西沙灣",
+        "special_remark_en": "Terminate at Sai Sha Residence",
+        "special_remark_tc": "以西沙灣為終點站",
         "stops": [
           "AD02T20000",
           "CO03W09000",
@@ -70703,7 +70691,7 @@
           "CH04E10500",
           "QU04E11000",
           "HE02E11000",
-          "HE02E15000"
+          "HE02E15500"
         ]
       },
       {
@@ -70714,8 +70702,8 @@
         "orig_tc": "西沙灣交通交匯處",
         "route": "980X",
         "service_type": "2",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Originate from Sai Sha Residence",
+        "special_remark_tc": "由西沙灣開出",
         "stops": [
           "HO16T10000",
           "SA03N13500",
@@ -70736,7 +70724,7 @@
           "CH04E10500",
           "QU04E11000",
           "HE02E11000",
-          "HE02E15000"
+          "HE02E15500"
         ]
       },
       {
@@ -70798,7 +70786,7 @@
           "CH04E10500",
           "QU04E11000",
           "HE02E11000",
-          "HE02E15000"
+          "HE02E15500"
         ]
       },
       {
@@ -70836,8 +70824,8 @@
         "orig_tc": "愉翠苑",
         "route": "982X",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Originate from Yu Chui Court Bus Terminus",
+        "special_remark_tc": "由愉翠苑總站開出",
         "stops": [
           "YU05T10500",
           "SH09W10500",
@@ -70853,7 +70841,7 @@
           "CH04E10500",
           "QU04E11000",
           "HE02E11000",
-          "HE02E15000"
+          "HE02E15500"
         ]
       },
       {
@@ -70864,8 +70852,8 @@
         "orig_tc": "水泉澳",
         "route": "982X",
         "service_type": "2",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Originate from Shui Chuen O Bus Terminus",
+        "special_remark_tc": "由水泉澳總站開出",
         "stops": [
           "SH33T10000",
           "PO21N12000",
@@ -70881,7 +70869,7 @@
           "CH04E10500",
           "QU04E11000",
           "HE02E11000",
-          "HE02E15000"
+          "HE02E15500"
         ]
       },
       {
@@ -70892,7 +70880,7 @@
         "orig_tc": "金鐘站(東)",
         "route": "985",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "AD02T10000",
@@ -70923,7 +70911,7 @@
         "orig_tc": "美田(美致樓)",
         "route": "985",
         "service_type": "1",
-        "special_remark_en": "Normal",
+        "special_remark_en": "",
         "special_remark_tc": "",
         "stops": [
           "HE05E10000",
@@ -70945,7 +70933,7 @@
           "CH04E10750",
           "QU04E10000",
           "HE02E11000",
-          "HE02E15500",
+          "HE02E15350",
           "HE02E17000",
           "HE02E18500"
         ]
@@ -70974,7 +70962,7 @@
           "CH04E10750",
           "QU04E10000",
           "HE02E11000",
-          "HE02E15500",
+          "HE02E15350",
           "HE02E17000",
           "HE02E18500"
         ]
@@ -71003,7 +70991,7 @@
           "CH04E10750",
           "QU04E10000",
           "HE02E11000",
-          "HE02E15500",
+          "HE02E15350",
           "HE02E17000",
           "HE02E18500"
         ]
@@ -75286,8 +75274,8 @@
         "orig_tc": "慈雲山(中)",
         "route": "N3D",
         "service_type": "1",
-        "special_remark_en": "Normal",
-        "special_remark_tc": "",
+        "special_remark_en": "Early Morning Special Service",
+        "special_remark_tc": "清晨特別線",
         "stops": [
           "TS20T10500",
           "TS15E10500",
@@ -75314,8 +75302,8 @@
         "orig_tc": "觀塘(裕民坊)",
         "route": "N3D",
         "service_type": "1",
-        "special_remark_en": "Normal",
-        "special_remark_tc": "",
+        "special_remark_en": "Late Night Special Service",
+        "special_remark_tc": "深宵特別線",
         "stops": [
           "KW16T11500",
           "KW16W14500",
@@ -75825,75 +75813,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "YU CHUI COURT",
-        "dest_tc": "愉翠苑",
-        "orig_en": "TSUEN WAN (BAYVIEW GARDEN)",
-        "orig_tc": "荃灣(灣景花園)",
-        "route": "N48",
-        "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
-        "stops": [
-          "BA01T10000",
-          "CA07S44900",
-          "CA07S45500",
-          "TA03S10300",
-          "SH03E10000",
-          "TA10N11000",
-          "CA07S51000",
-          "CA07S52000",
-          "CA07S53000",
-          "CH13N10000",
-          "WO04N12500",
-          "WO04N13000",
-          "WO04N13500",
-          "WO04N14000",
-          "SH23E10000",
-          "SH05T11750",
-          "YU05N10700",
-          "YU05N12000",
-          "NG03E10500",
-          "NG03E11500",
-          "CH03N10500",
-          "YU05T12000"
-        ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "TSUEN WAN (BAYVIEW GARDEN)",
-        "dest_tc": "荃灣(灣景花園)",
-        "orig_en": "YU CHUI COURT",
-        "orig_tc": "愉翠苑",
-        "route": "N48",
-        "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
-        "stops": [
-          "YU05T12000",
-          "NG03W11000",
-          "NG03W12700",
-          "TA02S11500",
-          "YU05S10000",
-          "YU05S12000",
-          "SH05T02000",
-          "SH23W10000",
-          "WO04S10000",
-          "WO04S10500",
-          "WO04S11000",
-          "CH13S10000",
-          "CA07N13000",
-          "CA07N13500",
-          "CA07N14500",
-          "CA07N17000",
-          "CA07N18000",
-          "CA07N21750",
-          "CA07N22000",
-          "LA10N10000",
-          "BA01T10000"
-        ]
-      },
-      {
         "bound": "O",
         "dest_en": "TUNG CHUNG (YAT TUNG)",
         "dest_tc": "東涌(逸東)",
@@ -75928,13 +75847,13 @@
       {
         "bound": "O",
         "dest_en": "NG TUNG CHAI (PAK NGAU SHEK)",
-        "dest_tc": "梧桐寨 (白牛石)",
+        "dest_tc": "梧桐寨(白牛石)",
         "orig_en": "TAI PO MARKET STATION",
         "orig_tc": "大埔墟站",
         "route": "N64P",
         "service_type": "1",
-        "special_remark_en": "On 26/9/2026 mid-night only",
-        "special_remark_tc": "只於 26/9/2026 凌晨　提供服務",
+        "special_remark_en": "",
+        "special_remark_tc": "",
         "stops": [
           "TA10T10000",
           "WA09N10000",
@@ -76237,8 +76156,8 @@
         "orig_tc": "牛頭角",
         "route": "N121",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "NG01T12000",
           "NG05W13500",
@@ -76280,8 +76199,8 @@
         "orig_tc": "中環(港澳碼頭)",
         "route": "N121",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "MA02T11000",
           "CO03E10050",
@@ -76429,8 +76348,8 @@
         "orig_tc": "華富(中)",
         "route": "N170",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "WA02T10000",
           "WA01N09500",
@@ -76480,8 +76399,8 @@
         "orig_tc": "沙田巿中心",
         "route": "N170",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "SH05T11200",
           "WA08E10000",
@@ -76615,8 +76534,8 @@
         "orig_tc": "中環(港澳碼頭)",
         "route": "N182",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "MA02T14000",
           "CO03E10030",
@@ -76670,8 +76589,8 @@
         "orig_tc": "廣源",
         "route": "N182",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "KW07T10500",
           "SI02W12000",
@@ -76718,8 +76637,8 @@
         "orig_tc": "尖沙咀東(麼地道)",
         "route": "N213",
         "service_type": "1",
-        "special_remark_en": "Normal",
-        "special_remark_tc": "",
+        "special_remark_en": "Late Night Special Service",
+        "special_remark_tc": "深宵特別線",
         "stops": [
           "TS27T11500",
           "SA06W11000",
@@ -76780,8 +76699,8 @@
         "orig_tc": "油塘",
         "route": "N214",
         "service_type": "1",
-        "special_remark_en": "Normal",
-        "special_remark_tc": "",
+        "special_remark_en": "Early Morning Special Service",
+        "special_remark_tc": "清晨特別線",
         "stops": [
           "YA06T11500",
           "KO01N10500",
@@ -76828,8 +76747,8 @@
         "orig_tc": "紅磡站",
         "route": "N216",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "HU03T12000",
           "CH08W10000",
@@ -76896,8 +76815,8 @@
         "orig_tc": "油塘",
         "route": "N216",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "YA06T11000",
           "KO01N10500",
@@ -76957,8 +76876,8 @@
         "orig_tc": "美孚",
         "route": "N237",
         "service_type": "1",
-        "special_remark_en": "Circular  Overnight Service",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "ME01T13000",
           "CA07N10000",
@@ -76995,7 +76914,7 @@
         "route": "N241",
         "service_type": "1",
         "special_remark_en": "Overnight Service",
-        "special_remark_tc": "",
+        "special_remark_tc": "通宵線",
         "stops": [
           "CH21T10000",
           "CH03T10500",
@@ -77064,7 +76983,7 @@
         "route": "N241",
         "service_type": "1",
         "special_remark_en": "Overnight Service",
-        "special_remark_tc": "",
+        "special_remark_tc": "通宵線",
         "stops": [
           "HU03T10500",
           "CH08W10000",
@@ -77204,8 +77123,8 @@
         "orig_tc": "美孚",
         "route": "N260",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "ME01T10000",
           "LA03N18000",
@@ -77255,8 +77174,8 @@
         "orig_tc": "屯門碼頭",
         "route": "N260",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "TU01T11000",
           "WU03W10000",
@@ -77304,8 +77223,8 @@
         "orig_tc": "美孚",
         "route": "N269",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "ME01T11000",
           "LA03N18000",
@@ -77355,8 +77274,8 @@
         "orig_tc": "天慈",
         "route": "N269",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "TI05T09500",
           "TI21E10000",
@@ -77407,8 +77326,8 @@
         "orig_tc": "紅磡站",
         "route": "N271",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "HU03T12500",
           "CH08W10000",
@@ -77456,8 +77375,8 @@
         "orig_tc": "大埔(富亨)",
         "route": "N271",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "FU01T13000",
           "FU03T12000",
@@ -77533,8 +77452,8 @@
         "orig_tc": "紅磡站",
         "route": "N281",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "HU03T13000",
           "CH08W10000",
@@ -77595,8 +77514,8 @@
         "orig_tc": "錦英苑",
         "route": "N281",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "KA03T10500",
           "KA07E12500",
@@ -77658,8 +77577,8 @@
         "orig_tc": "尖沙咀東(麼地道)",
         "route": "N283",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Midnight Service",
+        "special_remark_tc": "深宵線",
         "stops": [
           "TS27T10000",
           "SA06W11500",
@@ -77698,8 +77617,8 @@
         "orig_tc": "尖沙咀東(麼地道)",
         "route": "N287",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Midnight Service",
+        "special_remark_tc": "深宵線",
         "stops": [
           "TS27T10000",
           "SA06W11500",
@@ -77741,8 +77660,8 @@
         "orig_tc": "康城站",
         "route": "N290",
         "service_type": "1",
-        "special_remark_en": "Normal",
-        "special_remark_tc": "",
+        "special_remark_en": "Early Morning Special Service",
+        "special_remark_tc": "清晨特別線",
         "stops": [
           "LO09T10500",
           "WA21S10000",
@@ -77804,8 +77723,8 @@
         "orig_tc": "荃灣西站",
         "route": "N290",
         "service_type": "1",
-        "special_remark_en": "Normal",
-        "special_remark_tc": "",
+        "special_remark_en": "Late Night Special Service",
+        "special_remark_tc": "深宵特別線",
         "stops": [
           "TS24T22000",
           "TA10N10000",
@@ -77868,8 +77787,8 @@
         "orig_tc": "旺角(柏景灣)",
         "route": "N293",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "MO02T12500",
           "CH09E09500",
@@ -77925,8 +77844,8 @@
         "orig_tc": "尚德",
         "route": "N293",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "SH23T10500",
           "TO10S10000",
@@ -78297,8 +78216,8 @@
         "orig_tc": "中環(港澳碼頭)",
         "route": "N619",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "MA02T13000",
           "CO03E10030",
@@ -78343,8 +78262,8 @@
         "orig_tc": "順利",
         "route": "N619",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "SH16T10500",
           "SH31E09000",
@@ -78389,8 +78308,8 @@
         "orig_tc": "中環(港澳碼頭)",
         "route": "N680",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "MA02T10000",
           "CO03E10050",
@@ -78436,8 +78355,8 @@
         "orig_tc": "錦英苑",
         "route": "N680",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "KA03T10000",
           "KA07E12500",
@@ -78485,8 +78404,8 @@
         "orig_tc": "中環(港澳碼頭)",
         "route": "N691",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "MA02T11000",
           "CO03E10050",
@@ -78541,8 +78460,8 @@
         "orig_tc": "調景嶺",
         "route": "N691",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "Overnight Service",
+        "special_remark_tc": "通宵線",
         "stops": [
           "KI06S10500",
           "TO06E09500",
@@ -80419,22 +80338,22 @@
         "orig_tc": "康盛花園",
         "route": "R298",
         "service_type": "1",
-        "special_remark_en": "Service on 18. 1. 2026 only",
-        "special_remark_tc": "只於2026年1月18日提供服務",
+        "special_remark_en": "",
+        "special_remark_tc": "馬拉松特別路線",
         "stops": [
-          "HO03T11000",
+          "HO03T10500",
           "PO05E10000",
-          "PO05E10250",
+          "PO05E10500",
           "PO05E11000",
           "PO05E11500",
           "YA03E10500",
           "PO05E12500",
-          "PO06W12000",
-          "CH24E09500",
+          "PO06E10000",
+          "CH24E10000",
           "NG07E10000",
           "TS22W11000",
           "CH06S11000",
-          "TS27T12000"
+          "TS27T14000"
         ]
       },
       {
@@ -81002,8 +80921,8 @@
         "orig_tc": "啟德體育園",
         "route": "SP1",
         "service_type": "1",
-        "special_remark_en": "Service on specific day only",
-        "special_remark_tc": "只於指定日期提供服務",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "KA11T11500",
           "KW16E19000",
@@ -81194,8 +81113,8 @@
         "orig_tc": "啟德體育園",
         "route": "SP10",
         "service_type": "1",
-        "special_remark_en": "Service on specific day only",
-        "special_remark_tc": "只於指定日期提供服務",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "KA11T12500",
           "HO06S13010",
@@ -81297,8 +81216,8 @@
         "orig_tc": "美田",
         "route": "T80",
         "service_type": "1",
-        "special_remark_en": "Morning Peak Monday to Friday Departure from Mei T",
-        "special_remark_tc": "星期一至五 早上繁忙時間 由美田開出",
+        "special_remark_en": "Originate from Mei Tin Bus Terminus",
+        "special_remark_tc": "由美田總站開出",
         "stops": [
           "ME03T11000",
           "HE05E10000",
@@ -81325,8 +81244,8 @@
         "orig_tc": "顯徑",
         "route": "T80",
         "service_type": "2",
-        "special_remark_en": "Departure from Hin Keng",
-        "special_remark_tc": "由顯徑開出",
+        "special_remark_en": "Originate from Hin Keng Bus Terminus",
+        "special_remark_tc": "由顯徑總站開出",
         "stops": [
           "HI01T11000",
           "HI01N10000",
@@ -82199,7 +82118,7 @@
         "orig_tc": "泥涌",
         "route": "X89D",
         "service_type": "2",
-        "special_remark_en": "via Yiu Sha Road",
+        "special_remark_en": "Via Yiu Sha Road",
         "special_remark_tc": "經耀沙路",
         "stops": [
           "NA01T10000",
@@ -105329,6 +105248,13 @@
         "stop_name_wrap_en": "FLEMING ROAD",
         "stop_name_zh": "菲林明道"
       },
+      "HE02E15350": {
+        "lat": 22.277777,
+        "long": 114.173578,
+        "stop_name_en": "FLEMING ROAD",
+        "stop_name_wrap_en": "FLEMING ROAD",
+        "stop_name_zh": "菲林明道"
+      },
       "HE02E15500": {
         "lat": 22.277826,
         "long": 114.173943,
@@ -112321,8 +112247,6 @@
         "stop_name_zh": "觀塘站"
       },
       "KW14N10000": {
-        "lat": 22.447504,
-        "long": 114.174799,
         "stop_name_en": "WANG FUK COURT",
         "stop_name_wrap_en": "WANG FUK COURT",
         "stop_name_zh": "宏福苑"
@@ -112333,8 +112257,6 @@
         "stop_name_zh": "宏福苑"
       },
       "KW14S10000": {
-        "lat": 22.447412,
-        "long": 114.17486,
         "stop_name_en": "WANG FUK COURT",
         "stop_name_wrap_en": "WANG FUK COURT",
         "stop_name_zh": "宏福苑"
@@ -118845,14 +118767,14 @@
         "lat": 22.309248,
         "long": 114.171089,
         "stop_name_en": "7. KOWLOON CENTRAL POST OFFICE",
-        "stop_name_wrap_en": "KOWLOON CENTRAL|POST OFFICE",
+        "stop_name_wrap_en": "7. KOWLOON CENTRAL|POST OFFICE",
         "stop_name_zh": "7. 九龍中央郵局"
       },
       "NA06N26260": {
         "lat": 22.309248,
         "long": 114.171089,
         "stop_name_en": "7. KOWLOON CENTRAL POST OFFICE",
-        "stop_name_wrap_en": "KOWLOON CENTRAL|POST OFFICE",
+        "stop_name_wrap_en": "7. KOWLOON CENTRAL|POST OFFICE",
         "stop_name_zh": "7. 九龍中央郵局"
       },
       "NA06N26500": {
@@ -118873,7 +118795,7 @@
         "lat": 22.309296,
         "long": 114.171138,
         "stop_name_en": "KOWLOON CENTRAL POST OFFICE",
-        "stop_name_wrap_en": "7. KOWLOON CENTRAL|POST OFFICE",
+        "stop_name_wrap_en": "KOWLOON CENTRAL|POST OFFICE",
         "stop_name_zh": "九龍中央郵局"
       },
       "NA06N28500": {
@@ -122266,15 +122188,11 @@
         "stop_name_zh": "廣福街市"
       },
       "PL01E11000": {
-        "lat": 22.448743,
-        "long": 114.1747,
         "stop_name_en": "KWONG FUK MARKET",
         "stop_name_wrap_en": "KWONG FUK MARKET",
         "stop_name_zh": "廣福街市"
       },
       "PL01E11500": {
-        "lat": 22.448725,
-        "long": 114.174689,
         "stop_name_en": "KWONG FUK MARKET",
         "stop_name_wrap_en": "KWONG FUK MARKET",
         "stop_name_zh": "廣福街市"
@@ -131171,9 +131089,9 @@
       "ST01T01100": {
         "lat": 22.293816,
         "long": 114.168797,
-        "stop_name_en": "17. STAR FERRY",
+        "stop_name_en": "STAR FERRY",
         "stop_name_wrap_en": "STAR FERRY",
-        "stop_name_zh": "17. 尖沙咀碼頭"
+        "stop_name_zh": "尖沙咀碼頭"
       },
       "ST01T01100K1G": {
         "stop_name_en": "THANK YOU FOR TRAVELLING KMB TOUR HK HK1",
@@ -132170,8 +132088,6 @@
         "stop_name_zh": "大埔墟站"
       },
       "TA10T13500": {
-        "lat": 22.443832,
-        "long": 114.169137,
         "stop_name_en": "TAI PO MARKET STATION",
         "stop_name_wrap_en": "TAI PO MARKET|STATION",
         "stop_name_zh": "大埔墟站"
@@ -133059,8 +132975,6 @@
         "stop_name_zh": "廣福邨"
       },
       "TA21N26950": {
-        "lat": 22.446299,
-        "long": 114.173076,
         "stop_name_en": "KWONG FUK ESTATE",
         "stop_name_wrap_en": "KWONG FUK ESTATE",
         "stop_name_zh": "廣福邨"
