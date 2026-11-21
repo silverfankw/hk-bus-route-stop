@@ -75515,8 +75515,8 @@
         "orig_tc": "荃灣站",
         "route": "N36",
         "service_type": "1",
-        "special_remark_en": "Circular",
-        "special_remark_tc": "",
+        "special_remark_en": "Late Night Special Service",
+        "special_remark_tc": "深宵線",
         "stops": [
           "TS10T10000",
           "CA07S51000",
@@ -75545,8 +75545,8 @@
         "orig_tc": "荃灣站",
         "route": "N39",
         "service_type": "1",
-        "special_remark_en": "Normal",
-        "special_remark_tc": "",
+        "special_remark_en": "Late Night Special Service",
+        "special_remark_tc": "深宵線",
         "stops": [
           "TS10T10000",
           "CA07N16500",
@@ -75573,8 +75573,8 @@
         "orig_tc": "紅磡站",
         "route": "N41X",
         "service_type": "1",
-        "special_remark_en": "Normal",
-        "special_remark_tc": "",
+        "special_remark_en": "Late Night Special Service",
+        "special_remark_tc": "深宵線",
         "stops": [
           "HU03T10500",
           "CH08W10000",
@@ -81568,8 +81568,8 @@
         "orig_tc": "機場博覽館",
         "route": "X1",
         "service_type": "1",
-        "special_remark_en": "Normal",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "AI70E10002",
           "TA70T10502"
@@ -81583,8 +81583,8 @@
         "orig_tc": "東涌站",
         "route": "X1",
         "service_type": "1",
-        "special_remark_en": "Normal",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "TA70T10002",
           "AI70E10002"
@@ -81671,8 +81671,8 @@
         "orig_tc": "機場博覽館",
         "route": "X33",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "AI70E10002",
           "TU70N11502",
@@ -81716,8 +81716,8 @@
         "orig_tc": "機場博覽館",
         "route": "X36",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "AI70E10002",
           "TU70N11002",
@@ -81757,8 +81757,8 @@
         "orig_tc": "機場博覽館",
         "route": "X40",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "AI70E10002",
           "LA70E09502",
@@ -81999,8 +81999,8 @@
         "orig_tc": "機場博覽館",
         "route": "X43",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "AI70E10002",
           "LA70E09502",
@@ -82032,8 +82032,8 @@
         "orig_tc": "機場博覽館",
         "route": "X47",
         "service_type": "1",
-        "special_remark_en": "",
-        "special_remark_tc": "",
+        "special_remark_en": "On Specific Day Only",
+        "special_remark_tc": "指定日期服務",
         "stops": [
           "AI70E10002",
           "LA70E09502",
