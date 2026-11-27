@@ -24226,30 +24226,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Tiu Keng Leng Station",
-        "dest_zh": "調景嶺站",
-        "orig_en": "Fire and Ambulance Services Academy",
-        "orig_zh": "消防及救護學院",
-        "route": "X797",
-        "stops": [
-          "003444",
-          "002917"
-        ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "Fire and Ambulance Services Academy",
-        "dest_zh": "消防及救護學院",
-        "orig_en": "Tiu Keng Leng Station",
-        "orig_zh": "調景嶺站",
-        "route": "X797",
-        "stops": [
-          "002917",
-          "003444"
-        ]
-      },
-      {
         "bound": "O",
         "dest_en": "Siu Sai Wan (Island Resort)",
         "dest_zh": "小西灣 (藍灣半島)",
@@ -73962,38 +73938,6 @@
         ]
       },
       {
-        "bound": "O",
-        "dest_en": "Tung Chung Pier",
-        "dest_tc": "東涌碼頭",
-        "orig_en": "KWAI FONG (SOUTH)",
-        "orig_tc": "葵芳(南)",
-        "route": "E32A",
-        "service_type": "4",
-        "special_remark_en": "Mon-Fri PM peak sp. dept.",
-        "special_remark_tc": "一至五下午繁忙時間特別班次",
-        "stops": [
-          "KW17T10002",
-          "KW01T10102",
-          "KW01N11752",
-          "KW01N12752",
-          "CA07N12752",
-          "CA07N13252",
-          "CA07N17402",
-          "TA03S10502",
-          "TA03S10752",
-          "LA70W11002",
-          "YI70W09002",
-          "WU09E10002",
-          "YI06T10002",
-          "YI06E10252",
-          "MA70W10002",
-          "MA70W10502",
-          "MA70W11002",
-          "WA70N10002",
-          "TU71N10502"
-        ]
-      },
-      {
         "bound": "I",
         "dest_en": "TUEN MUN CENTRAL",
         "dest_tc": "屯門巿中心",
@@ -90874,10 +90818,6 @@
       "003443": {
         "stop_name_en": "Century Link",
         "stop_name_zh": "東環"
-      },
-      "003444": {
-        "stop_name_en": "Fire and Ambulance Services Academy",
-        "stop_name_zh": "消防及救護學院"
       },
       "003445": {
         "stop_name_en": "The Peninsula",
