@@ -3387,18 +3387,6 @@
         ]
       },
       {
-        "bound": "I",
-        "dest_en": "Kai Tak Cruise Terminal",
-        "dest_zh": "啟德郵輪碼頭",
-        "orig_en": "Tsim Sha Tsui / High Speed Rail West Kowloon Station",
-        "orig_zh": "尖沙咀／高鐵西九龍站",
-        "route": "20R",
-        "stops": [
-          "001588",
-          "003519"
-        ]
-      },
-      {
         "bound": "O",
         "dest_en": "Tsim Sha Tsui / High Speed Rail West Kowloon Station",
         "dest_zh": "尖沙咀／高鐵西九龍站",
@@ -3663,18 +3651,6 @@
         "stops": [
           "003519",
           "003587"
-        ]
-      },
-      {
-        "bound": "O",
-        "dest_en": "Kai Tak Cruise Terminal",
-        "dest_zh": "啟德郵輪碼頭",
-        "orig_en": "Kai Tak Station",
-        "orig_zh": "啟德站",
-        "route": "22R",
-        "stops": [
-          "003587",
-          "003519"
         ]
       },
       {
@@ -37047,6 +37023,42 @@
           "TU17S10000",
           "CA07S36500",
           "TU17N16300"
+        ]
+      },
+      {
+        "bound": "I",
+        "dest_en": "TAI PO MARKET STATION",
+        "dest_tc": "大埔墟站",
+        "orig_en": "LAM TSUEN WISHING TREE",
+        "orig_tc": "林村許願樹",
+        "route": "63R",
+        "service_type": "1",
+        "special_remark_en": "On 29 Nov to 4 Dec Only",
+        "special_remark_tc": "於11月29日至12月4日期間提供服務",
+        "stops": [
+          "LA07T10000",
+          "LA07E17000",
+          "PO17E11000",
+          "TA22E10500",
+          "TA10T12500",
+          "TA10T09500"
+        ]
+      },
+      {
+        "bound": "O",
+        "dest_en": "LAM TSUEN WISHING TREE",
+        "dest_tc": "林村許願樹",
+        "orig_en": "TAI PO MARKET STATION",
+        "orig_tc": "大埔墟站",
+        "route": "63R",
+        "service_type": "1",
+        "special_remark_en": "On 29 Nov to 4 Dec Only",
+        "special_remark_tc": "於11月29日至12月4日期間提供服務",
+        "stops": [
+          "TA10T09500",
+          "TA22W06000",
+          "PO17W10000",
+          "LA07T10000"
         ]
       },
       {
@@ -114053,6 +114065,8 @@
         "stop_name_zh": "較寮下"
       },
       "LA07T10000": {
+        "lat": 22.457656,
+        "long": 114.142927,
         "stop_name_en": "LAM TSUEN WISHING TREE",
         "stop_name_wrap_en": "LAM TSUEN|WISHING TREE",
         "stop_name_zh": "林村許願樹"
